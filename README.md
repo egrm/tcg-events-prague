@@ -15,6 +15,17 @@ A GitHub Actions cron job runs every ~6 hours:
 
 A failing store scraper never blocks the others — its last-known data is kept and marked stale on the page.
 
+## Sources
+
+| Source | Method |
+|---|---|
+| Najáda | public JSON API (no per-event pages exist; events link to the schedule page or their Facebook link) |
+| Professor Onyx | weekly schedule scraped from the calendar page, expanded to dated events |
+| PLAYzone Arena (Westfield Chodov) | sitemap → per-event pages (linked per event) |
+| games-hub.gg | tournament lists per game, Prague venues only (linked per event) |
+| Černý Rytíř | pending — new website launched 2026-07-27, scraper to follow |
+| Xzone Lužiny, Herna Butovice, Tomovy hry | listed as venues; schedules are Facebook-only/bot-blocked |
+
 ## Development
 
 ```

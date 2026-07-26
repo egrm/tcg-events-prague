@@ -15,6 +15,23 @@ export const STORES = {
     address: 'Za Poříčskou bránou 21, Praha 8',
     url: 'https://cernyrytir.cz/',
   },
+  playzone: {
+    name: 'Vodafone PLAYzone Arena',
+    address: 'Roztylská 2321/19 (Westfield Chodov), Praha 4',
+    url: 'https://www.playzonearena.cz/kalendar',
+  },
+  butovice: {
+    name: 'Herna Butovice',
+    address: 'Radlická 520/117 (Galerie Butovice), Praha 5',
+    url: 'https://www.facebook.com/hernabutovice',
+    noFeed: 'Schedule only on Facebook (Pokémon, Fridays)',
+  },
+  tomovyhry: {
+    name: 'Tomovy hry (Mephit)',
+    address: 'Arbesovo náměstí 14, Praha 5',
+    url: 'https://www.tomovyhry.cz/',
+    noFeed: 'Pokémon league venue; no machine-readable schedule',
+  },
   xzone: {
     name: 'Xzone TCG Hub (Lužiny)',
     address: 'Archeologická 2256/1, Praha 13',

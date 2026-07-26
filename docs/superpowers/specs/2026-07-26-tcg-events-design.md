@@ -14,7 +14,11 @@ One clean, always-current view of all TCG events (all games) in Prague stores: a
 | Professor Onyx | HTML scrape of `professoronyx.com/kalendar-akci/` (server-rendered) | Pokémon, SWU | ~2–4/week; official Pokémon CZ/SK Liga Prague center |
 | games-hub.gg | HTML/JSON-LD scrape of `seznam_turnaju` per game tab, filtered to Prague venues | Pokémon, FaB, Lorcana, MTG, Riftbound, SWU | Secondary aggregator; dedupe against Najada/Onyx |
 | Černý Rytíř | Stub in v1 — new website launches 2026-07-27; add scraper after relaunch | MTG, Pokémon, others | Shown on site as "schedule pending website relaunch" with link |
+| PLAYzone Arena (Westfield Chodov) | Sitemap → per-event pages; date from meta description ("Karetní hry · <date> v <time>" — body mixes in a similar-events sidebar) | Pokémon (Torédo league), Riftbound | Non-shop esport arena hosting weekly card nights; per-event URLs |
 | Xzone Lužiny | Not scrapable (Facebook-only schedule) | — | Listed as a known venue with FB link, no feed |
+| Herna Butovice, Tomovy hry (Mephit) | Not scrapable (Facebook-only / bot-blocked) | Pokémon | Listed as known venues, no feed |
+
+Per-event URL availability (verified 2026-07-26): Najada has none (no per-tournament routes in SSR payload, probes 404) → events link to the tournaments page, or the event's own `link` field (e.g. Facebook) when set. Onyx has none → calendar page. games-hub and PLAYzone have per-event pages → linked directly. Watchlist, no stable feed: Old Amber pop-ups, TCG Expo (Výstaviště, ~2×/yr), PokéTour (OC Šestka), Torédo e-shop (stub tournament page; their league appears via PLAYzone).
 
 Excluded: Mystic Shop (closed), Rishada (Brno), Black Lotus (Ostrava), Tlama (no TCG), Veselý Drak (occasional fairs only — revisit if they announce in-store events).
 
