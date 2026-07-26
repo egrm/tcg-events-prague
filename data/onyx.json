@@ -1,0 +1,271 @@
+{
+ "status": "ok",
+ "events": [
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-07-27",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-07-27T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-07-27",
+   "title": "Star Wars: Unlimited liga - turnaj",
+   "game": "swu",
+   "storeId": "onyx",
+   "start": "2026-07-27T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "100,-"
+  },
+  {
+   "id": "onyx:pokemon-liga-volne-hrani-2026-07-28",
+   "title": "Pokémon liga - volné hraní",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-07-28T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-07-28T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-07-30",
+   "title": "Riftbound Nexus Night - volné hraní",
+   "game": "riftbound",
+   "storeId": "onyx",
+   "start": "2026-07-30T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-07-30T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:lorcana-weekly-volne-hrani-2026-07-30",
+   "title": "Lorcana Weekly - volné hraní",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-07-30T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-07-30T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-07-31",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-07-31T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-07-31",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-07-31T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-03",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-03T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-08-03",
+   "title": "Star Wars: Unlimited liga - turnaj",
+   "game": "swu",
+   "storeId": "onyx",
+   "start": "2026-08-03T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "100,-"
+  },
+  {
+   "id": "onyx:pokemon-liga-volne-hrani-2026-08-04",
+   "title": "Pokémon liga - volné hraní",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-04T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-04T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-08-06",
+   "title": "Riftbound Nexus Night - volné hraní",
+   "game": "riftbound",
+   "storeId": "onyx",
+   "start": "2026-08-06T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-06T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:lorcana-weekly-volne-hrani-2026-08-06",
+   "title": "Lorcana Weekly - volné hraní",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-08-06T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-06T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-07",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-07T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-08-07",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-08-07T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-10",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-10T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-08-10",
+   "title": "Star Wars: Unlimited liga - turnaj",
+   "game": "swu",
+   "storeId": "onyx",
+   "start": "2026-08-10T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "100,-"
+  },
+  {
+   "id": "onyx:pokemon-liga-volne-hrani-2026-08-11",
+   "title": "Pokémon liga - volné hraní",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-11T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-11T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-08-13",
+   "title": "Riftbound Nexus Night - volné hraní",
+   "game": "riftbound",
+   "storeId": "onyx",
+   "start": "2026-08-13T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-13T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:lorcana-weekly-volne-hrani-2026-08-13",
+   "title": "Lorcana Weekly - volné hraní",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-08-13T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-13T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-14",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-14T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-08-14",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-08-14T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-17",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-17T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-08-17",
+   "title": "Star Wars: Unlimited liga - turnaj",
+   "game": "swu",
+   "storeId": "onyx",
+   "start": "2026-08-17T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "100,-"
+  },
+  {
+   "id": "onyx:pokemon-liga-volne-hrani-2026-08-18",
+   "title": "Pokémon liga - volné hraní",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-18T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-18T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-08-20",
+   "title": "Riftbound Nexus Night - volné hraní",
+   "game": "riftbound",
+   "storeId": "onyx",
+   "start": "2026-08-20T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-20T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:lorcana-weekly-volne-hrani-2026-08-20",
+   "title": "Lorcana Weekly - volné hraní",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-08-20T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-08-20T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-21",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-21T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-08-21",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-08-21T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
+  }
+ ],
+ "fetchedAt": "2026-07-26T10:34:39.816Z",
+ "source": "onyx"
+}

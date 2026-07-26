@@ -7,7 +7,7 @@
   "scripts": {
     "scrape": "node src/scrape.js",
     "build": "node src/build.js",
-    "test": "node --test test/"
+    "test": "node --test"
   },
   "engines": {
     "node": ">=20"

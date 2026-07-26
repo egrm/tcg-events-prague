@@ -25,6 +25,8 @@ export const GAMES = {
   gundam: 'Gundam Card Game',
   digimon: 'Digimon Card Game',
   yugioh: 'Yu-Gi-Oh!',
+  vanguard: 'Cardfight!! Vanguard',
+  dbfw: 'Dragon Ball Fusion World',
   other: 'Other games',
 };
 
@@ -41,5 +43,7 @@ export function canonicalGame(raw) {
   if (/gundam/.test(s)) return 'gundam';
   if (/digimon/.test(s)) return 'digimon';
   if (/yu-?gi-?oh/.test(s)) return 'yugioh';
+  if (/vanguard/.test(s)) return 'vanguard';
+  if (/dragon\s*ball|fusion\s*world|dbfw/.test(s)) return 'dbfw';
   return 'other';
 }
