@@ -1,8 +1,7 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [],
  "stores": {},
- "fetchedAt": "2026-07-26T12:42:28.031Z",
- "source": "gameshub",
- "error": "TypeError: fetch failed"
+ "fetchedAt": "2026-07-26T12:46:34.922Z",
+ "source": "gameshub"
 }
