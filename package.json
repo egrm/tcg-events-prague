@@ -1,0 +1,15 @@
+{
+  "name": "tcg-events-prague",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Aggregated TCG event calendar for Prague game stores",
+  "scripts": {
+    "scrape": "node src/scrape.js",
+    "build": "node src/build.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
