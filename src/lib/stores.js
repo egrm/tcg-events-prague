@@ -15,6 +15,21 @@ export const STORES = {
     address: 'Za Poříčskou bránou 21, Praha 8',
     url: 'https://cernyrytir.cz/',
   },
+  alchymista: {
+    name: 'Cukrárna Alchymista',
+    address: 'Jana Zajíce 7, Praha 7',
+    url: 'https://locator.wizards.com/store/16080',
+  },
+  dracijeskyne: {
+    name: 'Dračí jeskyně',
+    address: 'Bechyňská 640, Praha 18 (Letňany)',
+    url: 'https://locator.wizards.com/store/11743',
+  },
+  grail: {
+    name: 'The Grail',
+    address: 'Viktora Huga 287/5, Praha 5',
+    url: 'https://locator.wizards.com/store/18171',
+  },
   playzone: {
     name: 'Vodafone PLAYzone Arena',
     address: 'Roztylská 2321/19 (Westfield Chodov), Praha 4',
@@ -35,9 +50,14 @@ export const STORES = {
   xzone: {
     name: 'Xzone TCG Hub (Lužiny)',
     address: 'Archeologická 2256/1, Praha 13',
-    url: 'https://www.facebook.com/xzonecz',
-    // No machine-readable schedule: events are announced in Facebook groups.
-    noFeed: 'Schedule only on Facebook',
+    url: 'https://locator.wizards.com/store/17202',
+    // MTG events come via the Wizards locator; other games are Facebook-only.
+    noFeed: 'Non-MTG schedule only on Facebook',
+  },
+  fyft: {
+    name: 'FYFT',
+    address: 'Osadní 774/35, Praha 7',
+    url: 'https://locator.wizards.com/store/21963',
   },
 };
 

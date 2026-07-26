@@ -173,7 +173,7 @@ function renderList() {
     el.className = 'ev';
     const meta = [store.name, e.format, e.price].filter(Boolean).join(' · ');
     el.innerHTML =
-      `<div class="time">${timeFmt.format(new Date(e.start))}</div>` +
+      `<div class="time">${e.allDay ? '—' : timeFmt.format(new Date(e.start))}</div>` +
       `<div class="body"><div class="title"><a href="${e.url}" target="_blank" rel="noopener"></a></div>` +
       `<div class="meta"></div></div>` +
       `<span class="badge" style="--gc:${GAME_COLORS[e.game] || GAME_COLORS.other}"></span>`;
@@ -191,7 +191,9 @@ function renderMeta() {
   const srcEl = document.getElementById('sources');
   for (const [id, s] of Object.entries(DATA.sources)) {
     const store = DATA.stores[SOURCE_STORE[id]] || null;
-    const name = store ? store.name : (id === 'gameshub' ? 'games-hub.gg (community tournaments)' : id);
+    const name = store ? store.name :
+      (id === 'gameshub' ? 'games-hub.gg (community tournaments)' :
+       id === 'wizards' ? 'Wizards event locator (WPN stores)' : id);
     const cls = { ok: 'ok', suspect: 'warn', error: 'err', pending: 'pend' }[s.status] || 'warn';
     const note = s.status === 'ok' ? `updated ${fmtRel(s.fetchedAt)}` :
       s.status === 'pending' ? (s.note || 'pending') :

@@ -1,7 +1,7 @@
 {
  "status": "pending",
- "note": "New website launching 2026-07-27; scraper to be added",
+ "note": "New website launching 2026-07-27; scraper to be added (MTG events meanwhile come via the Wizards locator)",
  "events": [],
- "fetchedAt": "2026-07-26T10:59:57.398Z",
+ "fetchedAt": "2026-07-26T12:42:28.032Z",
  "source": "cernyrytir"
 }

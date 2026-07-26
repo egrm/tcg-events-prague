@@ -79,8 +79,10 @@ export function buildIcs(events, { name, stores, now }) {
       'BEGIN:VEVENT',
       `UID:${escapeText(ev.id)}@tcg-events-prague`,
       `DTSTAMP:${stamp}`,
-      `DTSTART;TZID=Europe/Prague:${icsLocal(ev.start)}`,
-      ...(ev.end ? [`DTEND;TZID=Europe/Prague:${icsLocal(ev.end)}`] : []),
+      ...(ev.allDay
+        ? [`DTSTART;VALUE=DATE:${icsLocal(ev.start).slice(0, 8)}`]
+        : [`DTSTART;TZID=Europe/Prague:${icsLocal(ev.start)}`,
+           ...(ev.end ? [`DTEND;TZID=Europe/Prague:${icsLocal(ev.end)}`] : [])]),
       `SUMMARY:${escapeText(`${ev.title} @ ${store.name}`)}`,
       `LOCATION:${escapeText(store.address || store.name)}`,
       `DESCRIPTION:${escapeText(desc)}`,

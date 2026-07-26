@@ -23,8 +23,9 @@ A failing store scraper never blocks the others — its last-known data is kept 
 | Professor Onyx | weekly schedule scraped from the calendar page, expanded to dated events |
 | PLAYzone Arena (Westfield Chodov) | sitemap → per-event pages (linked per event) |
 | games-hub.gg | tournament lists per game, Prague venues only (linked per event) |
-| Černý Rytíř | pending — new website launched 2026-07-27, scraper to follow |
-| Xzone Lužiny, Herna Butovice, Tomovy hry | listed as venues; schedules are Facebook-only/bot-blocked |
+| Wizards event locator | server-rendered search pages; all Prague WPN stores' MTG events with per-event deep links (covers Černý Rytíř, Cukrárna Alchymista, The Grail, Dračí jeskyně, Xzone Lužiny, FYFT; Najada skipped — its API is richer) |
+| Černý Rytíř | pending — new website launched 2026-07-27, scraper to follow; MTG events meanwhile come via the locator |
+| Herna Butovice, Tomovy hry | listed as venues; schedules are Facebook-only/bot-blocked (Xzone's non-MTG events likewise) |
 
 ## Development
 

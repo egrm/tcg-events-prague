@@ -4,12 +4,13 @@ import { scrapeOnyx } from './scrapers/onyx.js';
 import { scrapeGamesHub } from './scrapers/gameshub.js';
 import { scrapeCernyRytir } from './scrapers/cernyrytir.js';
 import { scrapePlayzone } from './scrapers/playzone.js';
+import { scrapeWizards } from './scrapers/wizards.js';
 
 const DATA_DIR = new URL('../data/', import.meta.url);
 
 // A source that "succeeds" with far fewer events than usual most likely
 // broke silently (page structure change) — keep its previous data instead.
-const SUSPECT_MIN = { najada: 5, onyx: 2, gameshub: 0, cernyrytir: 0, playzone: 0 };
+const SUSPECT_MIN = { najada: 5, onyx: 2, gameshub: 0, cernyrytir: 0, playzone: 0, wizards: 3 };
 
 const SOURCES = {
   najada: async () => ({ events: await scrapeNajada() }),
@@ -17,6 +18,7 @@ const SOURCES = {
   gameshub: () => scrapeGamesHub(),
   cernyrytir: () => scrapeCernyRytir(),
   playzone: async () => ({ events: await scrapePlayzone() }),
+  wizards: () => scrapeWizards(),
 };
 
 async function readPrevious(id) {

@@ -5,5 +5,5 @@
  * scraper once the new site is up.
  */
 export async function scrapeCernyRytir() {
-  return { events: [], pending: 'New website launching 2026-07-27; scraper to be added' };
+  return { events: [], pending: 'New website launching 2026-07-27; scraper to be added (MTG events meanwhile come via the Wizards locator)' };
 }
