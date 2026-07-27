@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "najada:7857",
@@ -2633,5 +2633,6 @@
   }
  ],
  "fetchedAt": "2026-07-26T19:39:59.597Z",
- "source": "najada"
+ "source": "najada",
+ "error": "TimeoutError: The operation was aborted due to timeout"
 }
