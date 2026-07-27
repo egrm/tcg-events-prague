@@ -2,13 +2,20 @@
  "status": "ok",
  "events": [
   {
+   "id": "wizards:11482917",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482917",
+   "start": "2026-07-27T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215800",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215800",
-   "start": "2026-07-27T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-07-27T16:00:00+02:00"
   },
   {
    "id": "wizards:10987701",
@@ -17,6 +24,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=10987701",
    "start": "2026-07-27T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482101",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482101",
+   "start": "2026-07-27T17:15:00+02:00"
   },
   {
    "id": "wizards:11446285",
@@ -54,14 +69,21 @@
    "start": "2026-07-28T17:30:00+02:00"
   },
   {
+   "id": "wizards:11482118",
+   "title": "free pauper",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482118",
+   "start": "2026-07-28T17:45:00+02:00"
+  },
+  {
    "id": "wizards:10758311",
    "title": "Duel Commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=10758311",
    "price": "CZK 200",
-   "start": "2026-07-29T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-07-28T18:00:00+02:00"
   },
   {
    "id": "wizards:11446322",
@@ -106,6 +128,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298740",
    "start": "2026-07-31T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483016",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483016",
+   "start": "2026-07-31T16:00:00+02:00"
   },
   {
    "id": "wizards:11008304",
@@ -187,12 +217,20 @@
    "start": "2026-08-02T12:00:00+02:00"
   },
   {
+   "id": "wizards:11482989",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482989",
+   "start": "2026-08-03T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215801",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215801",
-   "start": "2026-08-02T12:00:00+02:00"
+   "start": "2026-08-03T16:00:00+02:00"
   },
   {
    "id": "wizards:11386291",
@@ -201,6 +239,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386291",
    "start": "2026-08-03T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482102",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482102",
+   "start": "2026-08-03T17:15:00+02:00"
   },
   {
    "id": "wizards:11249617",
@@ -227,6 +273,32 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298637",
    "price": "CZK 100",
    "start": "2026-08-04T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482128",
+   "title": "free premodern",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482128",
+   "start": "2026-08-04T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11483032",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483032",
+   "price": "$100",
+   "start": "2026-08-05T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482140",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482140",
+   "price": "CZK 200",
+   "start": "2026-08-05T17:00:00+02:00"
   },
   {
    "id": "wizards:11298650",
@@ -269,6 +341,14 @@
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298741",
+   "start": "2026-08-07T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483017",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483017",
    "start": "2026-08-07T14:00:00+02:00"
   },
   {
@@ -429,12 +509,20 @@
    "start": "2026-08-09T15:30:00+02:00"
   },
   {
+   "id": "wizards:11482990",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482990",
+   "start": "2026-08-10T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215802",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215802",
-   "start": "2026-08-09T16:30:00+02:00"
+   "start": "2026-08-10T16:00:00+02:00"
   },
   {
    "id": "wizards:11386293",
@@ -453,6 +541,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11103344",
    "price": "CZK 850",
    "start": "2026-08-10T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482103",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482103",
+   "start": "2026-08-10T17:15:00+02:00"
   },
   {
    "id": "wizards:11249618",
@@ -481,13 +577,30 @@
    "start": "2026-08-11T17:30:00+02:00"
   },
   {
+   "id": "wizards:11482119",
+   "title": "free pauper",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482119",
+   "start": "2026-08-11T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11482141",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482141",
+   "price": "CZK 200",
+   "start": "2026-08-11T18:00:00+02:00"
+  },
+  {
    "id": "wizards:11396216",
    "title": "Magic - Hobit Prerelease Prerelease",
    "game": "mtg",
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11396216",
    "price": "CZK 900",
-   "start": "2026-08-11T18:00:00+02:00"
+   "start": "2026-08-12T17:30:00+02:00"
   },
   {
    "id": "wizards:11298651",
@@ -524,6 +637,14 @@
    "start": "2026-08-14T14:00:00+02:00"
   },
   {
+   "id": "wizards:11483018",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483018",
+   "start": "2026-08-14T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11386310",
    "title": "Friday NIght Magic - cEDH",
    "game": "mtg",
@@ -531,6 +652,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386310",
    "price": "CZK 50",
    "start": "2026-08-14T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482182",
+   "title": "fnm draft",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482182",
+   "price": "CZK 500",
+   "start": "2026-08-14T17:15:00+02:00"
   },
   {
    "id": "wizards:11298778",
@@ -560,12 +690,20 @@
    "start": "2026-08-16T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482991",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482991",
+   "start": "2026-08-17T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215803",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215803",
-   "start": "2026-08-16T11:00:00+02:00"
+   "start": "2026-08-17T16:00:00+02:00"
   },
   {
    "id": "wizards:11386295",
@@ -574,6 +712,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386295",
    "start": "2026-08-17T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482104",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482104",
+   "start": "2026-08-17T17:15:00+02:00"
   },
   {
    "id": "wizards:11249619",
@@ -593,12 +739,38 @@
    "start": "2026-08-18T17:00:00+02:00"
   },
   {
+   "id": "wizards:11482129",
+   "title": "free premodern",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482129",
+   "start": "2026-08-18T17:45:00+02:00"
+  },
+  {
    "id": "wizards:11298455",
    "title": "[][][][][]_hbt DRF",
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298455",
    "start": "2026-08-18T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483033",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483033",
+   "price": "$100",
+   "start": "2026-08-19T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482142",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482142",
+   "price": "CZK 200",
+   "start": "2026-08-19T17:00:00+02:00"
   },
   {
    "id": "wizards:11298652",
@@ -608,6 +780,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298652",
    "price": "CZK 100",
    "start": "2026-08-19T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482207",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482207",
+   "start": "2026-08-20T16:00:00+02:00"
   },
   {
    "id": "wizards:11147624",
@@ -625,6 +805,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298743",
    "start": "2026-08-21T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483019",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483019",
+   "start": "2026-08-21T16:00:00+02:00"
   },
   {
    "id": "wizards:11386311",
@@ -654,6 +842,15 @@
    "start": "2026-08-21T18:00:00+02:00"
   },
   {
+   "id": "wizards:11482255",
+   "title": "GRAND DUEL COMMANDER",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482255",
+   "price": "CZK 300",
+   "start": "2026-08-22T11:00:00+02:00"
+  },
+  {
    "id": "wizards:11298729",
    "title": "Duel Commander",
    "game": "mtg",
@@ -680,12 +877,20 @@
    "start": "2026-08-23T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482992",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482992",
+   "start": "2026-08-24T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215804",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215804",
-   "start": "2026-08-23T11:00:00+02:00"
+   "start": "2026-08-24T16:00:00+02:00"
   },
   {
    "id": "wizards:11386297",
@@ -694,6 +899,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386297",
    "start": "2026-08-24T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482105",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482105",
+   "start": "2026-08-24T17:15:00+02:00"
   },
   {
    "id": "wizards:11249620",
@@ -713,6 +926,23 @@
    "start": "2026-08-25T17:00:00+02:00"
   },
   {
+   "id": "wizards:11482120",
+   "title": "free pauper",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482120",
+   "start": "2026-08-25T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11482143",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482143",
+   "price": "CZK 200",
+   "start": "2026-08-25T18:00:00+02:00"
+  },
+  {
    "id": "wizards:11298653",
    "title": "Pauper",
    "game": "mtg",
@@ -720,6 +950,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298653",
    "price": "CZK 100",
    "start": "2026-08-26T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482208",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482208",
+   "start": "2026-08-27T16:00:00+02:00"
   },
   {
    "id": "wizards:11147626",
@@ -737,6 +975,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298744",
    "start": "2026-08-28T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483020",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483020",
+   "start": "2026-08-28T16:00:00+02:00"
   },
   {
    "id": "wizards:11386312",
@@ -775,12 +1021,20 @@
    "start": "2026-08-30T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482993",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482993",
+   "start": "2026-08-31T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215805",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215805",
-   "start": "2026-08-30T11:00:00+02:00"
+   "start": "2026-08-31T16:00:00+02:00"
   },
   {
    "id": "wizards:11386299",
@@ -789,6 +1043,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386299",
    "start": "2026-08-31T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482106",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482106",
+   "start": "2026-08-31T17:15:00+02:00"
   },
   {
    "id": "wizards:11249621",
@@ -808,6 +1070,32 @@
    "start": "2026-09-01T17:00:00+02:00"
   },
   {
+   "id": "wizards:11482130",
+   "title": "free premodern",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482130",
+   "start": "2026-09-01T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11483034",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483034",
+   "price": "$100",
+   "start": "2026-09-02T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482144",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482144",
+   "price": "CZK 200",
+   "start": "2026-09-02T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11298654",
    "title": "Pauper",
    "game": "mtg",
@@ -815,6 +1103,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298654",
    "price": "CZK 100",
    "start": "2026-09-02T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482209",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482209",
+   "start": "2026-09-03T16:00:00+02:00"
   },
   {
    "id": "wizards:11147629",
@@ -832,6 +1128,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298745",
    "start": "2026-09-04T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483021",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483021",
+   "start": "2026-09-04T16:00:00+02:00"
   },
   {
    "id": "wizards:11386313",
@@ -887,12 +1191,20 @@
    "start": "2026-09-06T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482994",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482994",
+   "start": "2026-09-07T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215806",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215806",
-   "start": "2026-09-06T11:00:00+02:00"
+   "start": "2026-09-07T16:00:00+02:00"
   },
   {
    "id": "wizards:11386301",
@@ -901,6 +1213,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386301",
    "start": "2026-09-07T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482107",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482107",
+   "start": "2026-09-07T17:15:00+02:00"
   },
   {
    "id": "wizards:11249622",
@@ -920,6 +1240,23 @@
    "start": "2026-09-08T17:00:00+02:00"
   },
   {
+   "id": "wizards:11482121",
+   "title": "free pauper",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482121",
+   "start": "2026-09-08T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11482145",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482145",
+   "price": "CZK 200",
+   "start": "2026-09-08T18:00:00+02:00"
+  },
+  {
    "id": "wizards:11298655",
    "title": "Pauper",
    "game": "mtg",
@@ -927,6 +1264,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298655",
    "price": "CZK 100",
    "start": "2026-09-09T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482210",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482210",
+   "start": "2026-09-10T16:00:00+02:00"
   },
   {
    "id": "wizards:11147631",
@@ -944,6 +1289,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298746",
    "start": "2026-09-11T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483022",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483022",
+   "start": "2026-09-11T16:00:00+02:00"
   },
   {
    "id": "wizards:11386314",
@@ -982,12 +1335,20 @@
    "start": "2026-09-13T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482995",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482995",
+   "start": "2026-09-14T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215807",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215807",
-   "start": "2026-09-13T11:00:00+02:00"
+   "start": "2026-09-14T16:00:00+02:00"
   },
   {
    "id": "wizards:11386303",
@@ -996,6 +1357,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386303",
    "start": "2026-09-14T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482108",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482108",
+   "start": "2026-09-14T17:15:00+02:00"
   },
   {
    "id": "wizards:11249623",
@@ -1015,6 +1384,32 @@
    "start": "2026-09-15T17:00:00+02:00"
   },
   {
+   "id": "wizards:11482131",
+   "title": "free premodern",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482131",
+   "start": "2026-09-15T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11483035",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483035",
+   "price": "$100",
+   "start": "2026-09-16T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482146",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482146",
+   "price": "CZK 200",
+   "start": "2026-09-16T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11298656",
    "title": "Pauper",
    "game": "mtg",
@@ -1022,6 +1417,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298656",
    "price": "CZK 100",
    "start": "2026-09-16T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482211",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482211",
+   "start": "2026-09-17T16:00:00+02:00"
   },
   {
    "id": "wizards:11147634",
@@ -1039,6 +1442,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298747",
    "start": "2026-09-18T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483023",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483023",
+   "start": "2026-09-18T16:00:00+02:00"
   },
   {
    "id": "wizards:11386315",
@@ -1085,12 +1496,21 @@
    "start": "2026-09-20T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482996",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482996",
+   "start": "2026-09-21T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11215808",
    "title": "STANDARD",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215808",
-   "start": "2026-09-21T17:00:00+02:00"
+   "start": "2026-09-21T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11386305",
@@ -1099,6 +1519,14 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386305",
    "start": "2026-09-21T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482109",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482109",
+   "start": "2026-09-21T17:15:00+02:00"
   },
   {
    "id": "wizards:11249624",
@@ -1118,6 +1546,24 @@
    "start": "2026-09-22T17:00:00+02:00"
   },
   {
+   "id": "wizards:11482122",
+   "title": "free pauper",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482122",
+   "start": "2026-09-22T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11482147",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
+   "price": "CZK 200",
+   "start": "2026-09-23T00:00:00+02:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11298657",
    "title": "Pauper",
    "game": "mtg",
@@ -1125,6 +1571,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298657",
    "price": "CZK 100",
    "start": "2026-09-23T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482212",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482212",
+   "start": "2026-09-24T16:00:00+02:00"
   },
   {
    "id": "wizards:11147636",
@@ -1142,6 +1596,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298748",
    "start": "2026-09-25T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483024",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483024",
+   "start": "2026-09-25T16:00:00+02:00"
   },
   {
    "id": "wizards:11386316",
@@ -1180,12 +1642,28 @@
    "start": "2026-09-27T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482997",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482997",
+   "start": "2026-09-28T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11386307",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386307",
    "start": "2026-09-28T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482110",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482110",
+   "start": "2026-09-28T17:15:00+02:00"
   },
   {
    "id": "wizards:11249625",
@@ -1197,6 +1675,32 @@
    "start": "2026-09-28T22:00:00+02:00"
   },
   {
+   "id": "wizards:11482132",
+   "title": "free premodern",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482132",
+   "start": "2026-09-29T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11483036",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483036",
+   "price": "$100",
+   "start": "2026-09-30T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482148",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
+   "price": "CZK 200",
+   "start": "2026-09-30T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11298658",
    "title": "Pauper",
    "game": "mtg",
@@ -1204,6 +1708,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298658",
    "price": "CZK 100",
    "start": "2026-09-30T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482213",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482213",
+   "start": "2026-10-01T16:00:00+02:00"
   },
   {
    "id": "wizards:11147639",
@@ -1221,6 +1733,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298749",
    "start": "2026-10-02T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483025",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483025",
+   "start": "2026-10-02T16:00:00+02:00"
   },
   {
    "id": "wizards:11298785",
@@ -1250,6 +1770,47 @@
    "start": "2026-10-04T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482998",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482998",
+   "start": "2026-10-05T16:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482111",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482111",
+   "start": "2026-10-05T17:15:00+02:00"
+  },
+  {
+   "id": "wizards:11482123",
+   "title": "free pauper",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482123",
+   "start": "2026-10-06T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11482149",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482149",
+   "price": "CZK 200",
+   "start": "2026-10-07T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482214",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482214",
+   "start": "2026-10-08T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11147641",
    "title": "supersweet Standard Showdown",
    "game": "mtg",
@@ -1265,6 +1826,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298750",
    "start": "2026-10-09T14:00:00+02:00"
+  },
+  {
+   "id": "wizards:11483026",
+   "title": "Standard free",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483026",
+   "start": "2026-10-09T16:00:00+02:00"
   },
   {
    "id": "wizards:11298786",
@@ -1285,6 +1854,56 @@
    "start": "2026-10-11T11:00:00+02:00"
   },
   {
+   "id": "wizards:11482999",
+   "title": "Pondělní Pauper",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
+   "start": "2026-10-12T16:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482112",
+   "title": "30$ Value Vintage",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482112",
+   "start": "2026-10-12T17:15:00+02:00"
+  },
+  {
+   "id": "wizards:11482133",
+   "title": "free premodern",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482133",
+   "start": "2026-10-13T17:45:00+02:00"
+  },
+  {
+   "id": "wizards:11483037",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483037",
+   "price": "$100",
+   "start": "2026-10-14T17:00:00+02:00"
+  },
+  {
+   "id": "wizards:11482150",
+   "title": "duel commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482150",
+   "price": "CZK 200",
+   "start": "2026-10-14T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11482215",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482215",
+   "start": "2026-10-15T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11147644",
    "title": "supersweet Standard Showdown",
    "game": "mtg",
@@ -1292,61 +1911,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11147644",
    "price": "CZK 50",
    "start": "2026-10-15T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:11298751",
-   "title": "EDH Commander Volné Hraní",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298751",
-   "start": "2026-10-16T14:00:00+02:00"
-  },
-  {
-   "id": "wizards:11298787",
-   "title": "Friday Night Magic Vintage Cube Draft",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298787",
-   "price": "CZK 150",
-   "start": "2026-10-16T18:00:00+02:00"
-  },
-  {
-   "id": "wizards:11298698",
-   "title": "Standard",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298698",
-   "price": "CZK 150",
-   "start": "2026-10-18T11:00:00+02:00"
-  },
-  {
-   "id": "wizards:11147645",
-   "title": "supersweet Standard Showdown",
-   "game": "mtg",
-   "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11147645",
-   "price": "CZK 50",
-   "start": "2026-10-22T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:11298752",
-   "title": "EDH Commander Volné Hraní",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298752",
-   "start": "2026-10-23T14:00:00+02:00"
-  },
-  {
-   "id": "wizards:11298788",
-   "title": "Friday Night Magic Vintage Cube Draft",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298788",
-   "price": "CZK 150",
-   "start": "2026-10-23T18:00:00+02:00"
   }
  ],
- "stores": {},
- "fetchedAt": "2026-07-27T04:11:11.906Z",
+ "stores": {
+  "wpn-15472": {
+   "name": "Alola",
+   "address": "Prague area (see store page)",
+   "url": "https://locator.wizards.com/store/15472"
+  }
+ },
+ "fetchedAt": "2026-07-27T10:14:25.577Z",
  "source": "wizards"
 }

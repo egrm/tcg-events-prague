@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "najada:7857",
@@ -1072,36 +1072,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8047",
-   "title": "Dragon Ball Super: Fusion World - Store Tournament",
-   "game": "dbfw",
-   "storeId": "najada",
-   "start": "2026-07-26T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed DBFW",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8051",
-   "title": "DBS: Fusion World – Ultimate Battle 2026 Vol.3",
-   "game": "dbfw",
-   "storeId": "najada",
-   "start": "2026-07-26T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed DBFW",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8052",
-   "title": "VGE \"Premium\" July 2026 Shop Tournament",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-07-26T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Premium CV",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8053",
    "title": "Gundam Card Game: Freedom Ascension - Release Event",
    "game": "gundam",
@@ -2102,16 +2072,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8193",
-   "title": "Najáda Commander Party",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-07-26T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8194",
    "title": "Magic Presents: Heart of the Mountain Commander Party",
    "game": "mtg",
@@ -2630,9 +2590,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8250",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-10-26T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8251",
+   "title": "Legačka",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-26T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8252",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-10-26T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8253",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-10-26T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-07-26T19:39:59.597Z",
- "source": "najada",
- "error": "TimeoutError: The operation was aborted due to timeout"
+ "fetchedAt": "2026-07-27T10:13:10.771Z",
+ "source": "najada"
 }
