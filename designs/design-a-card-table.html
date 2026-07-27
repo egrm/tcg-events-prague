@@ -1,0 +1,485 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design A — Card Table</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@500;700&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root { --felt:#17352B; --felt2:#0F271F; --paper:#F5EBD8; --ink:#241E14; --dim:#6E6250; --gold:#C6A15B; }
+  * { box-sizing:border-box; } body { margin:0; background:radial-gradient(120% 90% at 50% 0%, var(--felt) 0%, var(--felt2) 78%); color:var(--paper); font:16px/1.5 "Alegreya Sans",sans-serif; }
+  .wrap { max-width:1020px; margin:0 auto; padding:34px 20px 80px; }
+  h1 { font:700 clamp(2.4rem,6vw,3.6rem)/1 "Grenze Gotisch",serif; margin:0; letter-spacing:.01em; }
+  h1 em { font-style:normal; color:var(--gold); }
+  .sub { color:#BFD4C4; margin:8px 0 4px; font-size:.95rem; }
+  .filters { display:flex; flex-wrap:wrap; gap:8px; margin:22px 0 6px; }
+  .chip { border:1px solid rgba(245,235,216,.35); color:var(--paper); background:transparent; border-radius:999px; padding:5px 14px; font-size:.85rem; cursor:pointer; font-family:inherit; }
+  .chip.on { background:var(--gold); border-color:var(--gold); color:#241E14; font-weight:700; }
+  .day { margin-top:34px; }
+  .day-h { display:flex; align-items:baseline; gap:14px; border-bottom:1px solid rgba(198,161,91,.4); padding-bottom:6px; margin-bottom:16px; }
+  .wd { font:500 1.5rem/1 "Grenze Gotisch",serif; color:var(--gold); }
+  .dt { color:#BFD4C4; font-size:.9rem; }
+  .cards { display:grid; grid-template-columns:repeat(auto-fill,minmax(230px,1fr)); gap:14px; }
+  .card { display:flex; flex-direction:column; gap:8px; background:var(--paper); color:var(--ink); text-decoration:none;
+    border-radius:11px; padding:12px 13px 11px; border:3px solid var(--g); box-shadow:0 2px 0 rgba(0,0,0,.35), 0 10px 22px -12px rgba(0,0,0,.6);
+    transition:transform .15s ease, box-shadow .15s ease; }
+  .card:hover { transform:translateY(-3px) rotate(-.4deg); box-shadow:0 4px 0 rgba(0,0,0,.35), 0 16px 28px -12px rgba(0,0,0,.65); }
+  .card-top { display:flex; justify-content:space-between; align-items:center; }
+  .game { font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:#fff; background:var(--g); padding:2px 8px; border-radius:4px; }
+  .t { font-weight:700; font-variant-numeric:tabular-nums; }
+  .card h3 { margin:0; font:500 1.12rem/1.25 "Grenze Gotisch",serif; }
+  .card-bot { margin-top:auto; display:flex; justify-content:space-between; color:var(--dim); font-size:.85rem; }
+  .price { font-weight:700; }
+  footer { margin-top:60px; color:#BFD4C4; font-size:.85rem; border-top:1px solid rgba(198,161,91,.4); padding-top:14px; }
+  footer a { color:var(--gold); }
+  @media (prefers-reduced-motion: reduce){ .card{transition:none} }
+</style></head><body><div class="wrap">
+  <h1>Prague <em>TCG</em> Events</h1>
+  <p class="sub">76 events on the table · next 10 days · last refreshed today</p>
+  <div class="filters"><button class="chip on">All games</button><button class="chip">Dragon Ball Fusion World (2)</button><button class="chip">Magic: The Gathering (35)</button><button class="chip">Pokémon TCG (10)</button><button class="chip">Star Wars: Unlimited (4)</button><button class="chip">Flesh and Blood (2)</button><button class="chip">Yu-Gi-Oh! (2)</button><button class="chip">One Piece Card Game (2)</button><button class="chip">Disney Lorcana (8)</button><button class="chip">Other games (4)</button><button class="chip">Riftbound (5)</button><button class="chip">Cardfight!! Vanguard (2)</button></div>
+  
+    <section class="day">
+      <header class="day-h"><span class="wd">Sunday</span><span class="dt">Sun 26 Jul</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#B98A2B">
+          <div class="card-top"><span class="game">Dragon Ball Fusion World</span><span class="t">15:00</span></div>
+          <h3>Dragon Ball Super: Fusion World - Store Tournament</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">200 Kč</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Monday</span><span class="dt">Mon 27 Jul</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11215800" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">—</span></div>
+          <h3>STANDARD</h3>
+          <div class="card-bot"><span>Černý Rytíř</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=10987701" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:00</span></div>
+          <h3>Commander Evening at The Grail</h3>
+          <div class="card-bot"><span>The Grail</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:30</span></div>
+          <h3>Pokémon turnaj - Standard</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">150,-</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#3F6FA0">
+          <div class="card-top"><span class="game">Star Wars: Unlimited</span><span class="t">17:30</span></div>
+          <h3>Star Wars: Unlimited liga - turnaj</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">100,-</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#8E3B2F">
+          <div class="card-top"><span class="game">Flesh and Blood</span><span class="t">17:45</span></div>
+          <h3>Armory Event - Constructed</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Legačka</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#6C4FA3">
+          <div class="card-top"><span class="game">Yu-Gi-Oh!</span><span class="t">18:00</span></div>
+          <h3>Monday Yu-Gi-Oh! tournament/Free play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11446285" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Tarkir DragonStorm</h3>
+          <div class="card-bot"><span>Cukrárna Alchymista</span><span class="price">CZK 350</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#B0393F">
+          <div class="card-top"><span class="game">One Piece Card Game</span><span class="t">18:15</span></div>
+          <h3>Store Tournament</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11249616" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">22:00</span></div>
+          <h3>b2b Commander draft</h3>
+          <div class="card-bot"><span>Cukrárna Alchymista</span><span class="price">CZK 400</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Tuesday</span><span class="dt">Tue 28 Jul</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:00</span></div>
+          <h3>Pokémon liga - volné hraní</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">Zdarma</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=10987702" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:00</span></div>
+          <h3>Commander Evening at The Grail</h3>
+          <div class="card-bot"><span>The Grail</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Draft Marvel Super Heroes</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">400 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298636" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Modern</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 100</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Free Standard</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Wednesday</span><span class="dt">Wed 29 Jul</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=10758311" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">—</span></div>
+          <h3>Duel Commander</h3>
+          <div class="card-bot"><span>Černý Rytíř</span><span class="price">CZK 200</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11446322" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">—</span></div>
+          <h3>Xzone OC Lužiny Draft - Modern Horizons 3</h3>
+          <div class="card-bot"><span>Xzone TCG Hub (Lužiny)</span><span class="price">CZK 550</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">15:00</span></div>
+          <h3>Lorcana Free play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">15:00</span></div>
+          <h3>Pokémon League</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#6E6A5E">
+          <div class="card-top"><span class="game">Other games</span><span class="t">16:00</span></div>
+          <h3>Conquest casual play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:30</span></div>
+          <h3>Pokémon Competitive League</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">130 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298649" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Pauper</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 100</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">18:00</span></div>
+          <h3>Lorcana League</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Thursday</span><span class="dt">Thu 30 Jul</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=10955486" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">13:00</span></div>
+          <h3>CASUAL COMMANDER</h3>
+          <div class="card-bot"><span>Černý Rytíř</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#2E7F74">
+          <div class="card-top"><span class="game">Riftbound</span><span class="t">16:00</span></div>
+          <h3>Riftbound Nexus Night - volné hraní</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">Zdarma</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">16:00</span></div>
+          <h3>Lorcana Weekly - volné hraní</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">Zdarma</span></div>
+        </a>
+        <a class="card" href="https://www.playzonearena.cz/akce/2026-06-29-riftbound-nexus-night-4" style="--g:#2E7F74">
+          <div class="card-top"><span class="game">Riftbound</span><span class="t">17:00</span></div>
+          <h3>Riftbound Nexus Night</h3>
+          <div class="card-bot"><span>Vodafone PLAYzone Arena</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=10940448" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:00</span></div>
+          <h3>supersweet Standard Showdown</h3>
+          <div class="card-bot"><span>Cukrárna Alchymista</span><span class="price">CZK 50</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Modern</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">150 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#2F8467">
+          <div class="card-top"><span class="game">Cardfight!! Vanguard</span><span class="t">17:30</span></div>
+          <h3>Weekly Vanguard</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.playzonearena.cz/akce/2026-06-29-pokemon-league-od-toredo-3" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:30</span></div>
+          <h3>Pokémon League od Torédo</h3>
+          <div class="card-bot"><span>Vodafone PLAYzone Arena</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Premodern</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Friday</span><span class="dt">Fri 31 Jul</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298740" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">14:00</span></div>
+          <h3>EDH Commander Volné Hraní</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#6E6A5E">
+          <div class="card-top"><span class="game">Other games</span><span class="t">14:30</span></div>
+          <h3>Beyblade X: Casual play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11008304" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:00</span></div>
+          <h3>Friday NIght Magic - cEDH</h3>
+          <div class="card-bot"><span>The Grail</span><span class="price">CZK 50</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11215785" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:15</span></div>
+          <h3>FNM DRAFT</h3>
+          <div class="card-bot"><span>Černý Rytíř</span><span class="price">CZK 400</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#3F6FA0">
+          <div class="card-top"><span class="game">Star Wars: Unlimited</span><span class="t">17:30</span></div>
+          <h3>Star Wars: Unlimited</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:30</span></div>
+          <h3>Pokémon turnaj - Standard</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">150,-</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">17:30</span></div>
+          <h3>Lorcana Draft</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">600,-</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#2E7F74">
+          <div class="card-top"><span class="game">Riftbound</span><span class="t">18:00</span></div>
+          <h3>Nexus Night</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">150 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#6E6A5E">
+          <div class="card-top"><span class="game">Other games</span><span class="t">18:00</span></div>
+          <h3>Dračí Hlídka</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298776" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Friday Night Magic Vintage Cube Draft</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 150</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11083152" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Marvel Super Heroes Commander Party</h3>
+          <div class="card-bot"><span>Černý Rytíř</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Saturday</span><span class="dt">Sat 1 Aug</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.riftbound.uvsgames.com/events/769925" style="--g:#2E7F74">
+          <div class="card-top"><span class="game">Riftbound</span><span class="t">10:00</span></div>
+          <h3>Riftbound: Vendetta Sealed</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">700 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11254052" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">10:00</span></div>
+          <h3>CDC League – Xzone Praha</h3>
+          <div class="card-bot"><span>Xzone TCG Hub (Lužiny)</span><span class="price">CZK 650</span></div>
+        </a>
+        <a class="card" href="https://melee.gg/Tournament/View/442380" style="--g:#3F6FA0">
+          <div class="card-top"><span class="game">Star Wars: Unlimited</span><span class="t">11:00</span></div>
+          <h3>Ashes of the Empire Store Showdown - Sealed deck</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">700 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298726" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">14:00</span></div>
+          <h3>Duel Commander</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 100</span></div>
+        </a>
+        <a class="card" href="https://locator.riftbound.uvsgames.com/events/769946" style="--g:#2E7F74">
+          <div class="card-top"><span class="game">Riftbound</span><span class="t">15:00</span></div>
+          <h3>Riftbound: Vendetta Sealed</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">700 Kč</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Sunday</span><span class="dt">Sun 2 Aug</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11351978" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">10:00</span></div>
+          <h3>Companion cEDH</h3>
+          <div class="card-bot"><span>Černý Rytíř</span><span class="price">CZK 400</span></div>
+        </a>
+        <a class="card" href="https://tcg.ravensburgerplay.com/events/729631" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">10:30</span></div>
+          <h3>Infinity Wilds Unknown Small Championship</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">300 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#2F8467">
+          <div class="card-top"><span class="game">Cardfight!! Vanguard</span><span class="t">11:00</span></div>
+          <h3>Vanguard Day</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">200 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#B98A2B">
+          <div class="card-top"><span class="game">Dragon Ball Fusion World</span><span class="t">11:00</span></div>
+          <h3>Dragon Ball Super: Fusion World - Store Tournament</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">200 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298737" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">11:00</span></div>
+          <h3>Pioneer</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 150</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11077093" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">12:00</span></div>
+          <h3>Commander Party 2</h3>
+          <div class="card-bot"><span>Xzone TCG Hub (Lužiny)</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11215801" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">12:00</span></div>
+          <h3>STANDARD</h3>
+          <div class="card-bot"><span>Černý Rytíř</span></div>
+        </a>
+        <a class="card" href="https://tcg.ravensburgerplay.com/events/729639" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">15:00</span></div>
+          <h3>Wilds Unknown Sealed</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">900 Kč</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Monday</span><span class="dt">Mon 3 Aug</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11386291" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:00</span></div>
+          <h3>Commander Evening at The Grail</h3>
+          <div class="card-bot"><span>The Grail</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:30</span></div>
+          <h3>Pokémon turnaj - Standard</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">150,-</span></div>
+        </a>
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#3F6FA0">
+          <div class="card-top"><span class="game">Star Wars: Unlimited</span><span class="t">17:30</span></div>
+          <h3>Star Wars: Unlimited liga - turnaj</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">100,-</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#8E3B2F">
+          <div class="card-top"><span class="game">Flesh and Blood</span><span class="t">17:45</span></div>
+          <h3>Armory Event - Constructed</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Legačka</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#6C4FA3">
+          <div class="card-top"><span class="game">Yu-Gi-Oh!</span><span class="t">18:00</span></div>
+          <h3>Monday Yu-Gi-Oh! tournament/Free play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#B0393F">
+          <div class="card-top"><span class="game">One Piece Card Game</span><span class="t">18:15</span></div>
+          <h3>Store Tournament</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11249617" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">22:00</span></div>
+          <h3>b2b Commander draft</h3>
+          <div class="card-bot"><span>Cukrárna Alchymista</span><span class="price">CZK 400</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Tuesday</span><span class="dt">Tue 4 Aug</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://www.professoronyx.com/kalendar-akci/" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:00</span></div>
+          <h3>Pokémon liga - volné hraní</h3>
+          <div class="card-bot"><span>Professor Onyx</span><span class="price">Zdarma</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11386292" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:00</span></div>
+          <h3>Commander Evening at The Grail</h3>
+          <div class="card-bot"><span>The Grail</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Draft</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">350 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298637" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Modern</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 100</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">18:00</span></div>
+          <h3>Free Standard</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+      </div>
+    </section>
+    <section class="day">
+      <header class="day-h"><span class="wd">Wednesday</span><span class="dt">Wed 5 Aug</span></header>
+      <div class="cards">
+        
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">15:00</span></div>
+          <h3>Lorcana Free play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">15:00</span></div>
+          <h3>Pokémon League</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#6E6A5E">
+          <div class="card-top"><span class="game">Other games</span><span class="t">16:00</span></div>
+          <h3>Conquest casual play</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">Free</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#D9A81E">
+          <div class="card-top"><span class="game">Pokémon TCG</span><span class="t">17:30</span></div>
+          <h3>Pokémon Competitive League</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">130 Kč</span></div>
+        </a>
+        <a class="card" href="https://locator.wizards.com/search?searchType=magic-events&amp;query=Prague%2C+Czechia&amp;distance=10&amp;page=1&amp;eventId=11298650" style="--g:#C8622D">
+          <div class="card-top"><span class="game">Magic: The Gathering</span><span class="t">17:30</span></div>
+          <h3>Pauper</h3>
+          <div class="card-bot"><span>Dračí jeskyně</span><span class="price">CZK 100</span></div>
+        </a>
+        <a class="card" href="https://www.najada.games/en/game-club/tournaments" style="--g:#7A5CA8">
+          <div class="card-top"><span class="game">Disney Lorcana</span><span class="t">18:00</span></div>
+          <h3>Lorcana League</h3>
+          <div class="card-bot"><span>Najáda</span><span class="price">100 Kč</span></div>
+        </a>
+      </div>
+    </section>
+  <footer>Every card links to the store's own event page · calendar feeds: <a href="#">all.ics</a> and one per game</footer>
+</div></body></html>

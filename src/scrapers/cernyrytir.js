@@ -5,5 +5,10 @@
  * scraper once the new site is up.
  */
 export async function scrapeCernyRytir() {
-  return { events: [], pending: 'New website launching 2026-07-27; scraper to be added (MTG events meanwhile come via the Wizards locator)' };
+  // New site (launched 2026-07-27) is a Vue SPA backed by
+  // POST https://eshop-api.cernyrytir.eu/api/public/tournament/upcoming
+  // {eshopLang, filterType, tournamentGameId} — currently returns 500 for
+  // every valid request (their launch-day bug). Finish this scraper once the
+  // endpoint works; MTG events meanwhile come via the Wizards locator.
+  return { events: [], pending: 'New site live, but its tournament API is still broken; MTG events come via the Wizards locator' };
 }
