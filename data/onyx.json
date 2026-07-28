@@ -246,8 +246,26 @@
    "start": "2026-08-21T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "600,-"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-08-24",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-08-24T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-08-24",
+   "title": "Star Wars: Unlimited liga - turnaj",
+   "game": "swu",
+   "storeId": "onyx",
+   "start": "2026-08-24T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "100,-"
   }
  ],
- "fetchedAt": "2026-07-27T19:59:41.990Z",
+ "fetchedAt": "2026-07-28T03:42:34.376Z",
  "source": "onyx"
 }
