@@ -2640,8 +2640,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8262",
+   "title": "FNM: Draft The lord of The Rings: Tales of Middle-earth",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-07-31T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "500 Kč"
   }
  ],
- "fetchedAt": "2026-07-29T03:46:00.832Z",
+ "fetchedAt": "2026-07-29T09:16:06.413Z",
  "source": "najada"
 }
