@@ -1623,7 +1623,7 @@
   },
   {
    "id": "najada:8157",
-   "title": "The Hobbit RUN 1 Prerelease Fully booked",
+   "title": "The Hobbit RUN 1 Prerelease",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-07T16:30:00+02:00",
@@ -2560,16 +2560,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
-  },
-  {
-   "id": "najada:8262",
-   "title": "FNM: Draft The lord of The Rings: Tales of Middle-earth",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-07-31T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "500 Kč"
   },
   {
    "id": "najada:8273",
@@ -3582,6 +3572,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-07-31T14:41:24.329Z",
+ "fetchedAt": "2026-07-31T19:57:36.550Z",
  "source": "najada"
 }
