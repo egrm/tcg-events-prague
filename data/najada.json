@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7874",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-07-30T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7875",
    "title": "Nexus Night",
    "game": "riftbound",
@@ -2610,8 +2600,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8276",
+   "title": "Beyblade X: Casual play",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-23T14:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Beyblade",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8277",
+   "title": "Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-30T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:8278",
+   "title": "Star Wars: Unlimited",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-30T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-07-30T19:56:41.796Z",
+ "fetchedAt": "2026-07-31T03:55:47.314Z",
  "source": "najada"
 }
