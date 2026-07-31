@@ -153,7 +153,7 @@
   },
   {
    "id": "najada:7902",
-   "title": "Nexus Night",
+   "title": "Nexus Night TOURNAMENT CANCELLED!",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-08-07T18:00:00+02:00",
@@ -1623,7 +1623,7 @@
   },
   {
    "id": "najada:8157",
-   "title": "The Hobbit RUN 1 Prerelease",
+   "title": "The Hobbit RUN 1 Prerelease Fully booked",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-07T16:30:00+02:00",
@@ -2633,7 +2633,7 @@
   },
   {
    "id": "najada:8279",
-   "title": "Pauper",
+   "title": "Pauper - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-10T18:00:00+02:00",
@@ -2643,7 +2643,7 @@
   },
   {
    "id": "najada:8280",
-   "title": "Pauper",
+   "title": "Pauper - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-24T18:00:00+02:00",
@@ -2653,7 +2653,7 @@
   },
   {
    "id": "najada:8281",
-   "title": "Pauper",
+   "title": "Pauper - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-07T18:00:00+02:00",
@@ -2663,7 +2663,7 @@
   },
   {
    "id": "najada:8282",
-   "title": "Modern",
+   "title": "Modern - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-17T18:00:00+02:00",
@@ -2673,7 +2673,7 @@
   },
   {
    "id": "najada:8283",
-   "title": "Modern",
+   "title": "Modern - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-31T18:00:00+02:00",
@@ -2703,7 +2703,7 @@
   },
   {
    "id": "najada:8286",
-   "title": "SWU Weekly Premier",
+   "title": "SWU Weekly Premier - First Month, half price",
    "game": "swu",
    "storeId": "najada",
    "start": "2026-08-11T18:00:00+02:00",
@@ -2713,7 +2713,7 @@
   },
   {
    "id": "najada:8287",
-   "title": "SWU Weekly Premier",
+   "title": "SWU Weekly Premier - First Month, half price",
    "game": "swu",
    "storeId": "najada",
    "start": "2026-08-18T18:00:00+02:00",
@@ -2723,7 +2723,7 @@
   },
   {
    "id": "najada:8288",
-   "title": "SWU Weekly Premier",
+   "title": "SWU Weekly Premier - First Month, half price",
    "game": "swu",
    "storeId": "najada",
    "start": "2026-08-25T18:00:00+02:00",
@@ -2733,7 +2733,7 @@
   },
   {
    "id": "najada:8289",
-   "title": "SWU Weekly Premier",
+   "title": "SWU Weekly Premier - First Month, half price",
    "game": "swu",
    "storeId": "najada",
    "start": "2026-09-01T18:00:00+02:00",
@@ -2743,7 +2743,7 @@
   },
   {
    "id": "najada:8290",
-   "title": "SWU Weekly Premier",
+   "title": "SWU Weekly Premier - First Month, half price",
    "game": "swu",
    "storeId": "najada",
    "start": "2026-09-08T18:00:00+02:00",
@@ -2793,7 +2793,7 @@
   },
   {
    "id": "najada:8295",
-   "title": "Store Tournament",
+   "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
    "storeId": "najada",
    "start": "2026-08-12T18:15:00+02:00",
@@ -2803,7 +2803,7 @@
   },
   {
    "id": "najada:8296",
-   "title": "Store Tournament",
+   "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
    "storeId": "najada",
    "start": "2026-08-19T18:15:00+02:00",
@@ -2813,7 +2813,7 @@
   },
   {
    "id": "najada:8297",
-   "title": "Store Tournament",
+   "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
    "storeId": "najada",
    "start": "2026-08-26T18:15:00+02:00",
@@ -2823,7 +2823,7 @@
   },
   {
    "id": "najada:8298",
-   "title": "Store Tournament",
+   "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
    "storeId": "najada",
    "start": "2026-09-02T18:15:00+02:00",
@@ -2833,7 +2833,7 @@
   },
   {
    "id": "najada:8299",
-   "title": "Store Tournament",
+   "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
    "storeId": "najada",
    "start": "2026-09-09T18:15:00+02:00",
@@ -2853,7 +2853,7 @@
   },
   {
    "id": "najada:8301",
-   "title": "Riftbound",
+   "title": "Riftbound - First Month, half price",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-08-12T18:00:00+02:00",
@@ -2863,7 +2863,7 @@
   },
   {
    "id": "najada:8302",
-   "title": "Riftbound",
+   "title": "Riftbound - First Month, half price",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-08-19T18:00:00+02:00",
@@ -2873,7 +2873,7 @@
   },
   {
    "id": "najada:8303",
-   "title": "Riftbound",
+   "title": "Riftbound - First Month, half price",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-08-26T18:00:00+02:00",
@@ -2883,7 +2883,7 @@
   },
   {
    "id": "najada:8304",
-   "title": "Riftbound",
+   "title": "Riftbound - First Month, half price",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-09-02T18:00:00+02:00",
@@ -2893,7 +2893,7 @@
   },
   {
    "id": "najada:8305",
-   "title": "Riftbound",
+   "title": "Riftbound - First Month, half price",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-09-09T18:00:00+02:00",
@@ -2913,7 +2913,7 @@
   },
   {
    "id": "najada:8307",
-   "title": "Lorcana Core Constructed",
+   "title": "Lorcana Core Constructed - First Month, half price",
    "game": "lorcana",
    "storeId": "najada",
    "start": "2026-08-13T17:45:00+02:00",
@@ -2922,18 +2922,8 @@
    "price": "50 Kč"
   },
   {
-   "id": "najada:8308",
-   "title": "Lorcana Core Constructed",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-20T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "50 Kč"
-  },
-  {
    "id": "najada:8309",
-   "title": "Lorcana Core Constructed",
+   "title": "Lorcana Core Constructed - First Month, half price",
    "game": "lorcana",
    "storeId": "najada",
    "start": "2026-08-27T17:45:00+02:00",
@@ -2943,7 +2933,7 @@
   },
   {
    "id": "najada:8310",
-   "title": "Lorcana Core Constructed",
+   "title": "Lorcana Core Constructed - First Month, half price",
    "game": "lorcana",
    "storeId": "najada",
    "start": "2026-09-03T17:45:00+02:00",
@@ -2956,14 +2946,14 @@
    "title": "Lorcana Core Constructed",
    "game": "lorcana",
    "storeId": "najada",
-   "start": "2026-09-10T17:45:00+02:00",
+   "start": "2026-09-17T17:45:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Constructed",
    "price": "100 Kč"
   },
   {
    "id": "najada:8312",
-   "title": "Duel Commander",
+   "title": "Duel Commander - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-13T18:00:00+02:00",
@@ -2973,7 +2963,7 @@
   },
   {
    "id": "najada:8313",
-   "title": "Duel Commander",
+   "title": "Duel Commander - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-27T18:00:00+02:00",
@@ -2986,24 +2976,14 @@
    "title": "Duel Commander",
    "game": "mtg",
    "storeId": "najada",
-   "start": "2026-09-10T18:00:00+02:00",
+   "start": "2026-09-24T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "200 Kč"
   },
   {
-   "id": "najada:8315",
-   "title": "Premodern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-20T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8316",
-   "title": "Premodern",
+   "title": "Premodern - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-03T18:00:00+02:00",
@@ -3023,43 +3003,33 @@
   },
   {
    "id": "najada:8318",
-   "title": "Draft Hobbit",
+   "title": "Draft Hobbit - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-14T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8319",
-   "title": "Draft Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-21T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "200 Kč"
+   "price": "225 Kč"
   },
   {
    "id": "najada:8320",
-   "title": "Draft Hobbit",
+   "title": "Draft Hobbit - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-28T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "200 Kč"
+   "price": "225 Kč"
   },
   {
    "id": "najada:8321",
-   "title": "Draft Hobbit",
+   "title": "Draft Hobbit - First Month, half price",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-04T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "200 Kč"
+   "price": "225 Kč"
   },
   {
    "id": "najada:8322",
@@ -3069,7 +3039,7 @@
    "start": "2026-09-11T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "400 Kč"
+   "price": "450 Kč"
   },
   {
    "id": "najada:8323",
@@ -3079,9 +3049,539 @@
    "start": "2026-09-18T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "400 Kč"
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8325",
+   "title": "Lorcana Core Constructed - First Month, half price",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-09-10T17:45:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "50 Kč"
+  },
+  {
+   "id": "najada:8326",
+   "title": "Duel Commander - First Month, half price",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-10T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8327",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-08-17T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8328",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-08-24T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8329",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-08-31T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8330",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-09-07T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8331",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-09-14T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8332",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-09-21T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8333",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-09-28T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8334",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-05T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8335",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-12T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8336",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-19T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8337",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-26T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8338",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-02T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8339",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-09T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8340",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-09-22T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8341",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-09-29T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8342",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-06T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8343",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-13T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8344",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-20T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8345",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-27T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8346",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-03T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8347",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-10T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8348",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-17T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8349",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-24T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8350",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-12-01T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8351",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-12-08T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8352",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-12-15T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8353",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-05T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8354",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-19T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8355",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-02T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8356",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-16T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8357",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-30T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8358",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-12-14T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8359",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-18T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8360",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-25T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8361",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-01T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8362",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-08T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8363",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-15T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8364",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-22T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8365",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-29T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8366",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-06T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8367",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-13T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8368",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-20T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8369",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-27T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8370",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-03T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8371",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-10T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8372",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-28T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8373",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-04T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8374",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-11T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8375",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-18T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8376",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-25T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8377",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-02T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-07-31T09:20:54.864Z",
+ "fetchedAt": "2026-07-31T14:41:24.329Z",
  "source": "najada"
 }
