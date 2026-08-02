@@ -1682,16 +1682,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8170",
-   "title": "Ashes of the Empire Store Showdown - Sealed deck",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-08-01T11:00:00+02:00",
-   "url": "https://melee.gg/Tournament/View/442380",
-   "format": "Sealed SWU",
-   "price": "700 Kč"
-  },
-  {
    "id": "najada:8171",
    "title": "Lorcana League",
    "game": "lorcana",
@@ -2050,26 +2040,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Silver Age",
    "price": "300 Kč"
-  },
-  {
-   "id": "najada:8213",
-   "title": "Riftbound: Vendetta Sealed",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-01T10:00:00+02:00",
-   "url": "https://locator.riftbound.uvsgames.com/events/769925",
-   "format": "Riftbound Limited",
-   "price": "700 Kč"
-  },
-  {
-   "id": "najada:8214",
-   "title": "Riftbound: Vendetta Sealed",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-01T15:00:00+02:00",
-   "url": "https://locator.riftbound.uvsgames.com/events/769946",
-   "format": "Riftbound Limited",
-   "price": "700 Kč"
   },
   {
    "id": "najada:8215",
@@ -2583,7 +2553,7 @@
   },
   {
    "id": "najada:8279",
-   "title": "Pauper - First Month, half price",
+   "title": "Pauper - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-10T18:00:00+02:00",
@@ -2593,7 +2563,7 @@
   },
   {
    "id": "najada:8280",
-   "title": "Pauper - First Month, half price",
+   "title": "Pauper - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-24T18:00:00+02:00",
@@ -2603,7 +2573,7 @@
   },
   {
    "id": "najada:8281",
-   "title": "Pauper - First Month, half price",
+   "title": "Pauper - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-07T18:00:00+02:00",
@@ -2613,7 +2583,7 @@
   },
   {
    "id": "najada:8282",
-   "title": "Modern - First Month, half price",
+   "title": "Modern - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-17T18:00:00+02:00",
@@ -2623,7 +2593,7 @@
   },
   {
    "id": "najada:8283",
-   "title": "Modern - First Month, half price",
+   "title": "Modern - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-31T18:00:00+02:00",
@@ -2903,7 +2873,7 @@
   },
   {
    "id": "najada:8312",
-   "title": "Duel Commander - First Month, half price",
+   "title": "Duel Commander - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-13T18:00:00+02:00",
@@ -2933,7 +2903,7 @@
   },
   {
    "id": "najada:8316",
-   "title": "Premodern - First Month, half price",
+   "title": "Premodern - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-03T18:00:00+02:00",
@@ -2953,7 +2923,7 @@
   },
   {
    "id": "najada:8318",
-   "title": "Draft Hobbit - First Month, half price",
+   "title": "Draft Hobbit - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-14T18:00:00+02:00",
@@ -2963,7 +2933,7 @@
   },
   {
    "id": "najada:8320",
-   "title": "Draft Hobbit - First Month, half price",
+   "title": "Draft Hobbit - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-28T18:00:00+02:00",
@@ -2973,7 +2943,7 @@
   },
   {
    "id": "najada:8321",
-   "title": "Draft Hobbit - First Month, half price",
+   "title": "Draft Hobbit - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-04T18:00:00+02:00",
@@ -3013,7 +2983,7 @@
   },
   {
    "id": "najada:8326",
-   "title": "Duel Commander - First Month, half price",
+   "title": "Duel Commander - První měsíc za půlku",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-10T18:00:00+02:00",
@@ -3343,7 +3313,7 @@
   },
   {
    "id": "najada:8359",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-18T16:00:00+02:00",
@@ -3353,7 +3323,7 @@
   },
   {
    "id": "najada:8360",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-25T16:00:00+02:00",
@@ -3363,7 +3333,7 @@
   },
   {
    "id": "najada:8361",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-01T16:00:00+02:00",
@@ -3373,7 +3343,7 @@
   },
   {
    "id": "najada:8362",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-08T16:00:00+02:00",
@@ -3383,7 +3353,7 @@
   },
   {
    "id": "najada:8363",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-15T16:00:00+02:00",
@@ -3393,7 +3363,7 @@
   },
   {
    "id": "najada:8364",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-22T16:00:00+02:00",
@@ -3403,7 +3373,7 @@
   },
   {
    "id": "najada:8365",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-29T16:00:00+02:00",
@@ -3413,7 +3383,7 @@
   },
   {
    "id": "najada:8366",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-06T16:00:00+02:00",
@@ -3423,7 +3393,7 @@
   },
   {
    "id": "najada:8367",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-13T16:00:00+02:00",
@@ -3433,7 +3403,7 @@
   },
   {
    "id": "najada:8368",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-20T16:00:00+02:00",
@@ -3443,7 +3413,7 @@
   },
   {
    "id": "najada:8369",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-27T16:00:00+01:00",
@@ -3453,7 +3423,7 @@
   },
   {
    "id": "najada:8370",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-03T16:00:00+01:00",
@@ -3463,7 +3433,7 @@
   },
   {
    "id": "najada:8371",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-10T16:00:00+01:00",
@@ -3473,7 +3443,7 @@
   },
   {
    "id": "najada:8372",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-28T16:00:00+02:00",
@@ -3483,7 +3453,7 @@
   },
   {
    "id": "najada:8373",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-04T16:00:00+02:00",
@@ -3493,7 +3463,7 @@
   },
   {
    "id": "najada:8374",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-11T16:00:00+02:00",
@@ -3503,7 +3473,7 @@
   },
   {
    "id": "najada:8375",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-18T16:00:00+02:00",
@@ -3513,7 +3483,7 @@
   },
   {
    "id": "najada:8376",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-25T16:00:00+02:00",
@@ -3523,7 +3493,7 @@
   },
   {
    "id": "najada:8377",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-02T16:00:00+02:00",
@@ -3533,7 +3503,7 @@
   },
   {
    "id": "najada:8379",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-09T16:00:00+02:00",
@@ -3543,7 +3513,7 @@
   },
   {
    "id": "najada:8380",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-16T16:00:00+02:00",
@@ -3553,7 +3523,7 @@
   },
   {
    "id": "najada:8381",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-23T16:00:00+02:00",
@@ -3563,7 +3533,7 @@
   },
   {
    "id": "najada:8382",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-30T16:00:00+01:00",
@@ -3573,7 +3543,7 @@
   },
   {
    "id": "najada:8383",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-06T16:00:00+01:00",
@@ -3583,7 +3553,7 @@
   },
   {
    "id": "najada:8384",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-13T16:00:00+01:00",
@@ -4292,6 +4262,6 @@
    "price": "200 Kč"
   }
  ],
- "fetchedAt": "2026-08-01T19:38:25.756Z",
+ "fetchedAt": "2026-08-02T03:59:13.886Z",
  "source": "najada"
 }
