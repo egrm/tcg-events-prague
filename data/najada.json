@@ -12,16 +12,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:7880",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-03T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7881",
    "title": "Store Tournament",
    "game": "onepiece",
@@ -4292,6 +4282,6 @@
    "price": "450 Kč"
   }
  ],
- "fetchedAt": "2026-08-03T15:21:39.763Z",
+ "fetchedAt": "2026-08-03T20:02:27.801Z",
  "source": "najada"
 }
