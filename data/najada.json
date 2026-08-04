@@ -2,36 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7879",
-   "title": "Armory Event - Constructed",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-08-03T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Classic Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:7881",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-08-03T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:7882",
-   "title": "Monday Yu-Gi-Oh! tournament/Free play",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-08-03T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7886",
    "title": "Duel Commander",
    "game": "mtg",
@@ -4280,8 +4250,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "450 Kč"
+  },
+  {
+   "id": "najada:8464",
+   "title": "Duel Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-03T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:8465",
+   "title": "Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-03T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8466",
+   "title": "Free Standard",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-03T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-03T20:02:27.801Z",
+ "fetchedAt": "2026-08-04T03:43:41.161Z",
  "source": "najada"
 }
