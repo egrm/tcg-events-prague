@@ -4320,8 +4320,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8474",
+   "title": "Draft The Hobbit",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-14T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
   }
  ],
- "fetchedAt": "2026-08-05T03:39:57.431Z",
+ "fetchedAt": "2026-08-05T09:12:17.374Z",
  "source": "najada"
 }

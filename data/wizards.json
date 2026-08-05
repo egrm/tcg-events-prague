@@ -421,6 +421,24 @@
    "start": "2026-08-15T14:00:00+02:00"
   },
   {
+   "id": "wizards:11546044",
+   "title": "Second Breakfast The Hobbit draft",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546044",
+   "price": "CZK 500",
+   "start": "2026-08-16T10:00:00+02:00"
+  },
+  {
+   "id": "wizards:11546076",
+   "title": "Prancing Ponny The Lord of the Rings: Tales of the Middle Earth Draft",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546076",
+   "price": "CZK 500",
+   "start": "2026-08-16T10:15:00+02:00"
+  },
+  {
    "id": "wizards:11298689",
    "title": "Standard",
    "game": "mtg",
@@ -443,7 +461,8 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215803",
-   "start": "2026-08-17T16:00:00+02:00"
+   "start": "2026-08-17T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11386295",
@@ -520,8 +539,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482142",
    "price": "CZK 200",
-   "start": "2026-08-19T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-08-19T17:00:00+02:00"
   },
   {
    "id": "wizards:11298652",
@@ -641,7 +659,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215804",
-   "start": "2026-08-24T16:00:00+02:00"
+   "start": "2026-08-24T17:00:00+02:00"
   },
   {
    "id": "wizards:11386297",
@@ -700,7 +718,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482143",
    "price": "CZK 200",
-   "start": "2026-08-25T18:00:00+02:00"
+   "start": "2026-08-26T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298653",
@@ -794,8 +813,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215805",
-   "start": "2026-08-31T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-08-31T16:00:00+02:00"
   },
   {
    "id": "wizards:11386299",
@@ -1033,7 +1051,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482145",
    "price": "CZK 200",
-   "start": "2026-09-09T17:30:00+02:00"
+   "start": "2026-09-08T18:00:00+02:00"
   },
   {
    "id": "wizards:11298655",
@@ -1356,7 +1374,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-23T17:30:00+02:00"
+   "start": "2026-09-22T18:00:00+02:00"
   },
   {
    "id": "wizards:11298657",
@@ -1849,24 +1867,6 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482134",
    "start": "2026-10-27T17:45:00+01:00"
-  },
-  {
-   "id": "wizards:11483038",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483038",
-   "price": "$100",
-   "start": "2026-10-28T17:00:00+01:00"
-  },
-  {
-   "id": "wizards:11482152",
-   "title": "duel commander",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482152",
-   "price": "CZK 200",
-   "start": "2026-10-28T17:30:00+01:00"
   }
  ],
  "stores": {
@@ -1876,6 +1876,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-05T03:40:52.847Z",
+ "fetchedAt": "2026-08-05T09:13:12.551Z",
  "source": "wizards"
 }
