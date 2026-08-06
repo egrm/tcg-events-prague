@@ -1,8 +1,7 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [],
  "stores": {},
- "fetchedAt": "2026-08-06T03:46:00.570Z",
- "source": "gameshub",
- "error": "Error: fetch failed (UND_ERR_CONNECT_TIMEOUT) for https://games-hub.gg/seznam_turnaju/?gid=magic"
+ "fetchedAt": "2026-08-06T14:39:56.730Z",
+ "source": "gameshub"
 }
