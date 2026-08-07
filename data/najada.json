@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7897",
-   "title": "Modern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-06T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:7899",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-08-06T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7902",
    "title": "Nexus Night TOURNAMENT CANCELLED!",
    "game": "riftbound",
@@ -160,16 +140,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:7937",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-06T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
-   "price": "100 Kč"
   },
   {
    "id": "najada:7938",
@@ -4282,6 +4252,6 @@
    "price": "150 Kč"
   }
  ],
- "fetchedAt": "2026-08-06T14:39:31.064Z",
+ "fetchedAt": "2026-08-07T00:19:21.873Z",
  "source": "najada"
 }
