@@ -2,24 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "onyx:pokemon-turnaj-standard-2026-08-07",
-   "title": "Pokémon turnaj - Standard",
-   "game": "pokemon",
-   "storeId": "onyx",
-   "start": "2026-08-07T17:30:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
-  },
-  {
-   "id": "onyx:lorcana-draft-2026-08-07",
-   "title": "Lorcana Draft",
-   "game": "lorcana",
-   "storeId": "onyx",
-   "start": "2026-08-07T17:30:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "600,-"
-  },
-  {
    "id": "onyx:pokemon-turnaj-standard-2026-08-10",
    "title": "Pokémon turnaj - Standard",
    "game": "pokemon",
@@ -266,6 +248,6 @@
    "end": "2026-09-03T20:00:00+02:00"
   }
  ],
- "fetchedAt": "2026-08-07T13:42:53.142Z",
+ "fetchedAt": "2026-08-07T19:25:03.384Z",
  "source": "onyx"
 }
