@@ -1422,16 +1422,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8158",
-   "title": "The Hobbit RUN 2 Plně obsazeno! Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-08T10:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "900 Kč"
-  },
-  {
    "id": "najada:8159",
    "title": "The Hobbit RUN 3 Prerelease",
    "game": "mtg",
@@ -4262,6 +4252,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-08T07:25:01.110Z",
+ "fetchedAt": "2026-08-08T13:16:40.621Z",
  "source": "najada"
 }
