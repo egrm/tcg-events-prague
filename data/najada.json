@@ -1422,16 +1422,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8161",
-   "title": "The Hobbit RUN 5 Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-09T16:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "900 Kč"
-  },
-  {
    "id": "najada:8162",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -4222,6 +4212,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-09T13:24:22.722Z",
+ "fetchedAt": "2026-08-09T19:06:13.021Z",
  "source": "najada"
 }
