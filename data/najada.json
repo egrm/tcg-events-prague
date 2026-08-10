@@ -722,16 +722,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8053",
-   "title": "Gundam Card Game: Freedom Ascension - Release Event",
-   "game": "gundam",
-   "storeId": "najada",
-   "start": "2026-08-09T11:00:00+02:00",
-   "url": "https://www.bandai-tcg-plus.com/event/5816317",
-   "format": "Gundam Sealed",
-   "price": "900 Kč"
-  },
-  {
    "id": "najada:8054",
    "title": "Duel Commander",
    "game": "mtg",
@@ -4210,8 +4200,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8481",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-11-09T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8482",
+   "title": "Legacy",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-09T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8483",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-11-09T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8484",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-11-09T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-09T19:06:13.021Z",
+ "fetchedAt": "2026-08-10T02:39:57.770Z",
  "source": "najada"
 }
