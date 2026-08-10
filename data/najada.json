@@ -4213,7 +4213,7 @@
   },
   {
    "id": "najada:8482",
-   "title": "Legacy",
+   "title": "Legačka",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-09T18:00:00+01:00",
@@ -4242,6 +4242,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-10T02:39:57.770Z",
+ "fetchedAt": "2026-08-10T08:09:14.225Z",
  "source": "najada"
 }
