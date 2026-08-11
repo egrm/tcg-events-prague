@@ -20,10 +20,11 @@
   },
   {
    "id": "wizards:11482119",
-   "title": "free pauper",
+   "title": "pauper",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482119",
+   "price": "CZK 200",
    "start": "2026-08-11T17:45:00+02:00"
   },
   {
@@ -33,15 +34,6 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11530257",
    "price": "CZK 850",
-   "start": "2026-08-11T18:00:00+02:00"
-  },
-  {
-   "id": "wizards:11578093",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578093",
-   "price": "CZK 80",
    "start": "2026-08-12T17:00:00+02:00"
   },
   {
@@ -60,7 +52,8 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11396216",
    "price": "CZK 900",
-   "start": "2026-08-12T17:30:00+02:00"
+   "start": "2026-08-12T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298651",
@@ -70,6 +63,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298651",
    "price": "CZK 100",
    "start": "2026-08-12T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583689",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583689",
+   "price": "CZK 80",
+   "start": "2026-08-12T18:00:00+02:00"
   },
   {
    "id": "wizards:10955488",
@@ -236,10 +238,11 @@
   },
   {
    "id": "wizards:11482129",
-   "title": "free premodern",
+   "title": "premodern",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482129",
+   "price": "CZK 100",
    "start": "2026-08-18T17:45:00+02:00"
   },
   {
@@ -249,15 +252,6 @@
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483033",
    "price": "$100",
-   "start": "2026-08-18T18:00:00+02:00"
-  },
-  {
-   "id": "wizards:11578094",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578094",
-   "price": "CZK 80",
    "start": "2026-08-19T17:00:00+02:00"
   },
   {
@@ -277,6 +271,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298652",
    "price": "CZK 100",
    "start": "2026-08-19T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583690",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583690",
+   "price": "CZK 80",
+   "start": "2026-08-19T18:00:00+02:00"
   },
   {
    "id": "wizards:11482207",
@@ -458,22 +461,13 @@
    "start": "2026-08-25T17:45:00+02:00"
   },
   {
-   "id": "wizards:11578095",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578095",
-   "price": "CZK 80",
-   "start": "2026-08-26T17:00:00+02:00"
-  },
-  {
    "id": "wizards:11482143",
    "title": "duel commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482143",
    "price": "CZK 200",
-   "start": "2026-08-26T17:00:00+02:00"
+   "start": "2026-08-25T18:00:00+02:00"
   },
   {
    "id": "wizards:11298653",
@@ -483,6 +477,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298653",
    "price": "CZK 100",
    "start": "2026-08-26T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583691",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583691",
+   "price": "CZK 80",
+   "start": "2026-08-26T18:00:00+02:00"
   },
   {
    "id": "wizards:11482208",
@@ -630,22 +633,14 @@
    "start": "2026-09-02T17:00:00+02:00"
   },
   {
-   "id": "wizards:11578096",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578096",
-   "price": "CZK 80",
-   "start": "2026-09-02T17:00:00+02:00"
-  },
-  {
    "id": "wizards:11482144",
    "title": "duel commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482144",
    "price": "CZK 200",
-   "start": "2026-09-02T17:00:00+02:00"
+   "start": "2026-09-02T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298654",
@@ -655,6 +650,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298654",
    "price": "CZK 100",
    "start": "2026-09-02T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583692",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583692",
+   "price": "CZK 80",
+   "start": "2026-09-02T18:00:00+02:00"
   },
   {
    "id": "wizards:11482209",
@@ -819,23 +823,13 @@
    "start": "2026-09-08T17:45:00+02:00"
   },
   {
-   "id": "wizards:11578097",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578097",
-   "price": "CZK 80",
-   "start": "2026-09-09T17:00:00+02:00"
-  },
-  {
    "id": "wizards:11482145",
    "title": "duel commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482145",
    "price": "CZK 200",
-   "start": "2026-09-09T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-09T17:30:00+02:00"
   },
   {
    "id": "wizards:11298655",
@@ -845,6 +839,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298655",
    "price": "CZK 100",
    "start": "2026-09-09T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583693",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583693",
+   "price": "CZK 80",
+   "start": "2026-09-09T18:00:00+02:00"
   },
   {
    "id": "wizards:11482210",
@@ -997,15 +1000,6 @@
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483035",
    "price": "$100",
-   "start": "2026-09-15T18:00:00+02:00"
-  },
-  {
-   "id": "wizards:11578098",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578098",
-   "price": "CZK 80",
    "start": "2026-09-16T17:00:00+02:00"
   },
   {
@@ -1025,6 +1019,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298656",
    "price": "CZK 100",
    "start": "2026-09-16T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583694",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583694",
+   "price": "CZK 80",
+   "start": "2026-09-16T18:00:00+02:00"
   },
   {
    "id": "wizards:11482211",
@@ -1187,22 +1190,13 @@
    "start": "2026-09-22T17:45:00+02:00"
   },
   {
-   "id": "wizards:11578099",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578099",
-   "price": "CZK 80",
-   "start": "2026-09-23T17:00:00+02:00"
-  },
-  {
    "id": "wizards:11482147",
    "title": "duel commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-23T17:00:00+02:00"
+   "start": "2026-09-22T18:00:00+02:00"
   },
   {
    "id": "wizards:11298657",
@@ -1212,6 +1206,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298657",
    "price": "CZK 100",
    "start": "2026-09-23T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583695",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583695",
+   "price": "CZK 80",
+   "start": "2026-09-23T18:00:00+02:00"
   },
   {
    "id": "wizards:11482212",
@@ -1348,15 +1351,6 @@
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483036",
    "price": "$100",
-   "start": "2026-09-29T18:00:00+02:00"
-  },
-  {
-   "id": "wizards:11578100",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578100",
-   "price": "CZK 80",
    "start": "2026-09-30T17:00:00+02:00"
   },
   {
@@ -1366,8 +1360,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11298658",
@@ -1377,6 +1370,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298658",
    "price": "CZK 100",
    "start": "2026-09-30T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583696",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583696",
+   "price": "CZK 80",
+   "start": "2026-09-30T18:00:00+02:00"
   },
   {
    "id": "wizards:11482213",
@@ -1472,15 +1474,6 @@
    "start": "2026-10-06T17:45:00+02:00"
   },
   {
-   "id": "wizards:11578101",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578101",
-   "price": "CZK 80",
-   "start": "2026-10-07T17:00:00+02:00"
-  },
-  {
    "id": "wizards:11482149",
    "title": "duel commander",
    "game": "mtg",
@@ -1488,6 +1481,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482149",
    "price": "CZK 200",
    "start": "2026-10-07T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583697",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583697",
+   "price": "CZK 80",
+   "start": "2026-10-07T18:00:00+02:00"
   },
   {
    "id": "wizards:11482214",
@@ -1580,15 +1582,6 @@
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483037",
    "price": "$100",
-   "start": "2026-10-13T18:00:00+02:00"
-  },
-  {
-   "id": "wizards:11578102",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578102",
-   "price": "CZK 80",
    "start": "2026-10-14T17:00:00+02:00"
   },
   {
@@ -1599,6 +1592,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482150",
    "price": "CZK 200",
    "start": "2026-10-14T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583698",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583698",
+   "price": "CZK 80",
+   "start": "2026-10-14T18:00:00+02:00"
   },
   {
    "id": "wizards:11482215",
@@ -1685,15 +1687,6 @@
    "start": "2026-10-20T17:45:00+02:00"
   },
   {
-   "id": "wizards:11578103",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578103",
-   "price": "CZK 80",
-   "start": "2026-10-21T17:00:00+02:00"
-  },
-  {
    "id": "wizards:11482151",
    "title": "duel commander",
    "game": "mtg",
@@ -1701,6 +1694,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482151",
    "price": "CZK 200",
    "start": "2026-10-21T17:30:00+02:00"
+  },
+  {
+   "id": "wizards:11583699",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583699",
+   "price": "CZK 80",
+   "start": "2026-10-21T18:00:00+02:00"
   },
   {
    "id": "wizards:11482216",
@@ -1785,15 +1787,6 @@
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483038",
    "price": "$100",
-   "start": "2026-10-27T18:00:00+01:00"
-  },
-  {
-   "id": "wizards:11578104",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578104",
-   "price": "CZK 80",
    "start": "2026-10-28T17:00:00+01:00"
   },
   {
@@ -1804,6 +1797,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482152",
    "price": "CZK 200",
    "start": "2026-10-28T17:30:00+01:00"
+  },
+  {
+   "id": "wizards:11583700",
+   "title": "Commander party",
+   "game": "mtg",
+   "storeId": "fyft",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583700",
+   "price": "CZK 80",
+   "start": "2026-10-28T18:00:00+01:00"
   },
   {
    "id": "wizards:11482217",
@@ -1841,13 +1843,13 @@
    "start": "2026-11-01T11:00:00+01:00"
   },
   {
-   "id": "wizards:11578105",
+   "id": "wizards:11583701",
    "title": "Commander party",
    "game": "mtg",
    "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578105",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583701",
    "price": "CZK 80",
-   "start": "2026-11-04T17:00:00+01:00"
+   "start": "2026-11-04T18:00:00+01:00"
   },
   {
    "id": "wizards:11482218",
@@ -1874,6 +1876,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-11T07:43:05.644Z",
+ "fetchedAt": "2026-08-11T13:48:51.081Z",
  "source": "wizards"
 }
