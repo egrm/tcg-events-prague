@@ -222,16 +222,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:7964",
-   "title": "Beyblade X: Casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-08-14T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Beyblade",
-   "price": "Free"
-  },
-  {
    "id": "najada:7965",
    "title": "Star Wars: Unlimited",
    "game": "swu",
@@ -592,16 +582,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8031",
-   "title": "Beyblade X: Casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-08-28T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Beyblade",
-   "price": "Free"
-  },
-  {
    "id": "najada:8032",
    "title": "Nexus Night",
    "game": "riftbound",
@@ -949,16 +929,6 @@
    "start": "2026-09-02T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Conquest",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8100",
-   "title": "Beyblade X: Casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-09-11T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Beyblade",
    "price": "Free"
   },
   {
@@ -1330,16 +1300,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8155",
-   "title": "Beyblade X: Casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-09-25T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Beyblade",
-   "price": "Free"
   },
   {
    "id": "najada:8162",
@@ -1812,16 +1772,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8228",
-   "title": "Beyblade X: Casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-09T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Beyblade",
-   "price": "Free"
-  },
-  {
    "id": "najada:8229",
    "title": "One Piece The World's Strongest Warriors - Release Event - Run #1",
    "game": "onepiece",
@@ -2170,16 +2120,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8276",
-   "title": "Beyblade X: Casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-23T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Beyblade",
-   "price": "Free"
   },
   {
    "id": "najada:8277",
@@ -4212,6 +4152,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-12T07:55:57.169Z",
+ "fetchedAt": "2026-08-12T13:52:36.261Z",
  "source": "najada"
 }
