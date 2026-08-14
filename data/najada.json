@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7938",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-08-13T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7939",
    "title": "Nexus Night",
    "game": "riftbound",
@@ -2292,16 +2282,6 @@
    "price": "150 Kč"
   },
   {
-   "id": "najada:8307",
-   "title": "Lorcana Core Constructed - First Month, half price",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-13T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "50 Kč"
-  },
-  {
    "id": "najada:8309",
    "title": "Lorcana Core Constructed - First Month, half price",
    "game": "lorcana",
@@ -4080,8 +4060,28 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8497",
+   "title": "Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-11-13T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:8498",
+   "title": "Star Wars: Unlimited",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-13T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-13T19:30:03.175Z",
+ "fetchedAt": "2026-08-14T03:02:05.006Z",
  "source": "najada"
 }
