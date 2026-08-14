@@ -4080,8 +4080,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8499",
+   "title": "Weekend Legacy",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-12T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "300 Kč"
   }
  ],
- "fetchedAt": "2026-08-14T07:54:09.109Z",
+ "fetchedAt": "2026-08-14T13:48:54.407Z",
  "source": "najada"
 }
