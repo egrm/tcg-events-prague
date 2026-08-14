@@ -152,26 +152,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:7965",
-   "title": "Star Wars: Unlimited",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-08-21T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:7966",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-21T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
-  },
-  {
    "id": "najada:7967",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -3852,16 +3832,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8474",
-   "title": "Draft The Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-14T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8475",
    "title": "Modern",
    "game": "mtg",
@@ -4083,15 +4053,95 @@
   },
   {
    "id": "najada:8499",
-   "title": "Weekend Legacy",
+   "title": "Víkendová Legačka",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-12T10:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Legacy",
    "price": "300 Kč"
+  },
+  {
+   "id": "najada:8501",
+   "title": "One Piece Pirates Party 2026 Vol. 3 – Constructed",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-09-05T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8502",
+   "title": "One Piece Pirates Party 2026 Vol. 3 – 2-on-2 Battle",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-09-05T15:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8503",
+   "title": "Dragon Ball Super: Fusion World - Store Tournament",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-09-06T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed DBFW",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8504",
+   "title": "Dragon Ball Super: Fusion World - Store Tournament",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-09-20T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed DBFW",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8505",
+   "title": "Gundam Card Game – Store Tournament",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-09-20T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Constructed",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8506",
+   "title": "Gundam CG 1st Anniversary Event",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-09-20T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Constructed",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8507",
+   "title": "Starter Deck 11-14 Release Event",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-09-27T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Deck Limited",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8508",
+   "title": "VGE \"Premium\" September 2026 Shop Tournament",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-09-13T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Premium CV",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-14T13:48:54.407Z",
+ "fetchedAt": "2026-08-14T19:17:48.372Z",
  "source": "najada"
 }
