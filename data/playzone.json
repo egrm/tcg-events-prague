@@ -2,54 +2,54 @@
  "status": "ok",
  "events": [
   {
-   "id": "playzone:2026-08-03-pokemon-league-od-toredo-2",
+   "id": "playzone:2026-08-03-pokemon-league-od-toredo-2/",
    "title": "Pokémon League od Torédo",
    "game": "pokemon",
    "storeId": "playzone",
    "start": "2026-08-20T17:30:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-03-pokemon-league-od-toredo-2"
+   "url": "https://www.playzonearena.cz/akce/2026-08-03-pokemon-league-od-toredo-2/"
   },
   {
-   "id": "playzone:2026-08-03-pokemon-league-od-toredo-3",
+   "id": "playzone:2026-08-03-pokemon-league-od-toredo-3/",
    "title": "Pokémon League od Torédo",
    "game": "pokemon",
    "storeId": "playzone",
    "start": "2026-08-27T17:30:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-03-pokemon-league-od-toredo-3"
+   "url": "https://www.playzonearena.cz/akce/2026-08-03-pokemon-league-od-toredo-3/"
   },
   {
-   "id": "playzone:2026-08-03-pokemon-league-od-toredo-4",
+   "id": "playzone:2026-08-03-pokemon-league-od-toredo-4/",
    "title": "Pokémon League od Torédo",
    "game": "pokemon",
    "storeId": "playzone",
    "start": "2026-09-03T17:30:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-03-pokemon-league-od-toredo-4"
+   "url": "https://www.playzonearena.cz/akce/2026-08-03-pokemon-league-od-toredo-4/"
   },
   {
-   "id": "playzone:2026-08-03-riftbound-nexus-night-2",
+   "id": "playzone:2026-08-03-riftbound-nexus-night-2/",
    "title": "Riftbound Nexus Night",
    "game": "riftbound",
    "storeId": "playzone",
    "start": "2026-08-20T17:00:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-03-riftbound-nexus-night-2"
+   "url": "https://www.playzonearena.cz/akce/2026-08-03-riftbound-nexus-night-2/"
   },
   {
-   "id": "playzone:2026-08-03-riftbound-nexus-night-3",
+   "id": "playzone:2026-08-03-riftbound-nexus-night-3/",
    "title": "Riftbound Nexus Night",
    "game": "riftbound",
    "storeId": "playzone",
    "start": "2026-08-27T17:00:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-03-riftbound-nexus-night-3"
+   "url": "https://www.playzonearena.cz/akce/2026-08-03-riftbound-nexus-night-3/"
   },
   {
-   "id": "playzone:2026-08-03-riftbound-nexus-night-4",
+   "id": "playzone:2026-08-03-riftbound-nexus-night-4/",
    "title": "Riftbound Nexus Night",
    "game": "riftbound",
    "storeId": "playzone",
    "start": "2026-09-03T17:00:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-03-riftbound-nexus-night-4"
+   "url": "https://www.playzonearena.cz/akce/2026-08-03-riftbound-nexus-night-4/"
   }
  ],
- "fetchedAt": "2026-08-14T03:03:06.146Z",
+ "fetchedAt": "2026-08-14T07:55:02.908Z",
  "source": "playzone"
 }
