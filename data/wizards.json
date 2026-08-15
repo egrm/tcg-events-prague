@@ -1788,6 +1788,15 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482219",
    "start": "2026-11-12T16:00:00+01:00"
+  },
+  {
+   "id": "wizards:11546179",
+   "title": "FNM DRAFT",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546179",
+   "price": "CZK 500",
+   "start": "2026-11-13T17:15:00+01:00"
   }
  ],
  "stores": {
@@ -1797,6 +1806,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-15T13:03:43.129Z",
+ "fetchedAt": "2026-08-15T18:51:48.918Z",
  "source": "wizards"
 }
