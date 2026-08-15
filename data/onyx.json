@@ -34,7 +34,7 @@
    "title": "Riftbound Nexus Night - volné hraní",
    "game": "riftbound",
    "storeId": "onyx",
-   "start": "2026-08-20T16:00:00+02:00",
+   "start": "2026-08-20T17:00:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-08-20T20:00:00+02:00"
@@ -100,7 +100,7 @@
    "title": "Riftbound Nexus Night - volné hraní",
    "game": "riftbound",
    "storeId": "onyx",
-   "start": "2026-08-27T16:00:00+02:00",
+   "start": "2026-08-27T17:00:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-08-27T20:00:00+02:00"
@@ -166,7 +166,7 @@
    "title": "Riftbound Nexus Night - volné hraní",
    "game": "riftbound",
    "storeId": "onyx",
-   "start": "2026-09-03T16:00:00+02:00",
+   "start": "2026-09-03T17:00:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-09-03T20:00:00+02:00"
@@ -232,7 +232,7 @@
    "title": "Riftbound Nexus Night - volné hraní",
    "game": "riftbound",
    "storeId": "onyx",
-   "start": "2026-09-10T16:00:00+02:00",
+   "start": "2026-09-10T17:00:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-09-10T20:00:00+02:00"
@@ -266,6 +266,6 @@
    "price": "600,-"
   }
  ],
- "fetchedAt": "2026-08-15T07:01:40.754Z",
+ "fetchedAt": "2026-08-15T13:02:52.862Z",
  "source": "onyx"
 }
