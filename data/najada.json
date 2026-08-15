@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7939",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-14T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:7940",
-   "title": "Star Wars: Unlimited",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-08-14T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7946",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -2152,16 +2132,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8294",
-   "title": "Multiplayer Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-14T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8296",
    "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
@@ -2330,16 +2300,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Legacy",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8318",
-   "title": "Draft Hobbit - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-14T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "225 Kč"
   },
   {
    "id": "najada:8320",
@@ -4142,6 +4102,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-14T19:17:48.372Z",
+ "fetchedAt": "2026-08-15T01:53:14.234Z",
  "source": "najada"
 }
