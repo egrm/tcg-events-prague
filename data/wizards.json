@@ -2,33 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11546044",
-   "title": "Second Breakfast The Hobbit draft",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546044",
-   "price": "CZK 500",
-   "start": "2026-08-16T10:00:00+02:00"
-  },
-  {
-   "id": "wizards:11546076",
-   "title": "Prancing Ponny The Lord of the Rings: Tales of the Middle Earth Draft",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546076",
-   "price": "CZK 500",
-   "start": "2026-08-16T10:15:00+02:00"
-  },
-  {
-   "id": "wizards:11298689",
-   "title": "Standard",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298689",
-   "price": "CZK 150",
-   "start": "2026-08-16T11:00:00+02:00"
-  },
-  {
    "id": "wizards:11482991",
    "title": "Pondělní Pauper",
    "game": "mtg",
@@ -120,8 +93,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482142",
    "price": "CZK 200",
-   "start": "2026-08-19T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-08-19T17:00:00+02:00"
   },
   {
    "id": "wizards:11298652",
@@ -268,7 +240,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215804",
-   "start": "2026-08-24T17:00:00+02:00"
+   "start": "2026-08-24T16:00:00+02:00"
   },
   {
    "id": "wizards:11386297",
@@ -388,8 +360,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386312",
    "price": "CZK 50",
-   "start": "2026-08-28T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-08-28T17:00:00+02:00"
   },
   {
    "id": "wizards:11546168",
@@ -527,7 +498,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482144",
    "price": "CZK 200",
-   "start": "2026-09-02T17:30:00+02:00"
+   "start": "2026-09-02T17:00:00+02:00"
   },
   {
    "id": "wizards:11298654",
@@ -724,7 +695,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482145",
    "price": "CZK 200",
-   "start": "2026-09-09T17:30:00+02:00"
+   "start": "2026-09-08T18:00:00+02:00"
   },
   {
    "id": "wizards:11298655",
@@ -836,7 +807,8 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215807",
-   "start": "2026-09-14T16:00:00+02:00"
+   "start": "2026-09-14T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11386303",
@@ -1082,7 +1054,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-22T18:00:00+02:00"
+   "start": "2026-09-23T17:30:00+02:00"
   },
   {
    "id": "wizards:11298657",
@@ -1246,7 +1218,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:30:00+02:00"
+   "start": "2026-09-30T17:00:00+02:00"
   },
   {
    "id": "wizards:11298658",
@@ -1806,6 +1778,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-16T07:05:28.209Z",
+ "fetchedAt": "2026-08-16T13:05:42.950Z",
  "source": "wizards"
 }

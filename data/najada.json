@@ -1382,16 +1382,6 @@
    "price": "550 Kč"
   },
   {
-   "id": "najada:8192",
-   "title": "Najáda Commander Party",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-16T10:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8194",
    "title": "Magic Presents: Heart of the Mountain Commander Party",
    "game": "mtg",
@@ -3632,16 +3622,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8462",
-   "title": "Draft The Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-16T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8463",
    "title": "Draft The Hobbit",
    "game": "mtg",
@@ -3962,6 +3942,16 @@
    "price": "300 Kč"
   },
   {
+   "id": "najada:8500",
+   "title": "Najáda Commander Party",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-21T12:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
    "id": "najada:8501",
    "title": "One Piece Pirates Party 2026 Vol. 3 – Constructed",
    "game": "onepiece",
@@ -4052,6 +4042,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-16T07:04:18.213Z",
+ "fetchedAt": "2026-08-16T13:04:28.363Z",
  "source": "najada"
 }
