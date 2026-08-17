@@ -4093,7 +4093,7 @@
   },
   {
    "id": "najada:8520",
-   "title": "Legacy",
+   "title": "Legačka",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-16T18:00:00+01:00",
@@ -4133,15 +4133,85 @@
   },
   {
    "id": "najada:8524",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-08-21T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:8525",
+   "title": "Víkendový Draft: Innistrad: Midnight Hunt",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-19T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:8526",
+   "title": "Víkendový Draft: Innistrad: Crimson Vow",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-19T15:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8527",
+   "title": "Reality Fracture RUN 1 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-25T16:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8528",
+   "title": "Reality Fracture RUN 2 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-26T10:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8529",
+   "title": "Reality Fracture RUN 3 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-26T16:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8530",
+   "title": "Reality Fracture RUN 4 2HG Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-27T10:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "1800 Kč"
+  },
+  {
+   "id": "najada:8531",
+   "title": "Reality Fracture RUN 5 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-27T16:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-08-17T07:26:45.535Z",
+ "fetchedAt": "2026-08-17T13:10:26.705Z",
  "source": "najada"
 }
