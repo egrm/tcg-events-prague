@@ -1442,16 +1442,6 @@
    "price": "200 Kč"
   },
   {
-   "id": "najada:8203",
-   "title": "Gundam Card Game – Store Tournament",
-   "game": "gundam",
-   "storeId": "najada",
-   "start": "2026-08-16T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Gundam Constructed",
-   "price": "200 Kč"
-  },
-  {
    "id": "najada:8204",
    "title": "Gundam Card Game – Store Tournament",
    "game": "gundam",
@@ -1460,16 +1450,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Gundam Constructed",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8207",
-   "title": "VGE \"Premium\" August 2026 Shop Tournament",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-08-16T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Premium CV",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8209",
@@ -4100,8 +4080,68 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:8519",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-11-16T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8520",
+   "title": "Legacy",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-16T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8521",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-11-16T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8522",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-11-16T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8523",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-16T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8524",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-21T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-16T18:50:04.986Z",
+ "fetchedAt": "2026-08-17T01:58:00.176Z",
  "source": "najada"
 }
