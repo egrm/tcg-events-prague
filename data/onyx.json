@@ -2,24 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "onyx:pokemon-turnaj-standard-2026-08-17",
-   "title": "Pokémon turnaj - Standard",
-   "game": "pokemon",
-   "storeId": "onyx",
-   "start": "2026-08-17T17:30:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
-  },
-  {
-   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-08-17",
-   "title": "Star Wars: Unlimited liga - turnaj",
-   "game": "swu",
-   "storeId": "onyx",
-   "start": "2026-08-17T17:30:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "100,-"
-  },
-  {
    "id": "onyx:pokemon-liga-volne-hrani-2026-08-18",
    "title": "Pokémon liga - volné hraní",
    "game": "pokemon",
@@ -266,6 +248,6 @@
    "price": "600,-"
   }
  ],
- "fetchedAt": "2026-08-17T13:10:27.804Z",
+ "fetchedAt": "2026-08-17T19:02:15.759Z",
  "source": "onyx"
 }

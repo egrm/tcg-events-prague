@@ -12,16 +12,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:7947",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-17T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7948",
    "title": "Monday Yu-Gi-Oh! tournament/Free play",
    "game": "yugioh",
@@ -1970,16 +1960,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Pauper",
    "price": "50 Kč"
-  },
-  {
-   "id": "najada:8282",
-   "title": "Modern - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-17T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8283",
@@ -4039,7 +4019,7 @@
    "start": "2026-08-30T14:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Sealed Deck",
-   "price": "500 Kč"
+   "price": "900 Kč"
   },
   {
    "id": "najada:8515",
@@ -4059,7 +4039,7 @@
    "start": "2026-09-25T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "1800 Kč"
+   "price": "1600 Kč"
   },
   {
    "id": "najada:8517",
@@ -4069,7 +4049,7 @@
    "start": "2026-09-26T10:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "900 Kč"
+   "price": "800 Kč"
   },
   {
    "id": "najada:8518",
@@ -4212,6 +4192,6 @@
    "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-08-17T13:10:26.705Z",
+ "fetchedAt": "2026-08-17T19:02:14.613Z",
  "source": "najada"
 }
