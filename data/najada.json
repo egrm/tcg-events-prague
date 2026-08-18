@@ -3969,7 +3969,7 @@
    "start": "2026-09-05T14:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Riftbound Limited",
-   "price": "500 Kč"
+   "price": "550 Kč"
   },
   {
    "id": "najada:8514",
@@ -4192,6 +4192,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-18T07:09:16.957Z",
+ "fetchedAt": "2026-08-18T13:12:52.436Z",
  "source": "najada"
 }
