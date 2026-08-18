@@ -2,36 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7952",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-18T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
-   "id": "najada:7953",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-18T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "Free"
-  },
-  {
-   "id": "najada:7954",
-   "title": "Draft The Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-18T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:7956",
    "title": "Lorcana League",
    "game": "lorcana",
@@ -4190,8 +4160,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:8536",
+   "title": "Hraní deskovek na Najádě",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-09-13T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "jiné",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-18T13:12:52.436Z",
+ "fetchedAt": "2026-08-18T19:01:33.925Z",
  "source": "najada"
 }
