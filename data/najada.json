@@ -4200,8 +4200,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8542",
+   "title": "League Cup Najáda",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-09-19T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8543",
+   "title": "Attack of the Vine! Championship",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-09-12T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "500 Kč"
+  },
+  {
+   "id": "najada:8544",
+   "title": "Infinity Fairy Tales Tournament",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-09-12T15:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "150 Kč"
   }
  ],
- "fetchedAt": "2026-08-19T07:09:46.352Z",
+ "fetchedAt": "2026-08-19T13:14:43.697Z",
  "source": "najada"
 }
