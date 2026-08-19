@@ -2,42 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11483033",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483033",
-   "price": "$100",
-   "start": "2026-08-19T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:11482142",
-   "title": "duel commander",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482142",
-   "price": "CZK 200",
-   "start": "2026-08-19T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:11298652",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298652",
-   "price": "CZK 100",
-   "start": "2026-08-19T17:30:00+02:00"
-  },
-  {
-   "id": "wizards:11583690",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583690",
-   "price": "CZK 80",
-   "start": "2026-08-19T18:00:00+02:00"
-  },
-  {
    "id": "wizards:11482207",
    "title": "casual commander",
    "game": "mtg",
@@ -104,7 +68,8 @@
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11578491",
    "price": "$300",
-   "start": "2026-08-21T17:15:00+02:00"
+   "start": "2026-08-21T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298779",
@@ -142,6 +107,15 @@
    "start": "2026-08-22T14:00:00+02:00"
   },
   {
+   "id": "wizards:11648608",
+   "title": "Shoebox Chaos Draft",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11648608",
+   "price": "CZK 500",
+   "start": "2026-08-22T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11298690",
    "title": "Standard",
    "game": "mtg",
@@ -156,6 +130,14 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482992",
+   "start": "2026-08-23T11:00:00+02:00"
+  },
+  {
+   "id": "wizards:11650047",
+   "title": "The Hobbit Commander Party",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650047",
    "start": "2026-08-24T16:00:00+02:00"
   },
   {
@@ -164,7 +146,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215804",
-   "start": "2026-08-24T16:00:00+02:00"
+   "start": "2026-08-24T17:00:00+02:00"
   },
   {
    "id": "wizards:11386297",
@@ -189,8 +171,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11629595",
    "price": "CZK 1,390",
-   "start": "2026-08-24T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-08-24T17:15:00+02:00"
   },
   {
    "id": "wizards:11629646",
@@ -252,6 +233,16 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482143",
    "price": "CZK 200",
    "start": "2026-08-25T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11650628",
+   "title": "Xzone OC Lužiny Draft - The Hobit",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650628",
+   "price": "CZK 400",
+   "start": "2026-08-26T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298653",
@@ -365,6 +356,14 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482993",
+   "start": "2026-08-31T16:00:00+02:00"
+  },
+  {
+   "id": "wizards:11650322",
+   "title": "Two Headed Giant Commander Hobbit",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650322",
    "start": "2026-08-31T16:00:00+02:00"
   },
   {
@@ -580,6 +579,15 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482994",
+   "start": "2026-09-07T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "wizards:11650148",
+   "title": "Magic Presents: Heart of the Mountain Commander",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650148",
    "start": "2026-09-07T16:00:00+02:00"
   },
   {
@@ -759,8 +767,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215807",
-   "start": "2026-09-14T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-14T16:00:00+02:00"
   },
   {
    "id": "wizards:11386303",
@@ -939,6 +946,24 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482996",
+   "start": "2026-09-21T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "wizards:11650274",
+   "title": "An Unexpected Crafting Party",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650274",
+   "start": "2026-09-21T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "wizards:11650332",
+   "title": "The Hobbit Commander Party",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650332",
    "start": "2026-09-21T16:00:00+02:00"
   },
   {
@@ -947,8 +972,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215808",
-   "start": "2026-09-21T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-21T16:00:00+02:00"
   },
   {
    "id": "wizards:11386305",
@@ -1163,8 +1187,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-30T17:00:00+02:00"
   },
   {
    "id": "wizards:11298658",
@@ -1733,6 +1756,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-19T13:15:40.335Z",
+ "fetchedAt": "2026-08-19T18:58:21.748Z",
  "source": "wizards"
 }
