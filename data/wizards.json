@@ -562,6 +562,15 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298692",
    "price": "CZK 150",
+   "start": "2026-09-06T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "wizards:11651208",
+   "title": "HBTsealedSS Standard Showdown",
+   "game": "mtg",
+   "storeId": "dracijeskyne",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11651208",
    "start": "2026-09-06T11:00:00+02:00"
   },
   {
@@ -946,8 +955,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482996",
-   "start": "2026-09-21T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-20T11:00:00+02:00"
   },
   {
    "id": "wizards:11650274",
@@ -1756,6 +1764,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-19T18:58:21.748Z",
+ "fetchedAt": "2026-08-20T01:56:22.931Z",
  "source": "wizards"
 }

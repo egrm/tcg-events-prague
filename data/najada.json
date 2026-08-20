@@ -2,46 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7956",
-   "title": "Lorcana League",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-19T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:7957",
-   "title": "Lorcana Free play",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-19T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "Free"
-  },
-  {
-   "id": "najada:7958",
-   "title": "Pokémon Competitive League",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-08-19T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "130 Kč"
-  },
-  {
-   "id": "najada:7959",
-   "title": "Pokémon League",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-08-19T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:7960",
    "title": "Modern",
    "game": "mtg",
@@ -200,16 +160,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:7997",
-   "title": "Conquest casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-08-19T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Conquest",
-   "price": "Free"
   },
   {
    "id": "najada:7998",
@@ -1972,16 +1922,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8296",
-   "title": "Store Tournament - First Month, half price",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-08-19T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "50 Kč"
-  },
-  {
    "id": "najada:8297",
    "title": "Store Tournament - First Month, half price",
    "game": "onepiece",
@@ -2020,16 +1960,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "One Piece Constructed",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8302",
-   "title": "Riftbound - First Month, half price",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-19T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "75 Kč"
   },
   {
    "id": "najada:8303",
@@ -4230,8 +4160,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Constructed",
    "price": "150 Kč"
+  },
+  {
+   "id": "najada:8545",
+   "title": "Modern",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Modern",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:8546",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-12T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8547",
+   "title": "Weekly Vanguard",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-11-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard CV",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-19T18:57:20.385Z",
+ "fetchedAt": "2026-08-20T01:55:24.993Z",
  "source": "najada"
 }
