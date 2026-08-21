@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:7962",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-08-20T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7967",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -4170,8 +4160,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8548",
+   "title": "Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-11-20T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:8549",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-20T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8550",
+   "title": "Star Wars: Unlimited",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-20T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-20T19:05:40.914Z",
+ "fetchedAt": "2026-08-21T02:01:05.734Z",
  "source": "najada"
 }
