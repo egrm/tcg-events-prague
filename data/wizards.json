@@ -484,7 +484,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215806",
-   "start": "2026-09-07T16:00:00+02:00"
+   "start": "2026-09-07T17:00:00+02:00"
   },
   {
    "id": "wizards:11386301",
@@ -543,7 +543,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482145",
    "price": "CZK 200",
-   "start": "2026-09-09T17:30:00+02:00"
+   "start": "2026-09-09T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298655",
@@ -603,7 +604,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386314",
    "price": "CZK 50",
-   "start": "2026-09-11T17:00:00+02:00"
+   "start": "2026-09-11T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11546170",
@@ -918,7 +920,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-22T18:00:00+02:00"
+   "start": "2026-09-23T17:30:00+02:00"
   },
   {
    "id": "wizards:11298657",
@@ -979,7 +981,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386316",
    "price": "CZK 50",
-   "start": "2026-09-25T17:00:00+02:00"
+   "start": "2026-09-25T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11546172",
@@ -1092,7 +1095,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:30:00+02:00"
+   "start": "2026-09-30T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298658",
@@ -1661,6 +1665,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-24T07:33:26.923Z",
+ "fetchedAt": "2026-08-24T13:20:09.645Z",
  "source": "wizards"
 }
