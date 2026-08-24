@@ -12,16 +12,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:7968",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-24T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:7969",
    "title": "Store Tournament",
    "game": "onepiece",
@@ -1802,16 +1792,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8280",
-   "title": "Pauper - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-24T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
-   "price": "50 Kč"
-  },
-  {
    "id": "najada:8281",
    "title": "Pauper - První měsíc za půlku",
    "game": "mtg",
@@ -2527,16 +2507,6 @@
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-10T16:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8372",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-28T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
@@ -4242,6 +4212,6 @@
    "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-08-24T13:19:13.817Z",
+ "fetchedAt": "2026-08-24T19:04:38.966Z",
  "source": "najada"
 }
