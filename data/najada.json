@@ -4213,7 +4213,7 @@
   },
   {
    "id": "najada:8569",
-   "title": "2HG Reality Fracture Prerelease",
+   "title": "2vs2 Reality Fracture Prerelease",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-25T18:00:00+02:00",
@@ -4223,15 +4223,45 @@
   },
   {
    "id": "najada:8570",
-   "title": "1VS1 Reality Fracture Prerelease",
+   "title": "1vs1 Reality Fracture Prerelease",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-26T10:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
    "price": "800 Kč"
+  },
+  {
+   "id": "najada:8571",
+   "title": "2vs2 Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-26T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "1600 Kč"
+  },
+  {
+   "id": "najada:8572",
+   "title": "1vs1 Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-27T13:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "800 Kč"
+  },
+  {
+   "id": "najada:8573",
+   "title": "Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-27T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-26T13:27:35.849Z",
+ "fetchedAt": "2026-08-26T20:12:57.888Z",
  "source": "najada"
 }
