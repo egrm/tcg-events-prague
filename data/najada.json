@@ -3712,26 +3712,6 @@
    "price": "900 Kč"
   },
   {
-   "id": "najada:8516",
-   "title": "2HG Prerelease Reality Fracture",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-25T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "1600 Kč"
-  },
-  {
-   "id": "najada:8517",
-   "title": "1VS1 Prerelease Reality Fracture",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-26T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "800 Kč"
-  },
-  {
    "id": "najada:8518",
    "title": "Commander",
    "game": "mtg",
@@ -4210,8 +4190,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8567",
+   "title": "European Magic Series RCQ (2) | 2026-27 Round 2 Standard",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-24T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8568",
+   "title": "European Magic Series RCQ (2) | 2026-27 Round 2 Sealed",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-15T10:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "1000 Kč"
+  },
+  {
+   "id": "najada:8569",
+   "title": "2HG Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-25T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "1600 Kč"
+  },
+  {
+   "id": "najada:8570",
+   "title": "1VS1 Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-26T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "800 Kč"
   }
  ],
- "fetchedAt": "2026-08-26T07:12:42.443Z",
+ "fetchedAt": "2026-08-26T13:27:35.849Z",
  "source": "najada"
 }

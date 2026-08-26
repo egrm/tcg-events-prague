@@ -344,10 +344,11 @@
   },
   {
    "id": "wizards:11651208",
-   "title": "HBTsealedSS Standard Showdown",
+   "title": "SEALED DECK The Hobbit Standard Showdown",
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11651208",
+   "price": "CZK 900",
    "start": "2026-09-06T11:00:00+02:00"
   },
   {
@@ -721,7 +722,7 @@
   },
   {
    "id": "wizards:11215355",
-   "title": "Hobit Commander Party",
+   "title": "An Unexpected Commander Party",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11215355",
@@ -1570,6 +1571,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-26T07:13:37.446Z",
+ "fetchedAt": "2026-08-26T13:28:39.233Z",
  "source": "wizards"
 }
