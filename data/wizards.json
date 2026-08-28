@@ -2,41 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11298744",
-   "title": "EDH Commander Volné Hraní",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298744",
-   "start": "2026-08-28T14:00:00+02:00"
-  },
-  {
-   "id": "wizards:11386312",
-   "title": "Friday NIght Magic - cEDH",
-   "game": "mtg",
-   "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386312",
-   "price": "CZK 50",
-   "start": "2026-08-28T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:11546168",
-   "title": "FNM DRAFT",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546168",
-   "price": "CZK 500",
-   "start": "2026-08-28T17:15:00+02:00"
-  },
-  {
-   "id": "wizards:11298780",
-   "title": "Friday Night Magic Vintage Cube Draft",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298780",
-   "price": "CZK 150",
-   "start": "2026-08-28T18:00:00+02:00"
-  },
-  {
    "id": "wizards:11591534",
    "title": "Weekend Premodern",
    "game": "mtg",
@@ -44,6 +9,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11591534",
    "price": "CZK 100",
    "start": "2026-08-29T10:15:00+02:00"
+  },
+  {
+   "id": "wizards:11729093",
+   "title": "casual commander",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11729093",
+   "start": "2026-08-29T12:00:00+02:00"
   },
   {
    "id": "wizards:11298730",
@@ -78,7 +51,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482993",
-   "start": "2026-08-31T16:00:00+02:00"
+   "start": "2026-08-30T11:00:00+02:00"
   },
   {
    "id": "wizards:11650322",
@@ -171,7 +144,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482144",
    "price": "CZK 200",
-   "start": "2026-09-02T17:00:00+02:00"
+   "start": "2026-09-02T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11714122",
@@ -180,7 +154,8 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714122",
    "price": "CZK 400",
-   "start": "2026-09-02T17:00:00+02:00"
+   "start": "2026-09-02T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298654",
@@ -716,15 +691,6 @@
    "start": "2026-09-20T11:00:00+02:00"
   },
   {
-   "id": "wizards:11650274",
-   "title": "An Unexpected Crafting Party",
-   "game": "mtg",
-   "storeId": "xzone",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650274",
-   "start": "2026-09-21T00:00:00+02:00",
-   "allDay": true
-  },
-  {
    "id": "wizards:11650332",
    "title": "The Hobbit Commander Party",
    "game": "mtg",
@@ -805,8 +771,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-23T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-22T18:00:00+02:00"
   },
   {
    "id": "wizards:11298657",
@@ -832,6 +797,14 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482212",
+   "start": "2026-09-23T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11650274",
+   "title": "An Unexpected Crafting Party",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11650274",
    "start": "2026-09-24T16:00:00+02:00"
   },
   {
@@ -1634,6 +1607,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-08-28T11:32:09.569Z",
+ "fetchedAt": "2026-08-28T22:28:56.205Z",
  "source": "wizards"
 }

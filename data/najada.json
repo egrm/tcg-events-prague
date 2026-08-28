@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8006",
-   "title": "Star Wars: Unlimited",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-08-28T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8008",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-28T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
-  },
-  {
    "id": "najada:8010",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -1830,16 +1810,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Legacy",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8320",
-   "title": "Draft Hobbit - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-28T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "225 Kč"
   },
   {
    "id": "najada:8321",
@@ -3952,26 +3922,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8556",
-   "title": "Hraní Dračí Hlídky",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-08-28T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "jiné",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8557",
-   "title": "FNM Draft: Murders at Karlov Manor",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-28T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8558",
    "title": "Duel Commander",
    "game": "mtg",
@@ -4192,6 +4142,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-08-28T11:31:15.154Z",
+ "fetchedAt": "2026-08-28T22:27:50.386Z",
  "source": "najada"
 }
