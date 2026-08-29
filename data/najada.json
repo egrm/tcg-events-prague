@@ -3492,26 +3492,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8509",
-   "title": "Commander Night",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-29T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8510",
-   "title": "Draft Secrets of Strixhave",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-30T14:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8511",
    "title": "Commander",
    "game": "mtg",
@@ -4140,8 +4120,28 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8580",
+   "title": "Draft Secrets of Strixhaven",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-30T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8581",
+   "title": "Noční hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-08-29T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-28T22:27:50.386Z",
+ "fetchedAt": "2026-08-29T07:10:33.016Z",
  "source": "najada"
 }
