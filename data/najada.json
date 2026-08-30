@@ -302,16 +302,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8067",
-   "title": "Summoner Skirmish - August",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-08-29T10:30:00+02:00",
-   "url": "https://locator.riftbound.uvsgames.com/events/499624",
-   "format": "Constructed Riftbound",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8068",
    "title": "Star Wars: Unlimited",
    "game": "swu",
@@ -1260,26 +1250,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8229",
-   "title": "One Piece The World's Strongest Warriors - Release Event - Run #1",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-08-29T10:30:00+02:00",
-   "url": "https://www.bandai-tcg-plus.com/event/6173507",
-   "format": "OP Sealed Deck",
-   "price": "700 Kč"
-  },
-  {
-   "id": "najada:8230",
-   "title": "One Piece The World's Strongest Warriors - Release Event - Run #2",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-08-29T15:00:00+02:00",
-   "url": "https://www.bandai-tcg-plus.com/event/6173508",
-   "format": "OP Sealed Deck",
-   "price": "700 Kč"
   },
   {
    "id": "najada:8231",
@@ -4130,18 +4100,8 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "450 Kč"
-  },
-  {
-   "id": "najada:8581",
-   "title": "Noční hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-29T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-29T20:59:24.836Z",
+ "fetchedAt": "2026-08-30T05:32:03.187Z",
  "source": "najada"
 }
