@@ -33,13 +33,13 @@
   },
   {
    "id": "najada:8013",
-   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "title": "WORLD CHAMPIONSHIP 2026 – OTS Celebration",
    "game": "yugioh",
    "storeId": "najada",
    "start": "2026-08-31T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
-   "price": "100 Kč"
+   "price": "300 Kč"
   },
   {
    "id": "najada:8020",
@@ -4070,8 +4070,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8588",
+   "title": "Magnificent Monsters Release Event - Prague",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-09-13T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "300 Kč"
   }
  ],
- "fetchedAt": "2026-08-31T05:46:03.098Z",
+ "fetchedAt": "2026-08-31T14:04:52.451Z",
  "source": "najada"
 }
