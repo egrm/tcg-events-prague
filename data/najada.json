@@ -712,16 +712,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8140",
-   "title": "Conquest Bohemian Blood League 2026 Vol. 5",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-08-30T10:30:00+02:00",
-   "url": "https://fb.me/e/6QzbFgfLE",
-   "format": "Conquest",
-   "price": "200 Kč"
-  },
-  {
    "id": "najada:8141",
    "title": "Duel Commander",
    "game": "mtg",
@@ -1022,36 +1012,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8189",
-   "title": "Najáda Back to school CORE",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-30T10:30:00+02:00",
-   "url": "https://tcg.ravensburgerplay.com/events/729645",
-   "format": "Lorcana Constructed",
-   "price": "500 Kč"
-  },
-  {
-   "id": "najada:8190",
-   "title": "Infinity Fairy Tales Tournament",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-30T15:00:00+02:00",
-   "url": "https://tcg.ravensburgerplay.com/events/729649",
-   "format": "Lorcana Constructed",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:8191",
-   "title": "Draft Attack of the Vine!",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-30T15:00:00+02:00",
-   "url": "https://tcg.ravensburgerplay.com/events/729652",
-   "format": "Lorcana Sealed Deck",
-   "price": "550 Kč"
-  },
-  {
    "id": "najada:8194",
    "title": "Magic Presents: Heart of the Mountain Commander Party",
    "game": "mtg",
@@ -1100,26 +1060,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8202",
-   "title": "Dragon Ball Super: Fusion World - Store Tournament",
-   "game": "dbfw",
-   "storeId": "najada",
-   "start": "2026-08-30T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed DBFW",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8204",
-   "title": "Gundam Card Game – Store Tournament",
-   "game": "gundam",
-   "storeId": "najada",
-   "start": "2026-08-30T14:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Gundam Constructed",
-   "price": "200 Kč"
   },
   {
    "id": "najada:8209",
@@ -3492,16 +3432,6 @@
    "price": "550 Kč"
   },
   {
-   "id": "najada:8514",
-   "title": "Chaos draft",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-08-30T14:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Sealed Deck",
-   "price": "900 Kč"
-  },
-  {
    "id": "najada:8515",
    "title": "Draft Modern Horizons III",
    "game": "mtg",
@@ -4090,8 +4020,58 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8583",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-11-30T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8584",
+   "title": "Legačka",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-30T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8585",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-11-30T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8586",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-11-30T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8587",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-30T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-08-30T21:13:48.264Z",
+ "fetchedAt": "2026-08-31T05:46:03.098Z",
  "source": "najada"
 }
