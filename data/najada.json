@@ -2,46 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8010",
-   "title": "Armory Event - Constructed",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-08-31T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Classic Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8011",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-31T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8012",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-08-31T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8013",
-   "title": "WORLD CHAMPIONSHIP 2026 – OTS Celebration",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-08-31T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8020",
    "title": "Duel Commander",
    "game": "mtg",
@@ -1552,16 +1512,6 @@
    "price": "50 Kč"
   },
   {
-   "id": "najada:8283",
-   "title": "Modern - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-08-31T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8284",
    "title": "Modern",
    "game": "mtg",
@@ -1770,16 +1720,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8329",
-   "title": "Pokémon Free play",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-08-31T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
   },
   {
    "id": "najada:8330",
@@ -4082,6 +4022,6 @@
    "price": "300 Kč"
   }
  ],
- "fetchedAt": "2026-08-31T14:04:52.451Z",
+ "fetchedAt": "2026-08-31T22:55:07.174Z",
  "source": "najada"
 }
