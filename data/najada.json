@@ -2,36 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8020",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-01T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
-   "id": "najada:8021",
-   "title": "Draft The Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-01T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
-   "id": "najada:8022",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-01T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8023",
    "title": "Lorcana League",
    "game": "lorcana",
@@ -4062,6 +4032,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-01T11:46:58.218Z",
+ "fetchedAt": "2026-09-01T16:44:51.063Z",
  "source": "najada"
 }

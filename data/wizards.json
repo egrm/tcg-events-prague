@@ -2,31 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11386300",
-   "title": "Commander Evening at The Grail",
-   "game": "mtg",
-   "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386300",
-   "start": "2026-09-01T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:11533733",
-   "title": "Booster Draft - The Hobbit",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11533733",
-   "price": "CZK 550",
-   "start": "2026-09-01T17:30:00+02:00"
-  },
-  {
-   "id": "wizards:11482130",
-   "title": "free premodern",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482130",
-   "start": "2026-09-01T17:45:00+02:00"
-  },
-  {
    "id": "wizards:11483034",
    "title": "Modern STREDA",
    "game": "mtg",
@@ -51,8 +26,7 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714122",
    "price": "CZK 400",
-   "start": "2026-09-02T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-02T17:00:00+02:00"
   },
   {
    "id": "wizards:11298654",
@@ -258,7 +232,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386302",
-   "start": "2026-09-07T22:00:00+02:00"
+   "start": "2026-09-08T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11754305",
@@ -440,7 +415,8 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11742635",
    "price": "CZK 450",
-   "start": "2026-09-14T17:45:00+02:00"
+   "start": "2026-09-14T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11742799",
@@ -704,7 +680,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-22T18:00:00+02:00"
+   "start": "2026-09-23T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298657",
@@ -730,7 +707,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482212",
-   "start": "2026-09-24T16:00:00+02:00"
+   "start": "2026-09-23T18:00:00+02:00"
   },
   {
    "id": "wizards:11650274",
@@ -852,15 +829,14 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298695",
    "price": "CZK 150",
-   "start": "2026-09-27T11:00:00+02:00"
+   "start": "2026-09-27T10:00:00+02:00"
   },
   {
-   "id": "wizards:11298695",
-   "title": "Standard",
+   "id": "wizards:11715856",
+   "title": "Reality Fracture Prerelease",
    "game": "mtg",
    "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298695",
-   "price": "CZK 150",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11715856",
    "start": "2026-09-27T11:00:00+02:00"
   },
   {
@@ -947,8 +923,7 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714100",
    "price": "CZK 700",
-   "start": "2026-09-30T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11298658",
@@ -1145,7 +1120,8 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-11T11:00:00+02:00"
+   "start": "2026-10-12T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11714208",
@@ -1565,6 +1541,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-01T11:48:01.927Z",
+ "fetchedAt": "2026-09-01T16:46:21.576Z",
  "source": "wizards"
 }
