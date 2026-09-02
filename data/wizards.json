@@ -133,13 +133,13 @@
    "start": "2026-09-06T10:00:00+02:00"
   },
   {
-   "id": "wizards:11298692",
-   "title": "Standard",
+   "id": "wizards:11651208",
+   "title": "SEALED DECK The Hobbit Standard Showdown",
    "game": "mtg",
    "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298692",
-   "price": "CZK 150",
-   "start": "2026-09-06T10:00:00+02:00"
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11651208",
+   "price": "CZK 900",
+   "start": "2026-09-06T11:00:00+02:00"
   },
   {
    "id": "wizards:11651208",
@@ -232,8 +232,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386302",
-   "start": "2026-09-08T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-07T22:00:00+02:00"
   },
   {
    "id": "wizards:11754305",
@@ -415,16 +414,15 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11742635",
    "price": "CZK 450",
-   "start": "2026-09-14T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-14T18:00:00+02:00"
   },
   {
-   "id": "wizards:11742799",
-   "title": "Spider-Man Pick-one Draft",
+   "id": "wizards:11742635",
+   "title": "Avengers, assemble! Draft",
    "game": "mtg",
    "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11742799",
-   "price": "CZK 350",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11742635",
+   "price": "CZK 450",
    "start": "2026-09-14T18:00:00+02:00"
   },
   {
@@ -477,7 +475,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482146",
    "price": "CZK 200",
-   "start": "2026-09-16T17:00:00+02:00"
+   "start": "2026-09-16T17:30:00+02:00"
   },
   {
    "id": "wizards:11298656",
@@ -680,8 +678,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482147",
    "price": "CZK 200",
-   "start": "2026-09-23T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-22T18:00:00+02:00"
   },
   {
    "id": "wizards:11298657",
@@ -803,7 +800,7 @@
    "storeId": "fyft",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11665387",
    "price": "CZK 900",
-   "start": "2026-09-26T11:00:00+02:00"
+   "start": "2026-09-26T14:00:00+02:00"
   },
   {
    "id": "wizards:11298734",
@@ -914,7 +911,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:00:00+02:00"
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11714100",
@@ -923,7 +920,8 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714100",
    "price": "CZK 700",
-   "start": "2026-09-30T17:30:00+02:00"
+   "start": "2026-09-30T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298658",
@@ -1120,8 +1118,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-12T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-10-11T11:00:00+02:00"
   },
   {
    "id": "wizards:11714208",
@@ -1541,6 +1538,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-02T04:46:18.458Z",
+ "fetchedAt": "2026-09-02T11:29:19.574Z",
  "source": "wizards"
 }
