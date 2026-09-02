@@ -926,7 +926,7 @@
    "title": "Magic Presents: Heart of the Mountain Commander Party",
    "game": "mtg",
    "storeId": "najada",
-   "start": "2026-09-06T10:00:00+02:00",
+   "start": "2026-09-06T10:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
@@ -3262,16 +3262,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8512",
-   "title": "Commander night",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-12T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8513",
    "title": "Riftbound Chaos Draft",
    "game": "riftbound",
@@ -4060,8 +4050,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "400 Kč"
+  },
+  {
+   "id": "najada:8602",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-06T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8603",
+   "title": "Noční hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-12T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8604",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-19T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8605",
+   "title": "Draft Modern Horizonts 3",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-20T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-02T11:28:26.194Z",
+ "fetchedAt": "2026-09-02T16:41:01.141Z",
  "source": "najada"
 }
