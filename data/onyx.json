@@ -254,8 +254,18 @@
    "start": "2026-09-28T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "100,-"
+  },
+  {
+   "id": "onyx:pokemon-liga-volne-hrani-2026-09-29",
+   "title": "Pokémon liga - volné hraní",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-09-29T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-09-29T20:00:00+02:00"
   }
  ],
- "fetchedAt": "2026-09-01T21:07:59.959Z",
+ "fetchedAt": "2026-09-02T04:45:10.768Z",
  "source": "onyx"
 }
