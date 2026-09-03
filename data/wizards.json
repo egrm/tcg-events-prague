@@ -698,6 +698,15 @@
    "start": "2026-09-25T14:00:00+02:00"
   },
   {
+   "id": "wizards:11777462",
+   "title": "Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777462",
+   "price": "CZK 800",
+   "start": "2026-09-25T14:00:00+02:00"
+  },
+  {
    "id": "wizards:11665383",
    "title": "Reality Fracture Prerelease (sealed) Prerelease",
    "game": "mtg",
@@ -726,15 +735,6 @@
    "start": "2026-09-25T17:00:00+02:00"
   },
   {
-   "id": "wizards:11546172",
-   "title": "FNM DRAFT",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546172",
-   "price": "CZK 500",
-   "start": "2026-09-25T17:15:00+02:00"
-  },
-  {
    "id": "wizards:11714099",
    "title": "Reality Fracture Prerelease",
    "game": "mtg",
@@ -750,6 +750,15 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11715851",
    "start": "2026-09-25T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11777477",
+   "title": "Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777477",
+   "price": "CZK 800",
+   "start": "2026-09-26T10:00:00+02:00"
   },
   {
    "id": "wizards:11715832",
@@ -778,6 +787,15 @@
    "start": "2026-09-26T14:00:00+02:00"
   },
   {
+   "id": "wizards:11777524",
+   "title": "2HG Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777524",
+   "price": "CZK 1,600",
+   "start": "2026-09-26T15:15:00+02:00"
+  },
+  {
    "id": "wizards:11715855",
    "title": "Reality Fracture Prerelease",
    "game": "mtg",
@@ -786,14 +804,22 @@
    "start": "2026-09-26T16:00:00+02:00"
   },
   {
+   "id": "wizards:11777525",
+   "title": "2HG Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777525",
+   "price": "CZK 1,600",
+   "start": "2026-09-27T10:00:00+02:00"
+  },
+  {
    "id": "wizards:11298695",
    "title": "Standard",
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298695",
    "price": "CZK 150",
-   "start": "2026-09-27T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-27T10:00:00+02:00"
   },
   {
    "id": "wizards:11715856",
@@ -802,6 +828,15 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11715856",
    "start": "2026-09-27T11:00:00+02:00"
+  },
+  {
+   "id": "wizards:11777478",
+   "title": "Reality Fracture Prerelease",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777478",
+   "price": "CZK 800",
+   "start": "2026-09-27T15:15:00+02:00"
   },
   {
    "id": "wizards:11482997",
@@ -878,7 +913,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:00:00+02:00"
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11714100",
@@ -1069,6 +1104,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298786",
    "price": "CZK 150",
    "start": "2026-10-09T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11777654",
+   "title": "Welcome to the Commander Party",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777654",
+   "start": "2026-10-10T10:00:00+02:00"
   },
   {
    "id": "wizards:11298697",
@@ -1292,6 +1335,14 @@
    "start": "2026-10-23T18:00:00+02:00"
   },
   {
+   "id": "wizards:11777656",
+   "title": "Welcome to the Commander Party",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777656",
+   "start": "2026-10-24T10:00:00+02:00"
+  },
+  {
    "id": "wizards:11298699",
    "title": "Standard",
    "game": "mtg",
@@ -1505,6 +1556,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-03T04:41:39.753Z",
+ "fetchedAt": "2026-09-03T11:25:55.179Z",
  "source": "wizards"
 }
