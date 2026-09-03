@@ -165,12 +165,20 @@
    "start": "2026-09-07T22:00:00+02:00"
   },
   {
+   "id": "wizards:11782411",
+   "title": "Casual Commander",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782411",
+   "start": "2026-09-08T16:00:00+02:00"
+  },
+  {
    "id": "wizards:11386302",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386302",
-   "start": "2026-09-07T22:00:00+02:00"
+   "start": "2026-09-08T16:00:00+02:00"
   },
   {
    "id": "wizards:11754305",
@@ -206,7 +214,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482145",
    "price": "CZK 200",
-   "start": "2026-09-09T17:30:00+02:00"
+   "start": "2026-09-09T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11771257",
@@ -276,8 +285,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386314",
    "price": "CZK 50",
-   "start": "2026-09-11T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-11T17:00:00+02:00"
   },
   {
    "id": "wizards:11546170",
@@ -363,8 +371,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11742799",
    "price": "CZK 350",
-   "start": "2026-09-14T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-14T17:45:00+02:00"
   },
   {
    "id": "wizards:11780513",
@@ -476,8 +483,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386315",
    "price": "CZK 50",
-   "start": "2026-09-18T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-18T17:00:00+02:00"
   },
   {
    "id": "wizards:11546171",
@@ -545,7 +551,8 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482996",
-   "start": "2026-09-21T16:00:00+02:00"
+   "start": "2026-09-21T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11650332",
@@ -589,11 +596,11 @@
    "start": "2026-09-21T18:00:00+02:00"
   },
   {
-   "id": "wizards:11249624",
+   "id": "wizards:11782447",
    "title": "B2B Commander Draft",
    "game": "mtg",
    "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11249624",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782447",
    "price": "CZK 400",
    "start": "2026-09-21T22:00:00+02:00"
   },
@@ -798,12 +805,14 @@
    "start": "2026-09-27T10:00:00+02:00"
   },
   {
-   "id": "wizards:11715856",
-   "title": "Reality Fracture Prerelease",
+   "id": "wizards:11298695",
+   "title": "Standard",
    "game": "mtg",
    "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11715856",
-   "start": "2026-09-27T11:00:00+02:00"
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298695",
+   "price": "CZK 150",
+   "start": "2026-09-27T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11715856",
@@ -1022,6 +1031,15 @@
    "start": "2026-10-05T17:15:00+02:00"
   },
   {
+   "id": "wizards:11782449",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782449",
+   "price": "CZK 400",
+   "start": "2026-10-05T22:00:00+02:00"
+  },
+  {
    "id": "wizards:11482123",
    "title": "free pauper",
    "game": "mtg",
@@ -1121,7 +1139,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-12T16:00:00+02:00"
+   "start": "2026-10-11T11:00:00+02:00"
   },
   {
    "id": "wizards:11714208",
@@ -1138,6 +1156,24 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482112",
    "start": "2026-10-12T17:15:00+02:00"
+  },
+  {
+   "id": "wizards:11782445",
+   "title": "Innistrad Midraft hunt",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782445",
+   "price": "CZK 350",
+   "start": "2026-10-12T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11782450",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782450",
+   "price": "CZK 400",
+   "start": "2026-10-12T22:00:00+02:00"
   },
   {
    "id": "wizards:11482133",
@@ -1259,6 +1295,15 @@
    "price": "CZK 390",
    "start": "2026-10-19T00:00:00+02:00",
    "allDay": true
+  },
+  {
+   "id": "wizards:11782451",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782451",
+   "price": "CZK 400",
+   "start": "2026-10-19T22:00:00+02:00"
   },
   {
    "id": "wizards:11482124",
@@ -1389,6 +1434,15 @@
    "start": "2026-10-26T17:00:00+01:00"
   },
   {
+   "id": "wizards:11782452",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782452",
+   "price": "CZK 400",
+   "start": "2026-10-26T22:00:00+01:00"
+  },
+  {
    "id": "wizards:11482134",
    "title": "free premodern",
    "game": "mtg",
@@ -1468,6 +1522,15 @@
    "start": "2026-11-02T18:00:00+01:00"
   },
   {
+   "id": "wizards:11782453",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782453",
+   "price": "CZK 400",
+   "start": "2026-11-02T22:00:00+01:00"
+  },
+  {
    "id": "wizards:11583701",
    "title": "Commander party",
    "game": "mtg",
@@ -1530,6 +1593,15 @@
    "start": "2026-11-08T11:00:00+01:00"
   },
   {
+   "id": "wizards:11782454",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782454",
+   "price": "CZK 400",
+   "start": "2026-11-09T22:00:00+01:00"
+  },
+  {
    "id": "wizards:11637070",
    "title": "Modern STREDA",
    "game": "mtg",
@@ -1565,6 +1637,24 @@
    "start": "2026-11-13T17:15:00+01:00"
   },
   {
+   "id": "wizards:11782455",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782455",
+   "price": "CZK 400",
+   "start": "2026-11-16T22:00:00+01:00"
+  },
+  {
+   "id": "wizards:11782456",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782456",
+   "price": "CZK 400",
+   "start": "2026-11-23T22:00:00+01:00"
+  },
+  {
    "id": "wizards:11637071",
    "title": "Modern STREDA",
    "game": "mtg",
@@ -1572,6 +1662,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637071",
    "price": "$100",
    "start": "2026-11-25T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11782457",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782457",
+   "price": "CZK 400",
+   "start": "2026-11-30T22:00:00+01:00"
   }
  ],
  "stores": {
@@ -1586,6 +1685,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-03T16:33:18.171Z",
+ "fetchedAt": "2026-09-03T21:09:11.465Z",
  "source": "wizards"
 }
