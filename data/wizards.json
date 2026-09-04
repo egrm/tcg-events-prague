@@ -785,7 +785,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777524",
    "price": "CZK 1,600",
-   "start": "2026-09-26T15:15:00+02:00"
+   "start": "2026-09-26T15:30:00+02:00"
   },
   {
    "id": "wizards:11715855",
@@ -829,7 +829,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777478",
    "price": "CZK 800",
-   "start": "2026-09-27T15:15:00+02:00"
+   "start": "2026-09-27T15:30:00+02:00"
   },
   {
    "id": "wizards:11482997",
@@ -1685,6 +1685,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-04T04:44:29.870Z",
+ "fetchedAt": "2026-09-04T11:29:01.152Z",
  "source": "wizards"
 }
