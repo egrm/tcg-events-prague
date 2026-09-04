@@ -1492,16 +1492,6 @@
    "price": "200 Kč"
   },
   {
-   "id": "najada:8321",
-   "title": "Draft Hobbit - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-04T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "225 Kč"
-  },
-  {
    "id": "najada:8322",
    "title": "Draft Hobbit",
    "game": "mtg",
@@ -3662,6 +3652,16 @@
    "price": "800 Kč"
   },
   {
+   "id": "najada:8573",
+   "title": "Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-27T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
    "id": "najada:8574",
    "title": "Modern",
    "game": "mtg",
@@ -3902,16 +3902,6 @@
    "price": "700 Kč"
   },
   {
-   "id": "najada:8601",
-   "title": "FNM: Innistrad Remastered Draft",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-04T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8602",
    "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
@@ -4032,6 +4022,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-04T11:27:57.213Z",
+ "fetchedAt": "2026-09-04T16:27:54.909Z",
  "source": "najada"
 }
