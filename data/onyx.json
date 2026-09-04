@@ -244,8 +244,28 @@
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-09-29T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-10-01",
+   "title": "Riftbound Nexus Night - volné hraní",
+   "game": "riftbound",
+   "storeId": "onyx",
+   "start": "2026-10-01T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-10-01T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:lorcana-weekly-volne-hrani-2026-10-01",
+   "title": "Lorcana Weekly - volné hraní",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-10-01T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-10-01T20:00:00+02:00"
   }
  ],
- "fetchedAt": "2026-09-03T21:07:43.286Z",
+ "fetchedAt": "2026-09-04T04:42:56.866Z",
  "source": "onyx"
 }
