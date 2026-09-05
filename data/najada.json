@@ -1433,13 +1433,13 @@
   },
   {
    "id": "najada:8306",
-   "title": "Riftbound",
+   "title": "Riftbound Nexus Night",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-09-16T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed Riftbound",
-   "price": "150 Kč"
+   "price": "120 Kč"
   },
   {
    "id": "najada:8311",
@@ -4002,6 +4002,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-05T04:39:00.907Z",
+ "fetchedAt": "2026-09-05T10:43:42.860Z",
  "source": "najada"
 }
