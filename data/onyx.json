@@ -246,8 +246,26 @@
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-10-01T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-10-02",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-10-02T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "150,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-10-02",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-10-02T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
   }
  ],
- "fetchedAt": "2026-09-04T20:50:09.225Z",
+ "fetchedAt": "2026-09-05T04:39:01.977Z",
  "source": "onyx"
 }
