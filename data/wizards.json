@@ -2,15 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11298731",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298731",
-   "price": "CZK 100",
-   "start": "2026-09-05T14:00:00+02:00"
-  },
-  {
    "id": "wizards:11351984",
    "title": "Companion cEDH",
    "game": "mtg",
@@ -114,20 +105,12 @@
    "start": "2026-09-07T22:00:00+02:00"
   },
   {
-   "id": "wizards:11782411",
-   "title": "Casual Commander",
-   "game": "mtg",
-   "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782411",
-   "start": "2026-09-08T16:00:00+02:00"
-  },
-  {
    "id": "wizards:11386302",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386302",
-   "start": "2026-09-08T16:00:00+02:00"
+   "start": "2026-09-07T22:00:00+02:00"
   },
   {
    "id": "wizards:11754305",
@@ -609,8 +592,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482212",
-   "start": "2026-09-24T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-23T18:00:00+02:00"
   },
   {
    "id": "wizards:11650274",
@@ -853,7 +835,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:30:00+02:00"
+   "start": "2026-09-30T17:00:00+02:00"
   },
   {
    "id": "wizards:11714100",
@@ -1633,6 +1615,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-05T10:44:35.395Z",
+ "fetchedAt": "2026-09-05T15:21:17.575Z",
  "source": "wizards"
 }
