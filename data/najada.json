@@ -1122,16 +1122,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8243",
-   "title": "Store Showdown - Premier",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-09-05T11:00:00+02:00",
-   "url": "https://melee.gg/Tournament/View/447115",
-   "format": "Constructed SWU",
-   "price": "200 Kč"
-  },
-  {
    "id": "najada:8245",
    "title": "Modern",
    "game": "mtg",
@@ -3032,26 +3022,6 @@
    "price": "300 Kč"
   },
   {
-   "id": "najada:8501",
-   "title": "One Piece Pirates Party 2026 Vol. 3 – Constructed",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-09-05T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "300 Kč"
-  },
-  {
-   "id": "najada:8502",
-   "title": "One Piece Pirates Party 2026 Vol. 3 – 2-on-2 Battle",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-09-05T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8503",
    "title": "Dragon Ball Super: Fusion World - Store Tournament",
    "game": "dbfw",
@@ -4002,6 +3972,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-05T20:28:33.086Z",
+ "fetchedAt": "2026-09-06T04:49:07.182Z",
  "source": "najada"
 }
