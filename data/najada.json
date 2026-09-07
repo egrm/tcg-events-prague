@@ -12,16 +12,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8037",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-07T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8038",
    "title": "Store Tournament",
    "game": "onepiece",
@@ -53,13 +43,13 @@
   },
   {
    "id": "najada:8055",
-   "title": "Draft",
+   "title": "Draft the Hobbit",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-08T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "450 Kč"
   },
   {
    "id": "najada:8056",
@@ -213,13 +203,13 @@
   },
   {
    "id": "najada:8086",
-   "title": "Draft",
+   "title": "Draft the Hobbit",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-15T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "45 Kč"
   },
   {
    "id": "najada:8087",
@@ -363,13 +353,13 @@
   },
   {
    "id": "najada:8110",
-   "title": "Draft",
+   "title": "Draft the Hobbit",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-22T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "450 Kč"
   },
   {
    "id": "najada:8111",
@@ -1330,16 +1320,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8281",
-   "title": "Pauper - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-07T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
-   "price": "50 Kč"
   },
   {
    "id": "najada:8284",
@@ -4020,8 +4000,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "400 Kč"
+  },
+  {
+   "id": "najada:8624",
+   "title": "Booster Premier Event - Beyond the Brave",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-10-04T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Preview tournament",
+   "price": "400 Kč"
+  },
+  {
+   "id": "najada:8625",
+   "title": "OTS Championship - Beyond the Brace - Prague",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2026-10-25T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8626",
+   "title": "Pokémon League Challenge",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-09-09T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "250 Kč"
   }
  ],
- "fetchedAt": "2026-09-07T12:45:19.240Z",
+ "fetchedAt": "2026-09-07T21:35:51.698Z",
  "source": "najada"
 }
