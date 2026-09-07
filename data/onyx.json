@@ -8,7 +8,7 @@
    "storeId": "onyx",
    "start": "2026-09-07T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:star-wars-unlimited-liga-turnaj-2026-09-07",
@@ -50,13 +50,13 @@
    "end": "2026-09-10T20:00:00+02:00"
   },
   {
-   "id": "onyx:pokemon-turnaj-standard-2026-09-11",
-   "title": "Pokémon turnaj - Standard",
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-09-11",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
    "game": "pokemon",
    "storeId": "onyx",
    "start": "2026-09-11T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:lorcana-draft-2026-09-11",
@@ -74,7 +74,7 @@
    "storeId": "onyx",
    "start": "2026-09-14T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:star-wars-unlimited-liga-turnaj-2026-09-14",
@@ -116,13 +116,13 @@
    "end": "2026-09-17T20:00:00+02:00"
   },
   {
-   "id": "onyx:pokemon-turnaj-standard-2026-09-18",
-   "title": "Pokémon turnaj - Standard",
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-09-18",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
    "game": "pokemon",
    "storeId": "onyx",
    "start": "2026-09-18T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:lorcana-draft-2026-09-18",
@@ -140,7 +140,7 @@
    "storeId": "onyx",
    "start": "2026-09-21T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:star-wars-unlimited-liga-turnaj-2026-09-21",
@@ -182,13 +182,13 @@
    "end": "2026-09-24T20:00:00+02:00"
   },
   {
-   "id": "onyx:pokemon-turnaj-standard-2026-09-25",
-   "title": "Pokémon turnaj - Standard",
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-09-25",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
    "game": "pokemon",
    "storeId": "onyx",
    "start": "2026-09-25T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:lorcana-draft-2026-09-25",
@@ -206,7 +206,7 @@
    "storeId": "onyx",
    "start": "2026-09-28T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:star-wars-unlimited-liga-turnaj-2026-09-28",
@@ -248,13 +248,13 @@
    "end": "2026-10-01T20:00:00+02:00"
   },
   {
-   "id": "onyx:pokemon-turnaj-standard-2026-10-02",
-   "title": "Pokémon turnaj - Standard",
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-10-02",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
    "game": "pokemon",
    "storeId": "onyx",
    "start": "2026-10-02T17:30:00+02:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "150,-"
+   "price": "120,-"
   },
   {
    "id": "onyx:lorcana-draft-2026-10-02",
@@ -266,6 +266,6 @@
    "price": "600,-"
   }
  ],
- "fetchedAt": "2026-09-07T04:53:43.429Z",
+ "fetchedAt": "2026-09-07T12:45:20.153Z",
  "source": "onyx"
 }

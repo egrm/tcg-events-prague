@@ -3943,7 +3943,7 @@
   },
   {
    "id": "najada:8616",
-   "title": "Legacy",
+   "title": "Legačka",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-12-07T18:00:00+01:00",
@@ -3980,8 +3980,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8620",
+   "title": "FNM: Kamigawa: Neon Dynasty Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-11T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "400 Kč"
+  },
+  {
+   "id": "najada:8621",
+   "title": "FNM: Zendikar Rising Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-18T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8622",
+   "title": "Víkendový Draft: Ravnica Remastered",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-13T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8623",
+   "title": "Víkendový Draft: Duskmourn: House of Horror",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-09-13T15:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-09-07T04:53:42.258Z",
+ "fetchedAt": "2026-09-07T12:45:19.240Z",
  "source": "najada"
 }
