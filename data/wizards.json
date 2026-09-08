@@ -1474,6 +1474,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11351989",
    "price": "CZK 400",
    "start": "2026-12-06T10:00:00+01:00"
+  },
+  {
+   "id": "wizards:11782458",
+   "title": "B2B Commander Draft",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782458",
+   "price": "CZK 400",
+   "start": "2026-12-07T22:00:00+01:00"
   }
  ],
  "stores": {
@@ -1483,6 +1492,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-08T16:44:22.281Z",
+ "fetchedAt": "2026-09-08T21:16:14.486Z",
  "source": "wizards"
 }
