@@ -239,10 +239,11 @@
   },
   {
    "id": "wizards:11482131",
-   "title": "free premodern",
+   "title": "premodern",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482131",
+   "price": "CZK 100",
    "start": "2026-09-15T17:45:00+02:00"
   },
   {
@@ -1522,6 +1523,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-08T04:50:41.397Z",
+ "fetchedAt": "2026-09-08T11:29:12.509Z",
  "source": "wizards"
 }

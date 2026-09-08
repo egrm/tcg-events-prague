@@ -4030,8 +4030,28 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:8631",
+   "title": "Cyberpunk TCG Beta Starter Deck Event",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-09-13T11:00:00+02:00",
+   "url": "https://melee.gg/Tournament/View/463480",
+   "format": "Starter deck event CP",
+   "price": "700 Kč"
+  },
+  {
+   "id": "najada:8632",
+   "title": "Cyberpunk TCG Pre-Release Event",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-09-19T11:00:00+02:00",
+   "url": "https://melee.gg/Tournament/View/463481",
+   "format": "Sealed CP",
+   "price": "800 Kč"
   }
  ],
- "fetchedAt": "2026-09-08T04:49:27.053Z",
+ "fetchedAt": "2026-09-08T11:28:06.922Z",
  "source": "najada"
 }
