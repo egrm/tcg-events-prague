@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "wizards:11482210",
@@ -1458,5 +1458,6 @@
   }
  },
  "fetchedAt": "2026-09-09T16:46:30.667Z",
- "source": "wizards"
+ "source": "wizards",
+ "error": "Error: HTTP 503 for https://locator.wizards.com/search?searchType=events&query=Prague%2C+Czechia&distance=10&page=2"
 }
