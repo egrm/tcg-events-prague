@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "gameshub:xzone-praha-kompetitivni-liga",
@@ -8,7 +8,7 @@
    "storeId": "gh-xzone-praha",
    "start": "2026-09-11T18:00:00+02:00",
    "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga/",
-   "format": "Standard Kapacita: 40 míst Vstupné: 100 ,-"
+   "format": "Standard Vstupné: 100 Kč Registrace: od 17:30 Začátek hraní: 18:00 Ceny: 1 booster Pitch black za hráče do cen a 1 prize pack za účast v turnaji Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha Kompetitivní Liga Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
   }
  ],
  "stores": {
@@ -18,7 +18,6 @@
    "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga/"
   }
  },
- "fetchedAt": "2026-09-10T04:54:34.619Z",
- "source": "gameshub",
- "error": "Error: fetch failed (UND_ERR_CONNECT_TIMEOUT) for https://games-hub.gg/seznam_turnaju/?gid=magic"
+ "fetchedAt": "2026-09-10T20:58:26.617Z",
+ "source": "gameshub"
 }
