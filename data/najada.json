@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8064",
-   "title": "Modern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-10T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "150 Kč"
-  },
-  {
    "id": "najada:8066",
    "title": "Weekly Vanguard",
    "game": "vanguard",
@@ -170,16 +160,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:8096",
-   "title": "Premodern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-10T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Other",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8097",
@@ -1320,16 +1300,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Constructed",
    "price": "50 Kč"
-  },
-  {
-   "id": "najada:8326",
-   "title": "Duel Commander - První měsíc za půlku",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-10T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "200 Kč"
   },
   {
    "id": "najada:8331",
@@ -4010,8 +3980,128 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "FaB Sealed",
    "price": "850 Kč"
+  },
+  {
+   "id": "najada:8642",
+   "title": "Pro Quest: London",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-10-03T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "FaB Draft",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8643",
+   "title": "One Piece Card Game – Extra Grand Battle",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-10-04T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8644",
+   "title": "VGE \"Premium\" October2026 Shop Tournament",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-10-04T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Premium CV",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8645",
+   "title": "Gundam Card Game – Store Tournament",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-10-04T14:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Constructed",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8646",
+   "title": "Gundam Card Game – Store Tournament",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-10-25T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Constructed",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8647",
+   "title": "Dragon Ball Super: Fusion World - Store Tournament",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-10-04T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed DBFW",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8648",
+   "title": "Dragon Ball Super: Fusion World - Store Tournament",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-10-25T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed DBFW",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8649",
+   "title": "Brightness of Hope [FB-11] Release Event",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-10-19T17:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed DBFW",
+   "price": "750 Kč"
+  },
+  {
+   "id": "najada:8650",
+   "title": "Summoner Skirmish - October",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-11T11:00:00+02:00",
+   "url": "https://locator.riftbound.uvsgames.com/events/499640",
+   "format": "Constructed Riftbound",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8651",
+   "title": "Vanguard Day",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-10-18T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard CV",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8652",
+   "title": "Halloween Tournament 2026",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-10-25T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard CV",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8653",
+   "title": "VGE Sneak Preview: Parallactic Dawn",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-10-25T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed CV",
+   "price": "500 Kč"
   }
  ],
- "fetchedAt": "2026-09-10T11:30:13.184Z",
+ "fetchedAt": "2026-09-10T16:31:22.682Z",
  "source": "najada"
 }
