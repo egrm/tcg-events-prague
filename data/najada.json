@@ -4000,8 +4000,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8641",
+   "title": "FAB: Usurp the Shadow Throne Pre-Release",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-09-18T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "FaB Sealed",
+   "price": "850 Kč"
   }
  ],
- "fetchedAt": "2026-09-10T04:53:29.688Z",
+ "fetchedAt": "2026-09-10T11:30:13.184Z",
  "source": "najada"
 }
