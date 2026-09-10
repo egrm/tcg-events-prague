@@ -1,7 +1,23 @@
 {
  "status": "ok",
- "events": [],
- "stores": {},
- "fetchedAt": "2026-09-09T21:01:22.346Z",
+ "events": [
+  {
+   "id": "gameshub:xzone-praha-kompetitivni-liga",
+   "title": "Xzone Praha Kompetitivní Liga",
+   "game": "pokemon",
+   "storeId": "gh-xzone-praha",
+   "start": "2026-09-11T18:00:00+02:00",
+   "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga/",
+   "format": "Standard Kapacita: 40 míst Vstupné: 100 ,-"
+  }
+ ],
+ "stores": {
+  "gh-xzone-praha": {
+   "name": "Xzone Praha",
+   "address": "Archeologická 2256/1 OC, Lužiny 13, 155 00 Praha 13",
+   "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga/"
+  }
+ },
+ "fetchedAt": "2026-09-10T04:54:34.619Z",
  "source": "gameshub"
 }

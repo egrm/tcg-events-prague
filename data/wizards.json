@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "wizards:11482210",
@@ -94,6 +94,14 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482995",
+   "start": "2026-09-13T15:00:00+02:00"
+  },
+  {
+   "id": "wizards:11829262",
+   "title": "Casual Commander",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11829262",
    "start": "2026-09-14T16:00:00+02:00"
   },
   {
@@ -127,8 +135,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11742799",
    "price": "CZK 350",
-   "start": "2026-09-14T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-14T17:45:00+02:00"
   },
   {
    "id": "wizards:11780513",
@@ -193,6 +200,15 @@
    "start": "2026-09-16T17:00:00+02:00"
   },
   {
+   "id": "wizards:11829152",
+   "title": "Xzone OC Lužiny Draft - Modern Horizons 3",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11829152",
+   "price": "CZK 550",
+   "start": "2026-09-16T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11298656",
    "title": "Pauper",
    "game": "mtg",
@@ -241,8 +257,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386315",
    "price": "CZK 50",
-   "start": "2026-09-18T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-18T17:00:00+02:00"
   },
   {
    "id": "wizards:11546171",
@@ -310,8 +325,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482996",
-   "start": "2026-09-21T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-20T15:00:00+02:00"
   },
   {
    "id": "wizards:11650332",
@@ -421,7 +435,7 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482212",
-   "start": "2026-09-23T18:00:00+02:00"
+   "start": "2026-09-24T16:00:00+02:00"
   },
   {
    "id": "wizards:11650274",
@@ -570,8 +584,7 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298695",
    "price": "CZK 150",
-   "start": "2026-09-27T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-27T10:00:00+02:00"
   },
   {
    "id": "wizards:11715856",
@@ -596,6 +609,14 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482997",
+   "start": "2026-09-27T16:30:00+02:00"
+  },
+  {
+   "id": "wizards:11829263",
+   "title": "Casual Commander",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11829263",
    "start": "2026-09-28T16:00:00+02:00"
   },
   {
@@ -665,7 +686,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:00:00+02:00"
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11714100",
@@ -1182,7 +1203,8 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11778772",
    "price": "CZK 350",
-   "start": "2026-10-26T16:00:00+01:00"
+   "start": "2026-10-26T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11714210",
@@ -1457,7 +1479,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-09T16:46:30.667Z",
- "source": "wizards",
- "error": "Error: HTTP 503 for https://locator.wizards.com/search?searchType=events&query=Prague%2C+Czechia&distance=10&page=2"
+ "fetchedAt": "2026-09-10T04:54:52.819Z",
+ "source": "wizards"
 }
