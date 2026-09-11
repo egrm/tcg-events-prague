@@ -1252,16 +1252,6 @@
    "price": "200 Kč"
   },
   {
-   "id": "najada:8322",
-   "title": "Draft Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-11T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8323",
    "title": "Draft Hobbit",
    "game": "mtg",
@@ -3742,16 +3732,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8620",
-   "title": "FNM: Kamigawa: Neon Dynasty Draft",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-11T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8621",
    "title": "FNM: Zendikar Rising Draft",
    "game": "mtg",
@@ -4152,6 +4132,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-11T11:32:02.860Z",
+ "fetchedAt": "2026-09-11T16:35:24.968Z",
  "source": "najada"
 }
