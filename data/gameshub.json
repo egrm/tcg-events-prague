@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "gameshub:xzone-praha-kompetitivni-liga",
@@ -18,7 +18,6 @@
    "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga/"
   }
  },
- "fetchedAt": "2026-09-10T20:58:26.617Z",
- "source": "gameshub",
- "error": "Error: fetch failed (UND_ERR_CONNECT_TIMEOUT) for https://games-hub.gg/seznam_turnaju/?gid=magic"
+ "fetchedAt": "2026-09-11T21:03:48.946Z",
+ "source": "gameshub"
 }
