@@ -3662,16 +3662,6 @@
    "price": "350 Kč"
   },
   {
-   "id": "najada:8623",
-   "title": "Víkendový Draft: Duskmourn: House of Horror",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-13T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8624",
    "title": "Booster Premier Event - Beyond the Brave",
    "game": "yugioh",
@@ -4042,6 +4032,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-13T12:02:14.152Z",
+ "fetchedAt": "2026-09-13T16:26:44.671Z",
  "source": "najada"
 }
