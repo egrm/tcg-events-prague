@@ -2779,7 +2779,7 @@
    "start": "2026-09-25T16:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "900 Kč"
+   "price": "800 Kč"
   },
   {
    "id": "najada:8528",
@@ -2789,7 +2789,7 @@
    "start": "2026-09-26T10:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "900 Kč"
+   "price": "800 Kč"
   },
   {
    "id": "najada:8529",
@@ -2799,7 +2799,7 @@
    "start": "2026-09-26T16:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "900 Kč"
+   "price": "800 Kč"
   },
   {
    "id": "najada:8530",
@@ -2809,7 +2809,7 @@
    "start": "2026-09-27T10:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "1800 Kč"
+   "price": "1600 Kč"
   },
   {
    "id": "najada:8531",
@@ -2819,7 +2819,7 @@
    "start": "2026-09-27T16:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
-   "price": "900 Kč"
+   "price": "800 Kč"
   },
   {
    "id": "najada:8532",
@@ -4022,6 +4022,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-15T05:02:04.135Z",
+ "fetchedAt": "2026-09-15T11:52:49.378Z",
  "source": "najada"
 }
