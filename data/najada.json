@@ -1522,46 +1522,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8379",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-09T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8380",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-16T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8381",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-23T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8382",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-30T16:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8383",
    "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
@@ -4093,15 +4053,95 @@
   },
   {
    "id": "najada:8691",
-   "title": "Prerelease",
+   "title": "Prerelease Hyperia City",
    "game": "lorcana",
    "storeId": "najada",
    "start": "2026-10-17T11:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Sealed Deck",
-   "price": "600 Kč"
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8692",
+   "title": "Krvavá hodina",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-31T15:10:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "jiné",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8693",
+   "title": "Prerelease",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-16T17:15:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Riftbound Limited",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8694",
+   "title": "Prerelease",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-18T11:15:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Riftbound Limited",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8695",
+   "title": "Hraní deskovek a karetních her",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-10T14:15:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "jiné",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8696",
+   "title": "Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-24T13:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8697",
+   "title": "Draft Bloomburrow",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-25T14:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "500 Kč"
+  },
+  {
+   "id": "najada:8698",
+   "title": "Prerelease",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-03T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed SWU",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8699",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-04T13:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-16T17:07:10.997Z",
+ "fetchedAt": "2026-09-16T21:24:37.001Z",
  "source": "najada"
 }

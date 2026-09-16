@@ -162,11 +162,11 @@
    "start": "2026-09-21T22:00:00+02:00"
   },
   {
-   "id": "wizards:11386306",
+   "id": "wizards:11876854",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
    "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386306",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876854",
    "start": "2026-09-21T22:00:00+02:00"
   },
   {
@@ -400,11 +400,11 @@
    "start": "2026-09-28T16:00:00+02:00"
   },
   {
-   "id": "wizards:11386307",
+   "id": "wizards:11876855",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
    "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11386307",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876855",
    "start": "2026-09-28T17:00:00+02:00"
   },
   {
@@ -422,6 +422,14 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11249625",
    "price": "CZK 400",
+   "start": "2026-09-28T18:00:00+02:00"
+  },
+  {
+   "id": "wizards:11876856",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876856",
    "start": "2026-09-28T18:00:00+02:00"
   },
   {
@@ -574,6 +582,14 @@
    "start": "2026-10-05T16:00:00+02:00"
   },
   {
+   "id": "wizards:11876857",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876857",
+   "start": "2026-10-05T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11779020",
    "title": "TMNT B-DAY PIZZA PARTY",
    "game": "mtg",
@@ -598,6 +614,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782449",
    "price": "CZK 400",
    "start": "2026-10-05T22:00:00+02:00"
+  },
+  {
+   "id": "wizards:11876858",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876858",
+   "start": "2026-10-06T17:00:00+02:00"
   },
   {
    "id": "wizards:11482123",
@@ -699,7 +723,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-12T16:00:00+02:00"
+   "start": "2026-10-11T11:00:00+02:00"
   },
   {
    "id": "wizards:11714208",
@@ -708,6 +732,14 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714208",
    "start": "2026-10-12T16:00:00+02:00"
+  },
+  {
+   "id": "wizards:11876859",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876859",
+   "start": "2026-10-12T17:00:00+02:00"
   },
   {
    "id": "wizards:11482112",
@@ -734,6 +766,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782450",
    "price": "CZK 400",
    "start": "2026-10-12T22:00:00+02:00"
+  },
+  {
+   "id": "wizards:11876860",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876860",
+   "start": "2026-10-13T17:00:00+02:00"
   },
   {
    "id": "wizards:11482133",
@@ -839,6 +879,14 @@
    "start": "2026-10-19T16:00:00+02:00"
   },
   {
+   "id": "wizards:11876861",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876861",
+   "start": "2026-10-19T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11482113",
    "title": "30$ Value Vintage",
    "game": "mtg",
@@ -864,6 +912,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782451",
    "price": "CZK 400",
    "start": "2026-10-19T22:00:00+02:00"
+  },
+  {
+   "id": "wizards:11876862",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876862",
+   "start": "2026-10-20T17:00:00+02:00"
   },
   {
    "id": "wizards:11482124",
@@ -977,13 +1033,22 @@
    "start": "2026-10-26T16:00:00+01:00"
   },
   {
+   "id": "wizards:11876863",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876863",
+   "start": "2026-10-26T16:00:00+01:00"
+  },
+  {
    "id": "wizards:11778772",
    "title": "PYOB Rockefeller sealed",
    "game": "mtg",
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11778772",
    "price": "CZK 350",
-   "start": "2026-10-26T16:00:00+01:00"
+   "start": "2026-10-26T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11714210",
@@ -1001,6 +1066,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782452",
    "price": "CZK 400",
    "start": "2026-10-26T22:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876864",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876864",
+   "start": "2026-10-27T17:00:00+01:00"
   },
   {
    "id": "wizards:11482134",
@@ -1073,6 +1146,14 @@
    "start": "2026-11-01T11:00:00+01:00"
   },
   {
+   "id": "wizards:11876865",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876865",
+   "start": "2026-11-02T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11778677",
    "title": "Magic Presents: All Leylines&#x27; Eve Chaos draft",
    "game": "mtg",
@@ -1089,6 +1170,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782453",
    "price": "CZK 400",
    "start": "2026-11-02T22:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876866",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876866",
+   "start": "2026-11-03T17:00:00+01:00"
   },
   {
    "id": "wizards:11583701",
@@ -1153,6 +1242,14 @@
    "start": "2026-11-08T11:00:00+01:00"
   },
   {
+   "id": "wizards:11876867",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876867",
+   "start": "2026-11-08T11:00:00+01:00"
+  },
+  {
    "id": "wizards:11865007",
    "title": "Star Trek (galaxy Quest) Prerelease",
    "game": "mtg",
@@ -1169,6 +1266,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782454",
    "price": "CZK 400",
    "start": "2026-11-09T22:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876868",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876868",
+   "start": "2026-11-10T17:00:00+01:00"
   },
   {
    "id": "wizards:11637070",
@@ -1206,6 +1311,14 @@
    "start": "2026-11-13T17:15:00+01:00"
   },
   {
+   "id": "wizards:11876869",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876869",
+   "start": "2026-11-16T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11782455",
    "title": "B2B Commander Draft",
    "game": "mtg",
@@ -1213,6 +1326,22 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782455",
    "price": "CZK 400",
    "start": "2026-11-16T22:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876870",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876870",
+   "start": "2026-11-17T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876871",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876871",
+   "start": "2026-11-23T17:00:00+01:00"
   },
   {
    "id": "wizards:11782456",
@@ -1224,6 +1353,14 @@
    "start": "2026-11-23T22:00:00+01:00"
   },
   {
+   "id": "wizards:11876872",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876872",
+   "start": "2026-11-24T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11637071",
    "title": "Modern STREDA",
    "game": "mtg",
@@ -1231,6 +1368,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637071",
    "price": "$100",
    "start": "2026-11-25T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876873",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876873",
+   "start": "2026-11-30T17:00:00+01:00"
   },
   {
    "id": "wizards:11782457",
@@ -1242,6 +1387,14 @@
    "start": "2026-11-30T22:00:00+01:00"
   },
   {
+   "id": "wizards:11876874",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876874",
+   "start": "2026-12-01T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11351989",
    "title": "Companion cEDH",
    "game": "mtg",
@@ -1249,6 +1402,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11351989",
    "price": "CZK 400",
    "start": "2026-12-06T10:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876875",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876875",
+   "start": "2026-12-07T17:00:00+01:00"
   },
   {
    "id": "wizards:11782458",
@@ -1260,6 +1421,14 @@
    "start": "2026-12-07T22:00:00+01:00"
   },
   {
+   "id": "wizards:11876876",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876876",
+   "start": "2026-12-08T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11637072",
    "title": "Modern STREDA",
    "game": "mtg",
@@ -1269,6 +1438,14 @@
    "start": "2026-12-09T17:00:00+01:00"
   },
   {
+   "id": "wizards:11876877",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876877",
+   "start": "2026-12-14T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11782459",
    "title": "B2B Commander Draft",
    "game": "mtg",
@@ -1276,6 +1453,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782459",
    "price": "CZK 400",
    "start": "2026-12-14T22:00:00+01:00"
+  },
+  {
+   "id": "wizards:11876878",
+   "title": "Commander Evening at The Grail",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876878",
+   "start": "2026-12-15T17:00:00+01:00"
   }
  ],
  "stores": {
@@ -1290,6 +1475,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-16T17:08:05.523Z",
+ "fetchedAt": "2026-09-16T21:25:59.667Z",
  "source": "wizards"
 }
