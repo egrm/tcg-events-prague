@@ -4070,8 +4070,68 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8703",
+   "title": "Prerelease Hyperia City",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-10-20T18:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8704",
+   "title": "The Great Hunny Rescue Celebration",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-10-01T16:10:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8705",
+   "title": "The Great Hunny Rescue Celebration",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-10-08T16:10:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8706",
+   "title": "The Great Hunny Rescue Celebration",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-10-15T16:10:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8707",
+   "title": "The Great Hunny Rescue Celebration",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-10-22T16:10:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8708",
+   "title": "The Great Hunny Rescue Celebration",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-10-29T16:10:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-17T17:08:02.558Z",
+ "fetchedAt": "2026-09-17T21:29:30.344Z",
  "source": "najada"
 }
