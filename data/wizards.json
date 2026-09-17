@@ -144,6 +144,16 @@
    "start": "2026-09-21T17:45:00+02:00"
   },
   {
+   "id": "wizards:11877066",
+   "title": "Avatar: TLA - Draft",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877066",
+   "price": "CZK 350",
+   "start": "2026-09-21T00:00:00+02:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11742828",
    "title": "Avatar: The Last Draft-ender",
    "game": "mtg",
@@ -320,6 +330,16 @@
    "start": "2026-09-26T10:00:00+02:00"
   },
   {
+   "id": "wizards:11877030",
+   "title": "The Reality Fracture 2HG Prerelease",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877030",
+   "price": "CZK 1,700",
+   "start": "2026-09-26T00:00:00+02:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11715832",
    "title": "2HG Reality Fracture Prerelease",
    "game": "mtg",
@@ -345,6 +365,16 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777524",
    "price": "CZK 1,600",
    "start": "2026-09-26T15:30:00+02:00"
+  },
+  {
+   "id": "wizards:11877040",
+   "title": "The Reality Fracture SEALED Prerelease",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877040",
+   "price": "CZK 850",
+   "start": "2026-09-26T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11715855",
@@ -374,6 +404,15 @@
    "start": "2026-09-27T11:00:00+02:00"
   },
   {
+   "id": "wizards:11877076",
+   "title": "The Premodern Championship SIDE EVENT",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877076",
+   "price": "CZK 400",
+   "start": "2026-09-27T12:00:00+02:00"
+  },
+  {
    "id": "wizards:11777478",
    "title": "Reality Fracture Prerelease",
    "game": "mtg",
@@ -388,8 +427,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482997",
-   "start": "2026-09-28T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-27T16:30:00+02:00"
   },
   {
    "id": "wizards:11829263",
@@ -430,7 +468,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876856",
-   "start": "2026-09-28T18:00:00+02:00"
+   "start": "2026-09-29T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11736821",
@@ -483,8 +522,7 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714100",
    "price": "CZK 700",
-   "start": "2026-09-30T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11298658",
@@ -587,7 +625,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876857",
-   "start": "2026-10-05T17:00:00+02:00"
+   "start": "2026-10-05T16:00:00+02:00"
   },
   {
    "id": "wizards:11779020",
@@ -1475,6 +1513,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-16T21:25:59.667Z",
+ "fetchedAt": "2026-09-17T05:01:11.460Z",
  "source": "wizards"
 }
