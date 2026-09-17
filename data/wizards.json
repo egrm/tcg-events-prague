@@ -1262,6 +1262,24 @@
    "start": "2026-11-06T17:30:00+01:00"
   },
   {
+   "id": "wizards:11879920",
+   "title": "2HG Star Trek - Prerelease Prerelease",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11879920",
+   "price": "CZK 850",
+   "start": "2026-11-07T11:00:00+01:00"
+  },
+  {
+   "id": "wizards:11879915",
+   "title": "Sealed Star Trek - Prerelease Prerelease",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11879915",
+   "price": "CZK 850",
+   "start": "2026-11-07T16:00:00+01:00"
+  },
+  {
    "id": "wizards:11351988",
    "title": "Companion cEDH",
    "game": "mtg",
@@ -1513,6 +1531,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-17T05:01:11.460Z",
+ "fetchedAt": "2026-09-17T11:52:23.122Z",
  "source": "wizards"
 }
