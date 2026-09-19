@@ -2,14 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11546185",
-   "title": "Juzam Draft",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11546185",
-   "start": "2026-09-19T10:00:00+02:00"
-  },
-  {
    "id": "wizards:11298733",
    "title": "Duel Commander",
    "game": "mtg",
@@ -90,8 +82,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877066",
    "price": "CZK 350",
-   "start": "2026-09-21T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-21T17:45:00+02:00"
   },
   {
    "id": "wizards:11742828",
@@ -408,8 +399,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876856",
-   "start": "2026-09-29T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-29T17:00:00+02:00"
   },
   {
    "id": "wizards:11736821",
@@ -462,7 +452,8 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714100",
    "price": "CZK 700",
-   "start": "2026-09-30T17:30:00+02:00"
+   "start": "2026-09-30T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298658",
@@ -1208,7 +1199,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11879920",
    "price": "CZK 850",
-   "start": "2026-11-07T11:00:00+01:00"
+   "start": "2026-11-07T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11879915",
@@ -1471,6 +1463,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-19T04:45:47.883Z",
+ "fetchedAt": "2026-09-19T11:11:36.889Z",
  "source": "wizards"
 }

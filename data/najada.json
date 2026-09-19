@@ -3946,7 +3946,7 @@
    "title": "SW:U Homeworlds Prerelease - Run #1",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-10-03T10:30:00+02:00",
+   "start": "2026-10-04T10:30:00+02:00",
    "url": "https://melee.gg/Tournament/View/467220",
    "format": "Sealed SWU",
    "price": "700 Kč"
@@ -4092,6 +4092,6 @@
    "price": "700 Kč"
   }
  ],
- "fetchedAt": "2026-09-19T04:44:51.847Z",
+ "fetchedAt": "2026-09-19T11:10:41.653Z",
  "source": "najada"
 }
