@@ -2,15 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11298733",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11298733",
-   "price": "CZK 100",
-   "start": "2026-09-19T14:00:00+02:00"
-  },
-  {
    "id": "wizards:11215355",
    "title": "An Unexpected Commander Party",
    "game": "mtg",
@@ -82,7 +73,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877066",
    "price": "CZK 350",
-   "start": "2026-09-21T17:45:00+02:00"
+   "start": "2026-09-21T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11742828",
@@ -203,7 +195,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777462",
    "price": "CZK 800",
-   "start": "2026-09-25T14:00:00+02:00"
+   "start": "2026-09-25T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11665383",
@@ -304,8 +297,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877040",
    "price": "CZK 850",
-   "start": "2026-09-26T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-26T15:30:00+02:00"
   },
   {
    "id": "wizards:11715855",
@@ -341,7 +333,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877076",
    "price": "CZK 400",
-   "start": "2026-09-27T12:00:00+02:00"
+   "start": "2026-09-27T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11777478",
@@ -399,7 +392,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876856",
-   "start": "2026-09-29T17:00:00+02:00"
+   "start": "2026-09-28T18:00:00+02:00"
   },
   {
    "id": "wizards:11736821",
@@ -1199,8 +1192,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11879920",
    "price": "CZK 850",
-   "start": "2026-11-07T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-07T11:00:00+01:00"
   },
   {
    "id": "wizards:11879915",
@@ -1209,7 +1201,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11879915",
    "price": "CZK 850",
-   "start": "2026-11-07T16:00:00+01:00"
+   "start": "2026-11-07T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11351988",
@@ -1463,6 +1456,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-19T11:11:36.889Z",
+ "fetchedAt": "2026-09-19T15:58:11.309Z",
  "source": "wizards"
 }
