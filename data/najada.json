@@ -2502,16 +2502,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8526",
-   "title": "Víkendový Draft: Innistrad: Crimson Vow",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-20T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8527",
    "title": "Reality Fracture RUN 1 Prerelease",
    "game": "mtg",
@@ -3150,16 +3140,6 @@
    "url": "https://melee.gg/Tournament/View/457137",
    "format": "Sealed SWU",
    "price": "700 Kč"
-  },
-  {
-   "id": "najada:8605",
-   "title": "Draft Modern Horizonts 3",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-20T14:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "900 Kč"
   },
   {
    "id": "najada:8606",
@@ -4052,6 +4032,6 @@
    "price": "700 Kč"
   }
  ],
- "fetchedAt": "2026-09-20T11:35:19.960Z",
+ "fetchedAt": "2026-09-20T16:14:55.888Z",
  "source": "najada"
 }
