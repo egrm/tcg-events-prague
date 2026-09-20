@@ -1003,13 +1003,13 @@
   },
   {
    "id": "najada:8332",
-   "title": "Pokémon Free play",
+   "title": "Pokémon turnament",
    "game": "pokemon",
    "storeId": "najada",
    "start": "2026-09-21T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
-   "price": "Free"
+   "price": "100 Kč"
   },
   {
    "id": "najada:8333",
@@ -2500,16 +2500,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
-  },
-  {
-   "id": "najada:8525",
-   "title": "Víkendový Draft: Innistrad: Midnight Hunt",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-20T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "250 Kč"
   },
   {
    "id": "najada:8526",
@@ -4062,6 +4052,6 @@
    "price": "700 Kč"
   }
  ],
- "fetchedAt": "2026-09-20T05:00:58.592Z",
+ "fetchedAt": "2026-09-20T11:35:19.960Z",
  "source": "najada"
 }
