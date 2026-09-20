@@ -676,6 +676,14 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876859",
+   "start": "2026-10-12T16:00:00+02:00"
+  },
+  {
+   "id": "wizards:11899383",
+   "title": "Magic Academy: Learn to Play",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11899383",
    "start": "2026-10-12T17:00:00+02:00"
   },
   {
@@ -975,7 +983,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876863",
-   "start": "2026-10-26T17:00:00+01:00"
+   "start": "2026-10-26T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11778772",
@@ -1430,6 +1439,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-09-20T16:16:14.538Z",
+ "fetchedAt": "2026-09-20T20:56:46.286Z",
  "source": "wizards"
 }
