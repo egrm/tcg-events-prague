@@ -1006,7 +1006,7 @@
    "title": "Pokémon turnament",
    "game": "pokemon",
    "storeId": "najada",
-   "start": "2026-09-21T16:00:00+02:00",
+   "start": "2026-09-24T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "100 Kč"
@@ -3446,7 +3446,7 @@
    "title": "Brightness of Hope [FB-11] Release Event",
    "game": "dbfw",
    "storeId": "najada",
-   "start": "2026-10-19T17:00:00+02:00",
+   "start": "2026-10-18T11:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed DBFW",
    "price": "750 Kč"
@@ -4052,6 +4052,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-21T05:07:10.236Z",
+ "fetchedAt": "2026-09-21T12:59:38.497Z",
  "source": "najada"
 }
