@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8107",
-   "title": "Armory Event - Constructed",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-09-21T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Classic Constructed",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8108",
    "title": "Duel Commander",
    "game": "mtg",
@@ -20,16 +10,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "250 Kč"
-  },
-  {
-   "id": "najada:8109",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-21T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8110",
@@ -49,26 +29,6 @@
    "start": "2026-09-22T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8112",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-09-21T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8113",
-   "title": "Monday Yu-Gi-Oh! tournament/Free play",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-09-21T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
    "price": "100 Kč"
   },
   {
@@ -979,16 +939,6 @@
    "start": "2026-10-30T17:30:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8292",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-21T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
    "price": "100 Kč"
   },
   {
@@ -3572,6 +3522,26 @@
    "price": "Free"
   },
   {
+   "id": "najada:8667",
+   "title": "Homeworlds Draft",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-09T17:30:00+02:00",
+   "url": "https://melee.gg/Tournament/View/465204",
+   "format": "Sealed SWU",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8668",
+   "title": "Homeworlds Draft",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-10T10:30:00+02:00",
+   "url": "https://melee.gg/Tournament/View/465205",
+   "format": "Sealed SWU",
+   "price": "Free"
+  },
+  {
    "id": "najada:8670",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -4013,7 +3983,7 @@
   },
   {
    "id": "najada:8714",
-   "title": "Legacy",
+   "title": "Legačka",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-12-21T18:00:00+01:00",
@@ -4052,6 +4022,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-21T12:59:38.497Z",
+ "fetchedAt": "2026-09-21T22:02:38.825Z",
  "source": "najada"
 }
