@@ -3529,7 +3529,7 @@
    "start": "2026-10-09T17:30:00+02:00",
    "url": "https://melee.gg/Tournament/View/465204",
    "format": "Sealed SWU",
-   "price": "Free"
+   "price": "350 Kč"
   },
   {
    "id": "najada:8668",
@@ -3539,7 +3539,7 @@
    "start": "2026-10-10T10:30:00+02:00",
    "url": "https://melee.gg/Tournament/View/465205",
    "format": "Sealed SWU",
-   "price": "Free"
+   "price": "350 Kč"
   },
   {
    "id": "najada:8670",
@@ -4063,7 +4063,7 @@
   },
   {
    "id": "najada:8722",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-12-22T16:00:00+01:00",
@@ -4072,6 +4072,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-22T05:08:20.703Z",
+ "fetchedAt": "2026-09-22T11:49:29.770Z",
  "source": "najada"
 }
