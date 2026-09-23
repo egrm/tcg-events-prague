@@ -12,6 +12,16 @@
    "allDay": true
   },
   {
+   "id": "wizards:11912751",
+   "title": "Xzone OC Lužiny Draft - Marvel Super Heroes",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11912751",
+   "price": "CZK 400",
+   "start": "2026-09-23T00:00:00+02:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11298657",
    "title": "Pauper",
    "game": "mtg",
@@ -207,7 +217,8 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877076",
    "price": "CZK 400",
-   "start": "2026-09-27T12:00:00+02:00"
+   "start": "2026-09-27T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11777478",
@@ -422,8 +433,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876857",
-   "start": "2026-10-05T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-10-05T16:00:00+02:00"
   },
   {
    "id": "wizards:11779020",
@@ -542,6 +552,15 @@
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777654",
+   "start": "2026-10-10T10:00:00+02:00"
+  },
+  {
+   "id": "wizards:11912905",
+   "title": "GRAND DUEL COMMANDER",
+   "game": "mtg",
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11912905",
+   "price": "CZK 300",
    "start": "2026-10-10T10:00:00+02:00"
   },
   {
@@ -1082,8 +1101,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11879920",
    "price": "CZK 850",
-   "start": "2026-11-07T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-07T11:00:00+01:00"
   },
   {
    "id": "wizards:11879915",
@@ -1341,6 +1359,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-23T04:54:09.180Z",
+ "fetchedAt": "2026-09-23T11:50:17.689Z",
  "source": "wizards"
 }
