@@ -886,7 +886,7 @@
    "title": "Pokémon Free play",
    "game": "pokemon",
    "storeId": "najada",
-   "start": "2026-09-28T16:00:00+02:00",
+   "start": "2026-10-01T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
@@ -3663,10 +3663,10 @@
   },
   {
    "id": "najada:8694",
-   "title": "Prerelease",
+   "title": "Radiance Pre-Rift",
    "game": "riftbound",
    "storeId": "najada",
-   "start": "2026-10-18T11:15:00+02:00",
+   "start": "2026-10-17T15:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Riftbound Limited",
    "price": "900 Kč"
@@ -4062,6 +4062,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-24T05:01:58.689Z",
+ "fetchedAt": "2026-09-24T11:57:08.499Z",
  "source": "najada"
 }
