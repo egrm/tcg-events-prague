@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8127",
-   "title": "Modern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-24T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "150 Kč"
-  },
-  {
    "id": "najada:8129",
    "title": "Weekly Vanguard",
    "game": "vanguard",
@@ -170,16 +160,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:8151",
-   "title": "Premodern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-24T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Other",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8152",
@@ -4062,6 +4042,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-24T11:57:08.499Z",
+ "fetchedAt": "2026-09-24T17:19:18.128Z",
  "source": "najada"
 }
