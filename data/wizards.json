@@ -2,6 +2,16 @@
  "status": "ok",
  "events": [
   {
+   "id": "wizards:11921717",
+   "title": "Boosterblitz FRA Prerelease",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921717",
+   "price": "CZK 139",
+   "start": "2026-09-25T00:00:00+02:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11298748",
    "title": "EDH Commander Volné Hraní",
    "game": "mtg",
@@ -212,7 +222,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876856",
-   "start": "2026-09-29T17:00:00+02:00"
+   "start": "2026-09-29T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11736821",
@@ -265,8 +276,7 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714100",
    "price": "CZK 700",
-   "start": "2026-09-30T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11298658",
@@ -538,7 +548,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876859",
-   "start": "2026-10-12T17:00:00+02:00"
+   "start": "2026-10-12T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11899383",
@@ -788,6 +799,15 @@
    "start": "2026-10-23T16:00:00+02:00"
   },
   {
+   "id": "wizards:11922018",
+   "title": "Cukrárna Alchymista Store Championship",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11922018",
+   "price": "CZK 300",
+   "start": "2026-10-23T17:00:00+02:00"
+  },
+  {
    "id": "wizards:11546176",
    "title": "FNM DRAFT",
    "game": "mtg",
@@ -845,7 +865,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876863",
-   "start": "2026-10-26T16:00:00+01:00"
+   "start": "2026-10-26T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11778772",
@@ -854,7 +875,8 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11778772",
    "price": "CZK 350",
-   "start": "2026-10-26T17:00:00+01:00"
+   "start": "2026-10-26T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11714210",
@@ -1003,6 +1025,24 @@
    "start": "2026-11-05T16:00:00+01:00"
   },
   {
+   "id": "wizards:11921860",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921860",
+   "price": "CZK 50",
+   "start": "2026-11-05T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11921743",
+   "title": "Startrek Boosterblitz Pre Prerelease",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921743",
+   "price": "CZK 159",
+   "start": "2026-11-06T14:00:00+01:00"
+  },
+  {
    "id": "wizards:11778583",
    "title": "STAR TREK 2HeadedKlingon Prerelease",
    "game": "mtg",
@@ -1071,7 +1111,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876867",
-   "start": "2026-11-08T11:00:00+01:00"
+   "start": "2026-11-09T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11865007",
@@ -1126,6 +1167,15 @@
    "start": "2026-11-12T16:00:00+01:00"
   },
   {
+   "id": "wizards:11921861",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921861",
+   "price": "CZK 50",
+   "start": "2026-11-12T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11546179",
    "title": "FNM DRAFT",
    "game": "mtg",
@@ -1158,6 +1208,15 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876870",
    "start": "2026-11-17T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11921862",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921862",
+   "price": "CZK 50",
+   "start": "2026-11-19T17:00:00+01:00"
   },
   {
    "id": "wizards:11876871",
@@ -1194,6 +1253,15 @@
    "start": "2026-11-25T17:00:00+01:00"
   },
   {
+   "id": "wizards:11921863",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921863",
+   "price": "CZK 50",
+   "start": "2026-11-26T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11876873",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
@@ -1217,6 +1285,15 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876874",
    "start": "2026-12-01T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11921864",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921864",
+   "price": "CZK 50",
+   "start": "2026-12-03T17:00:00+01:00"
   },
   {
    "id": "wizards:11351989",
@@ -1262,6 +1339,15 @@
    "start": "2026-12-09T17:00:00+01:00"
   },
   {
+   "id": "wizards:11921865",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921865",
+   "price": "CZK 50",
+   "start": "2026-12-10T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11876877",
    "title": "Commander Evening at The Grail",
    "game": "mtg",
@@ -1287,6 +1373,15 @@
    "start": "2026-12-15T17:00:00+01:00"
   },
   {
+   "id": "wizards:11921866",
+   "title": "Supersweet Standard Showdown",
+   "game": "mtg",
+   "storeId": "alchymista",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921866",
+   "price": "CZK 50",
+   "start": "2026-12-17T17:00:00+01:00"
+  },
+  {
    "id": "wizards:11637073",
    "title": "Modern STREDA",
    "game": "mtg",
@@ -1303,6 +1398,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-24T17:20:10.342Z",
+ "fetchedAt": "2026-09-24T21:37:02.814Z",
  "source": "wizards"
 }
