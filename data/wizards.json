@@ -912,24 +912,6 @@
    "start": "2026-10-27T17:45:00+01:00"
   },
   {
-   "id": "wizards:11483038",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11483038",
-   "price": "$100",
-   "start": "2026-10-28T17:00:00+01:00"
-  },
-  {
-   "id": "wizards:11482152",
-   "title": "duel commander",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482152",
-   "price": "CZK 200",
-   "start": "2026-10-28T17:30:00+01:00"
-  },
-  {
    "id": "wizards:11583700",
    "title": "Commander party",
    "game": "mtg",
@@ -1111,8 +1093,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876867",
-   "start": "2026-11-09T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-08T11:00:00+01:00"
   },
   {
    "id": "wizards:11865007",
@@ -1398,6 +1379,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-25T05:06:26.191Z",
+ "fetchedAt": "2026-09-25T12:00:05.051Z",
  "source": "wizards"
 }
