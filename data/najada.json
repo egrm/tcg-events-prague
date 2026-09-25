@@ -2242,16 +2242,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8527",
-   "title": "Reality Fracture RUN 1 Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-25T16:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "800 Kč"
-  },
-  {
    "id": "najada:8528",
    "title": "Reality Fracture RUN 2 Prerelease",
    "game": "mtg",
@@ -2600,16 +2590,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
    "price": "1000 Kč"
-  },
-  {
-   "id": "najada:8569",
-   "title": "2vs2 Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-25T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "1600 Kč"
   },
   {
    "id": "najada:8570",
@@ -4052,6 +4032,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-09-25T11:58:31.887Z",
+ "fetchedAt": "2026-09-25T17:18:56.932Z",
  "source": "najada"
 }
