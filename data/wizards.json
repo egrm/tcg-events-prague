@@ -2,42 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11665387",
-   "title": "Reality Fracture Prerelease (sealed) Prerelease",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11665387",
-   "price": "CZK 800",
-   "start": "2026-09-26T14:00:00+02:00"
-  },
-  {
-   "id": "wizards:11777524",
-   "title": "2HG Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777524",
-   "price": "CZK 1,600",
-   "start": "2026-09-26T15:30:00+02:00"
-  },
-  {
-   "id": "wizards:11877040",
-   "title": "The Reality Fracture SEALED Prerelease",
-   "game": "mtg",
-   "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877040",
-   "price": "CZK 850",
-   "start": "2026-09-26T15:30:00+02:00"
-  },
-  {
-   "id": "wizards:11715855",
-   "title": "Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11715855",
-   "price": "CZK 800",
-   "start": "2026-09-26T16:00:00+02:00"
-  },
-  {
    "id": "wizards:11777525",
    "title": "2HG Reality Fracture Prerelease",
    "game": "mtg",
@@ -156,7 +120,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:00:00+02:00"
+   "start": "2026-09-30T17:30:00+02:00"
   },
   {
    "id": "wizards:11714100",
@@ -269,7 +233,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876857",
-   "start": "2026-10-05T17:00:00+02:00"
+   "start": "2026-10-05T16:00:00+02:00"
   },
   {
    "id": "wizards:11779020",
@@ -422,7 +386,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-11T13:00:00+02:00"
+   "start": "2026-10-12T16:00:00+02:00"
   },
   {
    "id": "wizards:11714208",
@@ -1294,6 +1258,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-26T11:34:30.021Z",
+ "fetchedAt": "2026-09-26T16:31:26.783Z",
  "source": "wizards"
 }
