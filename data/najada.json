@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8130",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-09-25T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:8131",
-   "title": "Star Wars: Unlimited",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-09-25T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8135",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -4032,6 +4012,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-09-25T21:40:20.881Z",
+ "fetchedAt": "2026-09-26T05:08:46.539Z",
  "source": "najada"
 }
