@@ -2222,16 +2222,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8531",
-   "title": "Reality Fracture RUN 5 Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-27T16:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "800 Kč"
-  },
-  {
    "id": "najada:8532",
    "title": "Duel Commander",
    "game": "mtg",
@@ -2540,16 +2530,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
    "price": "1000 Kč"
-  },
-  {
-   "id": "najada:8572",
-   "title": "1vs1 Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-27T13:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "800 Kč"
   },
   {
    "id": "najada:8574",
@@ -3493,7 +3473,7 @@
   },
   {
    "id": "najada:8693",
-   "title": "Prerelease",
+   "title": "Radiance Pre-Rift",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-10-16T17:15:00+02:00",
@@ -3942,6 +3922,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-09-27T12:12:17.332Z",
+ "fetchedAt": "2026-09-27T17:03:26.393Z",
  "source": "najada"
 }

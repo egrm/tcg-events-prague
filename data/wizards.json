@@ -2,15 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11777478",
-   "title": "Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777478",
-   "price": "CZK 800",
-   "start": "2026-09-27T15:30:00+02:00"
-  },
-  {
    "id": "wizards:11482997",
    "title": "Pondělní Pauper",
    "game": "mtg",
@@ -206,8 +197,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876857",
-   "start": "2026-10-05T00:00:00+02:00",
-   "allDay": true
+   "start": "2026-10-05T16:00:00+02:00"
   },
   {
    "id": "wizards:11779020",
@@ -335,7 +325,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11912905",
    "price": "CZK 300",
-   "start": "2026-10-10T10:00:00+02:00"
+   "start": "2026-10-11T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298697",
@@ -1232,6 +1223,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-27T12:13:06.324Z",
+ "fetchedAt": "2026-09-27T17:04:19.334Z",
  "source": "wizards"
 }
