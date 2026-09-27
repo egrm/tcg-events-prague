@@ -2,33 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11777525",
-   "title": "2HG Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777525",
-   "price": "CZK 1,600",
-   "start": "2026-09-27T10:00:00+02:00"
-  },
-  {
-   "id": "wizards:11715856",
-   "title": "Reality Fracture Prerelease",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11715856",
-   "price": "CZK 800",
-   "start": "2026-09-27T11:00:00+02:00"
-  },
-  {
-   "id": "wizards:11877076",
-   "title": "The Premodern Championship SIDE EVENT",
-   "game": "mtg",
-   "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11877076",
-   "price": "CZK 400",
-   "start": "2026-09-27T12:00:00+02:00"
-  },
-  {
    "id": "wizards:11777478",
    "title": "Reality Fracture Prerelease",
    "game": "mtg",
@@ -120,7 +93,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482148",
    "price": "CZK 200",
-   "start": "2026-09-30T17:30:00+02:00"
+   "start": "2026-09-30T17:00:00+02:00"
   },
   {
    "id": "wizards:11714100",
@@ -233,7 +206,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876857",
-   "start": "2026-10-05T16:00:00+02:00"
+   "start": "2026-10-05T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11779020",
@@ -386,7 +360,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-12T16:00:00+02:00"
+   "start": "2026-10-11T13:00:00+02:00"
   },
   {
    "id": "wizards:11714208",
@@ -1258,6 +1232,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-09-27T05:27:35.374Z",
+ "fetchedAt": "2026-09-27T12:13:06.324Z",
  "source": "wizards"
 }
