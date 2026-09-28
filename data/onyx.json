@@ -1,24 +1,6 @@
 {
- "status": "suspect",
+ "status": "ok",
  "events": [
-  {
-   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-09-25",
-   "title": "Pokémon turnaj - Standard Mystery Challenge",
-   "game": "pokemon",
-   "storeId": "onyx",
-   "start": "2026-09-25T17:30:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "120,-"
-  },
-  {
-   "id": "onyx:lorcana-draft-2026-09-25",
-   "title": "Lorcana Draft",
-   "game": "lorcana",
-   "storeId": "onyx",
-   "start": "2026-09-25T17:30:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "600,-"
-  },
   {
    "id": "onyx:pokemon-turnaj-standard-2026-09-28",
    "title": "Pokémon turnaj - Standard",
@@ -244,9 +226,46 @@
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-10-20T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-10-22",
+   "title": "Riftbound Nexus Night - volné hraní",
+   "game": "riftbound",
+   "storeId": "onyx",
+   "start": "2026-10-22T17:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-10-22T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:lorcana-weekly-volne-hrani-2026-10-22",
+   "title": "Lorcana Weekly - volné hraní",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-10-22T16:00:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-10-22T20:00:00+02:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-10-23",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-10-23T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "120,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-10-23",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-10-23T17:30:00+02:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
   }
  ],
- "fetchedAt": "2026-09-28T05:34:08.523Z",
- "source": "onyx",
- "note": "Got 0 events, previously 26; kept previous data"
+ "fetchedAt": "2026-09-28T14:09:51.860Z",
+ "source": "onyx"
 }

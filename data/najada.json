@@ -53,13 +53,13 @@
   },
   {
    "id": "najada:8142",
-   "title": "Draft",
+   "title": "Draft Reality Fracture",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-09-29T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8143",
@@ -213,13 +213,13 @@
   },
   {
    "id": "najada:8174",
-   "title": "Draft",
+   "title": "Draft Reality Fracture",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-06T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8175",
@@ -353,13 +353,13 @@
   },
   {
    "id": "najada:8210",
-   "title": "Draft",
+   "title": "Draft Reality Fracture",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-13T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8211",
@@ -523,13 +523,13 @@
   },
   {
    "id": "najada:8236",
-   "title": "Draft",
+   "title": "Draft Reality Fracture",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-20T17:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8237",
@@ -693,13 +693,13 @@
   },
   {
    "id": "najada:8255",
-   "title": "Draft",
+   "title": "Draft Reality Fracture",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-27T17:30:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8256",
@@ -1873,13 +1873,13 @@
   },
   {
    "id": "najada:8465",
-   "title": "Draft",
+   "title": "Draft Reality Fracture",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-11-03T17:30:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8466",
@@ -3900,8 +3900,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8741",
+   "title": "Draft Reality Fracture",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-02T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-09-28T05:34:06.851Z",
+ "fetchedAt": "2026-09-28T14:09:50.968Z",
  "source": "najada"
 }
