@@ -2162,16 +2162,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8507",
-   "title": "Starter Deck 11-14 Release Event",
-   "game": "gundam",
-   "storeId": "najada",
-   "start": "2026-09-27T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Gundam Deck Limited",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8519",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -2820,16 +2810,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
-  },
-  {
-   "id": "najada:8613",
-   "title": "Store Championship",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-09-27T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "500 Kč"
   },
   {
    "id": "najada:8615",
@@ -3922,6 +3902,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-09-27T21:26:27.847Z",
+ "fetchedAt": "2026-09-28T05:34:06.851Z",
  "source": "najada"
 }
