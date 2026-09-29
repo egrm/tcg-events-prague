@@ -2,36 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8141",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-29T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
-   "id": "najada:8142",
-   "title": "Draft Reality Fracture",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-29T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
-   "id": "najada:8143",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-29T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8144",
    "title": "Lorcana League",
    "game": "lorcana",
@@ -410,16 +380,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8226",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-16T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
   },
   {
    "id": "najada:8227",
@@ -842,16 +802,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8341",
-   "title": "SWU Weekly Premier",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-09-29T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8342",
    "title": "SWU Weekly Premier",
    "game": "swu",
@@ -1020,16 +970,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Pauper",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8365",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-09-29T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
   },
   {
    "id": "najada:8366",
@@ -2957,7 +2897,7 @@
    "game": "fab",
    "storeId": "najada",
    "start": "2026-10-03T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
+   "url": "https://gem.fabtcg.com/gem/join/?query=vivacious-cougar",
    "format": "FaB Draft",
    "price": "900 Kč"
   },
@@ -3860,8 +3800,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "400 Kč"
+  },
+  {
+   "id": "najada:8742",
+   "title": "Riftbound: Radiance Pre-Rift Event Run #1",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-16T17:45:00+02:00",
+   "url": "https://playriftbound.com/en-US/events/117037737280663748",
+   "format": "Riftbound Limited",
+   "price": "700 Kč"
+  },
+  {
+   "id": "najada:8743",
+   "title": "Riftbound: Radiance Pre-Rift Event Run #2",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-18T11:00:00+02:00",
+   "url": "https://playriftbound.com/en-US/events/117037743480789547",
+   "format": "Riftbound Limited",
+   "price": "700 Kč"
+  },
+  {
+   "id": "najada:8744",
+   "title": "Riftbound: Radiance Pre-Rift Event Run #3",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-18T15:30:00+02:00",
+   "url": "https://playriftbound.com/en-US/events/117037746959237475",
+   "format": "Riftbound Limited",
+   "price": "700 Kč"
   }
  ],
- "fetchedAt": "2026-09-29T13:05:05.201Z",
+ "fetchedAt": "2026-09-29T22:23:26.979Z",
  "source": "najada"
 }

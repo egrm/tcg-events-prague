@@ -16,8 +16,216 @@
    "storeId": "playzone",
    "start": "2026-10-02T17:00:00+02:00",
    "url": "https://www.playzonearena.cz/akce/2026-08-31-riftbound-nexus-night-3/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-10-08T17:30:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-1/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-10-15T17:30:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-1/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-10/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-12-17T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-10/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-11/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2027-01-07T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-11/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-2/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-10-22T17:30:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-2/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-3/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-10-29T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-3/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-4/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-11-05T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-4/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-5/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-11-12T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-5/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-6/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-11-19T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-6/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-7/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-11-26T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-7/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-8/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-12-03T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-8/"
+  },
+  {
+   "id": "playzone:2026-09-29-pokemon-league-od-toredo-9/",
+   "title": "Pokémon League od Torédo",
+   "game": "pokemon",
+   "storeId": "playzone",
+   "start": "2026-12-10T17:30:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-pokemon-league-od-toredo-9/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-10/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-11-26T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-10/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-11/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-12-03T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-11/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-12/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-12-10T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-12/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-13/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-12-17T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-13/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-14/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2027-01-07T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-14/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-2/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-10-01T17:00:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-2/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-3/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-10-08T17:00:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-3/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-4/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-10-15T17:00:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-4/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-5/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-10-22T17:00:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-5/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-6/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-10-29T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-6/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-7/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-11-05T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-7/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-8/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-11-12T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-8/"
+  },
+  {
+   "id": "playzone:2026-09-29-riftbound-nexus-night-9/",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-11-19T17:00:00+01:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-9/"
+  },
+  {
+   "id": "playzone:2026-09-29-toredo-riftbound-tournament/",
+   "title": "Torédo Riftbound Tournament",
+   "game": "riftbound",
+   "storeId": "playzone",
+   "start": "2026-10-04T11:00:00+02:00",
+   "url": "https://www.playzonearena.cz/akce/2026-09-29-toredo-riftbound-tournament/"
   }
  ],
- "fetchedAt": "2026-09-29T13:05:52.249Z",
+ "fetchedAt": "2026-09-29T22:24:49.081Z",
  "source": "playzone"
 }
