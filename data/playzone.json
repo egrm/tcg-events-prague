@@ -219,13 +219,13 @@
   },
   {
    "id": "playzone:2026-09-29-toredo-riftbound-tournament/",
-   "title": "Torédo Riftbound Tournament",
-   "game": "riftbound",
+   "title": "Vendeta Summoner Skirmish II",
+   "game": "other",
    "storeId": "playzone",
-   "start": "2026-10-04T11:00:00+02:00",
+   "start": "2026-10-04T10:30:00+02:00",
    "url": "https://www.playzonearena.cz/akce/2026-09-29-toredo-riftbound-tournament/"
   }
  ],
- "fetchedAt": "2026-09-30T05:43:40.512Z",
+ "fetchedAt": "2026-09-30T12:46:40.248Z",
  "source": "playzone"
 }

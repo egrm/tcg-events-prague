@@ -3362,16 +3362,6 @@
    "price": "900 Kč"
   },
   {
-   "id": "najada:8695",
-   "title": "Hraní deskovek a karetních her",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-10T14:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "jiné",
-   "price": "Free"
-  },
-  {
    "id": "najada:8696",
    "title": "Commander volné hraní",
    "game": "mtg",
@@ -4020,8 +4010,28 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed Riftbound",
    "price": "120 Kč"
+  },
+  {
+   "id": "najada:8764",
+   "title": "Draft Bloomburrow",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-10T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8765",
+   "title": "Commander hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-10T11:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-09-30T05:42:19.073Z",
+ "fetchedAt": "2026-09-30T12:45:59.635Z",
  "source": "najada"
 }
