@@ -2,6 +2,16 @@
  "status": "ok",
  "events": [
   {
+   "id": "najada:8153",
+   "title": "Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-10-02T18:00:00+02:00",
+   "url": "https://playriftbound.com/en-US/events/117326119811773018",
+   "format": "Constructed Riftbound",
+   "price": "150 Kč"
+  },
+  {
    "id": "najada:8162",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -116,7 +126,7 @@
    "title": "Conquest casual play",
    "game": "other",
    "storeId": "najada",
-   "start": "2026-10-07T16:00:00+02:00",
+   "start": "2026-10-06T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Conquest",
    "price": "Free"
@@ -256,7 +266,7 @@
    "title": "Conquest casual play",
    "game": "other",
    "storeId": "najada",
-   "start": "2026-10-14T16:00:00+02:00",
+   "start": "2026-10-13T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Conquest",
    "price": "Free"
@@ -426,7 +436,7 @@
    "title": "Conquest casual play",
    "game": "other",
    "storeId": "najada",
-   "start": "2026-10-21T16:00:00+02:00",
+   "start": "2026-10-20T16:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Conquest",
    "price": "Free"
@@ -2933,7 +2943,7 @@
   },
   {
    "id": "najada:8661",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 2",
+   "title": "Mega Evolution - Delta Reign Prerelease RUN 2 FULL CAPACITY!",
    "game": "pokemon",
    "storeId": "najada",
    "start": "2026-10-31T10:30:00+01:00",
@@ -2943,7 +2953,7 @@
   },
   {
    "id": "najada:8662",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 3",
+   "title": "Mega Evolution - Delta Reign Prerelease RUN 3 FULL CAPACITY!",
    "game": "pokemon",
    "storeId": "najada",
    "start": "2026-10-31T14:30:00+01:00",
@@ -2953,7 +2963,7 @@
   },
   {
    "id": "najada:8663",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 1",
+   "title": "Mega Evolution - Delta Reign Prerelease RUN 1 FULL CAPACITY!",
    "game": "pokemon",
    "storeId": "najada",
    "start": "2026-10-28T17:30:00+01:00",
@@ -2963,7 +2973,7 @@
   },
   {
    "id": "najada:8664",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 4",
+   "title": "Mega Evolution - Delta Reign Prerelease RUN 4 FULL CAPACITY!",
    "game": "pokemon",
    "storeId": "najada",
    "start": "2026-11-01T10:30:00+01:00",
@@ -2973,7 +2983,7 @@
   },
   {
    "id": "najada:8665",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 5",
+   "title": "Mega Evolution - Delta Reign Prerelease RUN 5 FULL CAPACITY!",
    "game": "pokemon",
    "storeId": "najada",
    "start": "2026-11-01T14:30:00+01:00",
@@ -2986,7 +2996,7 @@
    "title": "Najáda Commander Party",
    "game": "mtg",
    "storeId": "najada",
-   "start": "2026-10-10T10:00:00+02:00",
+   "start": "2026-10-10T10:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
@@ -4050,8 +4060,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8781",
+   "title": "Karpův Homeworlds draft",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-16T16:30:00+02:00",
+   "url": "https://melee.gg/Tournament/View/476864",
+   "format": "Sealed SWU",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8782",
+   "title": "Standard Store Championship",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-31T10:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:8783",
+   "title": "Najáda Commander Party",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-10T10:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8784",
+   "title": "Magic Presents: All Leylines' Eve Duskmourn: House of Horror Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-30T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-10-02T05:51:30.936Z",
+ "fetchedAt": "2026-10-02T12:49:21.299Z",
  "source": "najada"
 }

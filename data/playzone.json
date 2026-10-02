@@ -2,22 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "playzone:2026-08-31-pokemon-league-od-toredo-3/",
-   "title": "Pokémon League od Torédo",
-   "game": "pokemon",
-   "storeId": "playzone",
-   "start": "2026-10-02T17:30:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-31-pokemon-league-od-toredo-3/"
-  },
-  {
-   "id": "playzone:2026-08-31-riftbound-nexus-night-3/",
-   "title": "Riftbound Nexus Night",
-   "game": "riftbound",
-   "storeId": "playzone",
-   "start": "2026-10-02T17:00:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-08-31-riftbound-nexus-night-3/"
-  },
-  {
    "id": "playzone:2026-09-29-pokemon-league-od-toredo/",
    "title": "Pokémon League od Torédo",
    "game": "pokemon",
@@ -218,6 +202,6 @@
    "url": "https://www.playzonearena.cz/akce/2026-09-29-toredo-riftbound-tournament/"
   }
  ],
- "fetchedAt": "2026-10-02T05:52:09.326Z",
+ "fetchedAt": "2026-10-02T12:50:18.575Z",
  "source": "playzone"
 }
