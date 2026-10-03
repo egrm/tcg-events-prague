@@ -1413,7 +1413,7 @@
   },
   {
    "id": "najada:8440",
-   "title": "Draft Reality Fracture",
+   "title": "Draft Reality Fracture ",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-10-23T18:00:00+02:00",
@@ -4042,6 +4042,6 @@
    "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-10-03T16:30:07.179Z",
+ "fetchedAt": "2026-10-03T21:26:48.847Z",
  "source": "najada"
 }
