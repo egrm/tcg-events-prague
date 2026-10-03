@@ -3142,16 +3142,6 @@
    "price": "350 Kč"
   },
   {
-   "id": "najada:8687",
-   "title": "Draft Final Fantasy",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-03T13:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "600 Kč"
-  },
-  {
    "id": "najada:8688",
    "title": "Noční hraní",
    "game": "mtg",
@@ -4052,6 +4042,6 @@
    "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-10-03T05:27:08.037Z",
+ "fetchedAt": "2026-10-03T11:48:51.832Z",
  "source": "najada"
 }
