@@ -3932,16 +3932,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8779",
-   "title": "Pokémon free play",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-12T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:8780",
    "title": "Star Wars: Unlimited",
    "game": "swu",
@@ -4032,6 +4022,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-04T12:31:57.176Z",
+ "fetchedAt": "2026-10-04T21:37:49.778Z",
  "source": "najada"
 }
