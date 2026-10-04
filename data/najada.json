@@ -2442,26 +2442,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8599",
-   "title": "SW:U Homeworlds Prerelease - Run #2",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-03T10:30:00+02:00",
-   "url": "https://melee.gg/Tournament/View/457136",
-   "format": "Sealed SWU",
-   "price": "700 Kč"
-  },
-  {
-   "id": "najada:8600",
-   "title": "SW:U Homeworlds Prerelease - Run #3",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-03T14:30:00+02:00",
-   "url": "https://melee.gg/Tournament/View/457137",
-   "format": "Sealed SWU",
-   "price": "700 Kč"
-  },
-  {
    "id": "najada:8606",
    "title": "Modern",
    "game": "mtg",
@@ -2710,16 +2690,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8642",
-   "title": "Pro Quest: London",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-10-03T10:30:00+02:00",
-   "url": "https://gem.fabtcg.com/gem/join/?query=vivacious-cougar",
-   "format": "FaB Draft",
-   "price": "900 Kč"
   },
   {
    "id": "najada:8643",
@@ -3140,16 +3110,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "350 Kč"
-  },
-  {
-   "id": "najada:8688",
-   "title": "Noční hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-03T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
   },
   {
    "id": "najada:8689",
@@ -4040,8 +4000,38 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Riftbound Limited",
    "price": "400 Kč"
+  },
+  {
+   "id": "najada:8787",
+   "title": "Conquest casual play",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-07T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Conquest",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8788",
+   "title": "Conquest casual play",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-14T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Conquest",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8789",
+   "title": "Conquest casual play",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-21T16:00:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Conquest",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-03T21:26:48.847Z",
+ "fetchedAt": "2026-10-04T06:02:36.258Z",
  "source": "najada"
 }
