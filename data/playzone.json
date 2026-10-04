@@ -192,16 +192,8 @@
    "storeId": "playzone",
    "start": "2026-11-19T17:00:00+01:00",
    "url": "https://www.playzonearena.cz/akce/2026-09-29-riftbound-nexus-night-9/"
-  },
-  {
-   "id": "playzone:2026-09-29-toredo-riftbound-tournament/",
-   "title": "Vendeta Summoner Skirmish II",
-   "game": "other",
-   "storeId": "playzone",
-   "start": "2026-10-04T10:30:00+02:00",
-   "url": "https://www.playzonearena.cz/akce/2026-09-29-toredo-riftbound-tournament/"
   }
  ],
- "fetchedAt": "2026-10-04T06:03:14.683Z",
+ "fetchedAt": "2026-10-04T12:32:34.454Z",
  "source": "playzone"
 }
