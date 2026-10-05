@@ -2552,16 +2552,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8624",
-   "title": "Booster Premier Event - Beyond the Brave",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-10-04T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Preview tournament",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8625",
    "title": "OTS Championship - Beyond the Brace - Prague",
    "game": "yugioh",
@@ -2692,36 +2682,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8643",
-   "title": "One Piece Card Game – Extra Grand Battle",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-10-04T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "300 Kč"
-  },
-  {
-   "id": "najada:8644",
-   "title": "VGE \"Premium\" October2026 Shop Tournament",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-10-04T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Premium CV",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8645",
-   "title": "Gundam Card Game – Store Tournament",
-   "game": "gundam",
-   "storeId": "najada",
-   "start": "2026-10-04T14:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Gundam Constructed",
-   "price": "200 Kč"
-  },
-  {
    "id": "najada:8646",
    "title": "Gundam Card Game – Store Tournament",
    "game": "gundam",
@@ -2729,16 +2689,6 @@
    "start": "2026-10-25T11:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Gundam Constructed",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8647",
-   "title": "Dragon Ball Super: Fusion World - Store Tournament",
-   "game": "dbfw",
-   "storeId": "najada",
-   "start": "2026-10-04T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed DBFW",
    "price": "200 Kč"
   },
   {
@@ -3182,26 +3132,6 @@
    "price": "500 Kč"
   },
   {
-   "id": "najada:8698",
-   "title": "SW:U Homeworlds Prerelease - Run #1",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-04T10:30:00+02:00",
-   "url": "https://melee.gg/Tournament/View/467220",
-   "format": "Sealed SWU",
-   "price": "700 Kč"
-  },
-  {
-   "id": "najada:8699",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-04T13:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8700",
    "title": "Modern",
    "game": "mtg",
@@ -3310,16 +3240,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8712",
-   "title": "SW:U Homeworlds Prerelease - Run #2",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-04T15:00:00+02:00",
-   "url": "https://melee.gg/Tournament/View/467221",
-   "format": "Sealed SWU",
-   "price": "700 Kč"
   },
   {
    "id": "najada:8713",
@@ -4020,8 +3940,78 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Conquest",
    "price": "Free"
+  },
+  {
+   "id": "najada:8790",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2027-01-04T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8791",
+   "title": "Legačka",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-04T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8792",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2027-01-04T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8793",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-12-28T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8794",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2027-01-04T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8795",
+   "title": "Pokémon free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-12T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8796",
+   "title": "Pokémon free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-04T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-04T21:37:49.778Z",
+ "fetchedAt": "2026-10-05T05:54:39.574Z",
  "source": "najada"
 }
