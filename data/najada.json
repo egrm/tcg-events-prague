@@ -666,7 +666,7 @@
    "title": "Pokémon Free play",
    "game": "pokemon",
    "storeId": "najada",
-   "start": "2026-10-19T16:00:00+02:00",
+   "start": "2026-10-15T15:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
@@ -676,7 +676,7 @@
    "title": "Pokémon Free play",
    "game": "pokemon",
    "storeId": "najada",
-   "start": "2026-10-26T16:00:00+01:00",
+   "start": "2026-10-29T15:30:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
@@ -3996,7 +3996,7 @@
    "title": "Pokémon free play",
    "game": "pokemon",
    "storeId": "najada",
-   "start": "2026-10-12T17:30:00+02:00",
+   "start": "2026-10-08T15:30:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
@@ -4010,8 +4010,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8797",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-15T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8798",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-22T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8799",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-29T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8800",
+   "title": "Pokémon free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-22T15:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-05T05:54:39.574Z",
+ "fetchedAt": "2026-10-05T14:56:22.045Z",
  "source": "najada"
 }
