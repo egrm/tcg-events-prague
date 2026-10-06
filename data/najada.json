@@ -3990,8 +3990,478 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8801",
+   "title": "Duel Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-05T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:8802",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-22T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8803",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-29T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8804",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-05T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8805",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-12T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8806",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8807",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-26T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8808",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-03T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8809",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-10T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8810",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-17T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8811",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-24T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8812",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-31T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8813",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-07T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8814",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-14T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8815",
+   "title": "Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-05T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8816",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-29T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8817",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-05T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8818",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-12T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8819",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8820",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-26T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8821",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-03T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8822",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-10T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8823",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-17T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8824",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-24T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8825",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-31T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8826",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-07T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8827",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-14T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8828",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-21T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8829",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-05T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8830",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-12T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8831",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8832",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-26T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8833",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-03T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8834",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-10T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8835",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-17T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8836",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-24T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8837",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-31T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8838",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-07T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8839",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-14T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8840",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-21T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8841",
+   "title": "Pokémon tournament",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-28T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8842",
+   "title": "Free Standard",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-05T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8843",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2027-01-05T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8844",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-05T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8845",
+   "title": "Pokémon free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-12T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8846",
+   "title": "Pokémon free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-19T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8847",
+   "title": "Pokémon free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-10-26T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-06T00:09:10.014Z",
+ "fetchedAt": "2026-10-06T06:31:20.206Z",
  "source": "najada"
 }
