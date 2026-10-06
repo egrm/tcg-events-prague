@@ -2,46 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8162",
-   "title": "Armory Event - Constructed",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-10-05T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Classic Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8163",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-05T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8164",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-10-05T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8165",
-   "title": "Monday Yu-Gi-Oh! tournament/Free play",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-10-05T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8171",
    "title": "Lorcana League",
    "game": "lorcana",
@@ -809,16 +769,6 @@
    "start": "2026-12-15T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8353",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-05T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
    "price": "100 Kč"
   },
   {
@@ -3842,16 +3792,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8778",
-   "title": "Pokémon free play",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-05T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:8780",
    "title": "Star Wars: Unlimited",
    "game": "swu",
@@ -4052,6 +3992,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-05T14:56:22.045Z",
+ "fetchedAt": "2026-10-06T00:09:10.014Z",
  "source": "najada"
 }
