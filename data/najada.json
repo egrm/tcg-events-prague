@@ -12,16 +12,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8172",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-06T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
    "id": "najada:8173",
    "title": "Lorcana Free play",
    "game": "lorcana",
@@ -32,16 +22,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8174",
-   "title": "Draft Reality Fracture",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-06T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8175",
    "title": "Pokémon Competitive League",
    "game": "pokemon",
@@ -50,16 +30,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "130 Kč"
-  },
-  {
-   "id": "najada:8176",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-06T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8177",
@@ -4423,7 +4393,7 @@
   },
   {
    "id": "najada:8844",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2027-01-05T16:00:00+01:00",
@@ -4460,8 +4430,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:8848",
+   "title": "Homeworlds Store Showdown - Sealed deck",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-11-22T11:00:00+01:00",
+   "url": "https://melee.gg/Tournament/View/479503",
+   "format": "Sealed SWU",
+   "price": "700 Kč"
   }
  ],
- "fetchedAt": "2026-10-06T06:31:20.206Z",
+ "fetchedAt": "2026-10-06T18:28:18.866Z",
  "source": "najada"
 }
