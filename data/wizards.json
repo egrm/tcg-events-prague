@@ -2,44 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11482149",
-   "title": "duel commander",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482149",
-   "price": "CZK 200",
-   "start": "2026-10-07T00:00:00+02:00",
-   "allDay": true
-  },
-  {
-   "id": "wizards:12011301",
-   "title": "Reality Fracture Draft",
-   "game": "mtg",
-   "storeId": "xzone",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12011301",
-   "price": "CZK 350",
-   "start": "2026-10-07T00:00:00+02:00",
-   "allDay": true
-  },
-  {
-   "id": "wizards:11955039",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955039",
-   "price": "CZK 100",
-   "start": "2026-10-07T17:30:00+02:00"
-  },
-  {
-   "id": "wizards:11583697",
-   "title": "Commander party",
-   "game": "mtg",
-   "storeId": "fyft",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11583697",
-   "price": "CZK 80",
-   "start": "2026-10-07T18:00:00+02:00"
-  },
-  {
    "id": "wizards:11482214",
    "title": "casual commander",
    "game": "mtg",
@@ -139,7 +101,7 @@
    "game": "mtg",
    "storeId": "wpn-15472",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482999",
-   "start": "2026-10-12T16:00:00+02:00"
+   "start": "2026-10-11T13:00:00+02:00"
   },
   {
    "id": "wizards:11714208",
@@ -233,15 +195,6 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482150",
    "price": "CZK 200",
-   "start": "2026-10-14T17:00:00+02:00"
-  },
-  {
-   "id": "wizards:12021279",
-   "title": "Xzone OC Lužiny Draft - Reality Fracture",
-   "game": "mtg",
-   "storeId": "xzone",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12021279",
-   "price": "CZK 350",
    "start": "2026-10-14T00:00:00+02:00",
    "allDay": true
   },
@@ -345,7 +298,8 @@
    "game": "mtg",
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12006093",
-   "start": "2026-10-19T16:00:00+02:00"
+   "start": "2026-10-19T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:12006097",
@@ -733,7 +687,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11971801",
    "price": "CZK 500",
-   "start": "2026-11-01T11:00:00+01:00"
+   "start": "2026-10-31T14:00:00+01:00"
   },
   {
    "id": "wizards:11298700",
@@ -854,7 +808,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921743",
    "price": "CZK 159",
-   "start": "2026-11-06T14:00:00+01:00"
+   "start": "2026-11-05T18:00:00+01:00"
   },
   {
    "id": "wizards:11955179",
@@ -949,8 +903,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876867",
-   "start": "2026-11-09T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-08T11:00:00+01:00"
   },
   {
    "id": "wizards:11865007",
@@ -1149,7 +1102,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963552",
    "price": "CZK 200",
-   "start": "2026-11-17T18:00:00+01:00"
+   "start": "2026-11-18T17:30:00+01:00"
   },
   {
    "id": "wizards:11955045",
@@ -1278,7 +1231,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963553",
    "price": "CZK 200",
-   "start": "2026-11-25T17:00:00+01:00"
+   "start": "2026-11-25T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955046",
@@ -1389,7 +1343,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963554",
    "price": "CZK 200",
-   "start": "2026-12-01T18:00:00+01:00"
+   "start": "2026-12-02T17:30:00+01:00"
   },
   {
    "id": "wizards:11955047",
@@ -1518,7 +1472,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963555",
    "price": "CZK 200",
-   "start": "2026-12-09T17:00:00+01:00"
+   "start": "2026-12-09T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955048",
@@ -1629,7 +1584,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963556",
    "price": "CZK 200",
-   "start": "2026-12-15T18:00:00+01:00"
+   "start": "2026-12-16T17:30:00+01:00"
   },
   {
    "id": "wizards:11955049",
@@ -1888,6 +1843,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-10-07T13:37:34.319Z",
+ "fetchedAt": "2026-10-07T23:12:02.141Z",
  "source": "wizards"
 }

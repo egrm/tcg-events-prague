@@ -2,46 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8171",
-   "title": "Lorcana League",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-07T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8173",
-   "title": "Lorcana Free play",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-07T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8175",
-   "title": "Pokémon Competitive League",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-07T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "130 Kč"
-  },
-  {
-   "id": "najada:8177",
-   "title": "Pokémon League",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-07T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:8179",
    "title": "Modern",
    "game": "mtg",
@@ -842,16 +802,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8387",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-10-07T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8388",
    "title": "Store Tournament",
    "game": "onepiece",
@@ -952,16 +902,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8400",
-   "title": "Riftbound Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-07T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "120 Kč"
-  },
-  {
    "id": "najada:8401",
    "title": "Riftbound Nexus Night",
    "game": "riftbound",
@@ -973,12 +913,12 @@
   },
   {
    "id": "najada:8402",
-   "title": "Riftbound Nexus Night",
+   "title": "Riftbound: Radiance Pre-Rift Event Run #3",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-10-21T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
+   "url": "https://playriftbound.com/en-US/events/117155058882232444",
+   "format": "Riftbound Limited",
    "price": "120 Kč"
   },
   {
@@ -2976,30 +2916,30 @@
    "title": "Prerelease Hyperia City",
    "game": "lorcana",
    "storeId": "najada",
-   "start": "2026-10-17T11:00:00+02:00",
+   "start": "2026-10-17T09:15:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Sealed Deck",
    "price": "900 Kč"
   },
   {
    "id": "najada:8693",
-   "title": "Radiance Pre-Rift",
+   "title": "Riftbound: Radiance Pre-Rift Event Run #1",
    "game": "riftbound",
    "storeId": "najada",
-   "start": "2026-10-16T17:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
+   "start": "2026-10-16T17:30:00+02:00",
+   "url": "https://playriftbound.com/en-US/events/117154998012346704",
    "format": "Riftbound Limited",
-   "price": "900 Kč"
+   "price": "700 Kč"
   },
   {
    "id": "najada:8694",
-   "title": "Radiance Pre-Rift",
+   "title": "Riftbound: Radiance Pre-Rift Event Run #2",
    "game": "riftbound",
    "storeId": "najada",
    "start": "2026-10-17T15:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
+   "url": "https://playriftbound.com/en-US/events/117155028077707602",
    "format": "Riftbound Limited",
-   "price": "900 Kč"
+   "price": "700 Kč"
   },
   {
    "id": "najada:8696",
@@ -3792,16 +3732,6 @@
    "price": "400 Kč"
   },
   {
-   "id": "najada:8787",
-   "title": "Conquest casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-07T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Conquest",
-   "price": "Free"
-  },
-  {
    "id": "najada:8788",
    "title": "Conquest casual play",
    "game": "other",
@@ -4502,6 +4432,6 @@
    "price": "350 Kč"
   }
  ],
- "fetchedAt": "2026-10-07T13:35:55.772Z",
+ "fetchedAt": "2026-10-07T23:11:01.391Z",
  "source": "najada"
 }
