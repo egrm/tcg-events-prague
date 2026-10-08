@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8179",
-   "title": "Modern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-08T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "150 Kč"
-  },
-  {
    "id": "najada:8182",
    "title": "Nexus Night",
    "game": "riftbound",
@@ -20,16 +10,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed Riftbound",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:8183",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-10-08T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8195",
@@ -160,16 +140,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:8224",
-   "title": "Premodern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-08T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Other",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8225",
@@ -529,16 +499,6 @@
    "start": "2026-10-30T17:30:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8334",
-   "title": "Pokémon tournament",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-08T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
    "price": "100 Kč"
   },
   {
@@ -1002,16 +962,6 @@
    "price": "120 Kč"
   },
   {
-   "id": "najada:8413",
-   "title": "Lorcana Core Constructed",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-08T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8414",
    "title": "Lorcana Core Constructed",
    "game": "lorcana",
@@ -1110,16 +1060,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Constructed",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8424",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-08T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "200 Kč"
   },
   {
    "id": "najada:8425",
@@ -3002,16 +2942,6 @@
    "price": "900 Kč"
   },
   {
-   "id": "najada:8705",
-   "title": "The Great Hunny Rescue Celebration",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-08T16:10:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "Free"
-  },
-  {
    "id": "najada:8706",
    "title": "The Great Hunny Rescue Celebration",
    "game": "lorcana",
@@ -3802,16 +3732,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8795",
-   "title": "Pokémon free play",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-08T15:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:8796",
    "title": "Pokémon free play",
    "game": "pokemon",
@@ -4482,6 +4402,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-10-08T13:41:44.999Z",
+ "fetchedAt": "2026-10-08T23:26:32.873Z",
  "source": "najada"
 }
