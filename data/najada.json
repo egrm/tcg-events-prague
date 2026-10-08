@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "najada:8179",
@@ -4433,5 +4433,6 @@
   }
  ],
  "fetchedAt": "2026-10-07T23:11:01.391Z",
- "source": "najada"
+ "source": "najada",
+ "error": "Error: fetch failed (ECONNREFUSED) for https://najada.games/api/v1/playhouse/tournament/?limit=50&offset=300&date_after=2026-10-08"
 }
