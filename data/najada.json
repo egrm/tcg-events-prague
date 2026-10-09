@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "najada:8182",
@@ -4400,9 +4400,98 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Constructed",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8865",
+   "title": "Draft Hobbit",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-08T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8866",
+   "title": "Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2027-01-08T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:8867",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-08T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8868",
+   "title": "Star Wars: Unlimited",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2027-01-08T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8869",
+   "title": "Star Trek RUN 1 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-06T16:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8870",
+   "title": "Star Trek RUN 2 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-07T10:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8871",
+   "title": "Star Trek RUN 3 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-07T16:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8872",
+   "title": "Star Trek RUN 4 2HG Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-08T10:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "1800 Kč"
+  },
+  {
+   "id": "najada:8873",
+   "title": "Star Trek RUN 5 Prerelease",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-08T16:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed Deck",
+   "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-10-08T23:26:32.873Z",
- "source": "najada",
- "error": "TimeoutError: The operation was aborted due to timeout"
+ "fetchedAt": "2026-10-09T13:28:42.293Z",
+ "source": "najada"
 }
