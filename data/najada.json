@@ -3432,16 +3432,6 @@
    "price": "120 Kč"
   },
   {
-   "id": "najada:8764",
-   "title": "Draft Bloomburrow",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-10T11:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8765",
    "title": "Commander hraní",
    "game": "mtg",
@@ -4452,6 +4442,6 @@
    "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-10-10T06:02:17.724Z",
+ "fetchedAt": "2026-10-10T12:42:52.375Z",
  "source": "najada"
 }
