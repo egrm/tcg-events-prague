@@ -2792,16 +2792,6 @@
    "price": "350 Kč"
   },
   {
-   "id": "najada:8689",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-11T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
    "id": "najada:8690",
    "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
@@ -4382,6 +4372,6 @@
    "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-10-11T05:59:41.047Z",
+ "fetchedAt": "2026-10-11T13:05:00.824Z",
  "source": "najada"
 }
