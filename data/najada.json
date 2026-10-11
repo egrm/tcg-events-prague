@@ -2462,16 +2462,6 @@
    "price": "750 Kč"
   },
   {
-   "id": "najada:8650",
-   "title": "Summoner Skirmish - October",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-11T11:00:00+02:00",
-   "url": "https://locator.riftbound.uvsgames.com/events/499640",
-   "format": "Constructed Riftbound",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8651",
    "title": "Vanguard Day",
    "game": "vanguard",
@@ -3538,7 +3528,7 @@
    "storeId": "najada",
    "start": "2026-10-16T16:30:00+02:00",
    "url": "https://melee.gg/Tournament/View/476864",
-   "format": "Sealed SWU",
+   "format": "Draft SWU",
    "price": "350 Kč"
   },
   {
@@ -4370,8 +4360,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Sealed Deck",
    "price": "900 Kč"
+  },
+  {
+   "id": "najada:8877",
+   "title": "SWU Homeworlds draft",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2026-10-14T17:30:00+02:00",
+   "url": "https://melee.gg/Tournament/View/483292",
+   "format": "Draft SWU",
+   "price": "350 Kč"
   }
  ],
- "fetchedAt": "2026-10-11T13:05:00.824Z",
+ "fetchedAt": "2026-10-11T22:07:32.976Z",
  "source": "najada"
 }
