@@ -4120,8 +4120,58 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "400 Kč"
+  },
+  {
+   "id": "najada:8890",
+   "title": "Duel Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-12T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:8891",
+   "title": "Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-12T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8892",
+   "title": "Free Standard",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-12T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8893",
+   "title": "SWU Weekly Premier",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2027-01-12T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8894",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-12T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-13T00:49:40.367Z",
+ "fetchedAt": "2026-10-13T14:22:37.183Z",
  "source": "najada"
 }
