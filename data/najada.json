@@ -2,36 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8209",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-13T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
-   "id": "najada:8210",
-   "title": "Draft Reality Fracture",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-13T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
-   "id": "najada:8211",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-13T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8215",
    "title": "Lorcana League",
    "game": "lorcana",
@@ -60,16 +30,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "130 Kč"
-  },
-  {
-   "id": "najada:8218",
-   "title": "Conquest casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-13T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Conquest",
-   "price": "Free"
   },
   {
    "id": "najada:8219",
@@ -492,16 +452,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8343",
-   "title": "SWU Weekly Premier",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-13T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8344",
    "title": "SWU Weekly Premier",
    "game": "swu",
@@ -640,16 +590,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Pauper",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8367",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-13T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
   },
   {
    "id": "najada:8368",
@@ -4172,6 +4112,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-13T14:22:37.183Z",
+ "fetchedAt": "2026-10-13T22:54:41.025Z",
  "source": "najada"
 }

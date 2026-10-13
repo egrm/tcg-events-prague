@@ -12,7 +12,7 @@
   },
   {
    "id": "gameshub:weekly-play-xzone-praha-21-10-26",
-   "title": "Weekly play Xzone Praha 21.10.26",
+   "title": "Weekly play Xzone Praha 21.10.",
    "game": "swu",
    "storeId": "gh-xzone-praha",
    "start": "2026-10-21T18:00:00+02:00",
@@ -27,6 +27,6 @@
    "url": "https://games-hub.gg/turnaj/weekly-play-xzone-praha-21-10-26/"
   }
  },
- "fetchedAt": "2026-10-13T14:23:53.326Z",
+ "fetchedAt": "2026-10-13T22:55:27.616Z",
  "source": "gameshub"
 }
