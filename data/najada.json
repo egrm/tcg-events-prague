@@ -2,46 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8195",
-   "title": "Armory Event - Constructed",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-10-12T17:45:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Classic Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8196",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-12T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8197",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-10-12T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8198",
-   "title": "Monday Yu-Gi-Oh! tournament/Free play",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-10-12T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8209",
    "title": "Duel Commander",
    "game": "mtg",
@@ -1240,16 +1200,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
    "price": "450 Kč"
-  },
-  {
-   "id": "najada:8450",
-   "title": "Modern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-12T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "200 Kč"
   },
   {
    "id": "najada:8451",
@@ -3832,16 +3782,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8845",
-   "title": "Pokémon free play",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-12T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:8846",
    "title": "Pokémon free play",
    "game": "pokemon",
@@ -4182,6 +4122,6 @@
    "price": "400 Kč"
   }
  ],
- "fetchedAt": "2026-10-12T15:43:13.444Z",
+ "fetchedAt": "2026-10-13T00:49:40.367Z",
  "source": "najada"
 }
