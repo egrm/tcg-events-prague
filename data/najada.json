@@ -4140,8 +4140,78 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Lorcana Sealed Deck",
    "price": "600 Kč"
+  },
+  {
+   "id": "najada:8916",
+   "title": "Skirmish – November",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-11-28T11:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8917",
+   "title": "Budget cEDH liga",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-26T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8918",
+   "title": "Budget cEDH liga",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-02T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8919",
+   "title": "Budget cEDH liga",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-09T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8920",
+   "title": "Budget cEDH liga",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-16T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8921",
+   "title": "Budget cEDH liga",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-23T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8922",
+   "title": "Budget cEDH liga",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-30T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-14T17:20:16.397Z",
+ "fetchedAt": "2026-10-14T21:47:54.677Z",
  "source": "najada"
 }
