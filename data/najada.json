@@ -4110,8 +4110,78 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:8896",
+   "title": "Lorcana League",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2027-01-13T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8897",
+   "title": "Lorcana Free play",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2027-01-13T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8898",
+   "title": "Pokémon Competitive League",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-13T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "130 Kč"
+  },
+  {
+   "id": "najada:8899",
+   "title": "Conquest casual play",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-01-13T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Conquest",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8900",
+   "title": "Riftbound Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2027-01-13T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "120 Kč"
+  },
+  {
+   "id": "najada:8901",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2027-01-13T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8902",
+   "title": "Pokémon League",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-13T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-13T22:54:41.025Z",
+ "fetchedAt": "2026-10-14T05:02:53.048Z",
  "source": "najada"
 }
