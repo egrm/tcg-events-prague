@@ -269,12 +269,11 @@
    "start": "2026-10-24T14:00:00+02:00"
   },
   {
-   "id": "wizards:11971800",
-   "title": "Magic Presents: Reality Echoes Draft",
+   "id": "wizards:12080511",
+   "title": "Magic: Hobbit Draft",
    "game": "mtg",
    "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11971800",
-   "price": "CZK 400",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12080511",
    "start": "2026-10-25T11:00:00+01:00"
   },
   {
@@ -1916,6 +1915,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-10-15T17:11:14.414Z",
+ "fetchedAt": "2026-10-15T21:32:13.274Z",
  "source": "wizards"
 }
