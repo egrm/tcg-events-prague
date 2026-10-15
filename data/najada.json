@@ -2,46 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8215",
-   "title": "Lorcana League",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-14T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8216",
-   "title": "Lorcana Free play",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-14T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Constructed",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8217",
-   "title": "Pokémon Competitive League",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-14T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "130 Kč"
-  },
-  {
-   "id": "najada:8219",
-   "title": "Pokémon League",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-14T15:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
-  },
-  {
    "id": "najada:8223",
    "title": "Modern",
    "game": "mtg",
@@ -632,16 +592,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8388",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-10-14T18:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8389",
    "title": "Store Tournament",
    "game": "onepiece",
@@ -730,16 +680,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "One Piece Constructed",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8401",
-   "title": "Riftbound Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-14T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "120 Kč"
   },
   {
    "id": "najada:8402",
@@ -3312,16 +3252,6 @@
    "price": "400 Kč"
   },
   {
-   "id": "najada:8788",
-   "title": "Conquest casual play",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-14T16:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Conquest",
-   "price": "Free"
-  },
-  {
    "id": "najada:8789",
    "title": "Conquest casual play",
    "game": "other",
@@ -3802,16 +3732,6 @@
    "price": "900 Kč"
   },
   {
-   "id": "najada:8877",
-   "title": "SWU Homeworlds draft",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-14T17:30:00+02:00",
-   "url": "https://melee.gg/Tournament/View/483292",
-   "format": "Draft SWU",
-   "price": "350 Kč"
-  },
-  {
    "id": "najada:8879",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -3860,16 +3780,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8886",
-   "title": "Pokémon League Challenge",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-14T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "250 Kč"
   },
   {
    "id": "najada:8887",
@@ -4210,8 +4120,318 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:8923",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-11-17T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8924",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-11-24T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8925",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-01T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8926",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-08T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8927",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-15T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8928",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-22T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8929",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-29T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8930",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-01-05T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8931",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-01-12T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8932",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-01-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8933",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-01-26T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8934",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-02-02T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8935",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2027-02-09T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8936",
+   "title": "Modern",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-14T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Modern",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:8937",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-07T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8938",
+   "title": "Draft Star Trek",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-06T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:8939",
+   "title": "Premodern",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-07T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8940",
+   "title": "Lorcana Core Constructed",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2026-11-12T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8941",
+   "title": "Lorcana Core Constructed",
+   "game": "lorcana",
+   "storeId": "najada",
+   "start": "2027-01-14T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Lorcana Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8942",
+   "title": "Weekly Vanguard",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2027-01-14T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard CV",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8943",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-05T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8944",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-12T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8945",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-19T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8946",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-11-26T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8947",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-03T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8948",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-10T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8949",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-17T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8950",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-24T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8951",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2026-12-31T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8952",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-07T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
+  },
+  {
+   "id": "najada:8953",
+   "title": "Pokémon Free play",
+   "game": "pokemon",
+   "storeId": "najada",
+   "start": "2027-01-14T15:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Poké - Standard",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-14T21:47:54.677Z",
+ "fetchedAt": "2026-10-15T04:51:35.983Z",
  "source": "najada"
 }

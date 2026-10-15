@@ -1873,15 +1873,6 @@
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955188",
    "start": "2027-01-08T14:00:00+01:00"
-  },
-  {
-   "id": "wizards:11955148",
-   "title": "Friday Night Magic Vintage Cube Draft",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955148",
-   "price": "CZK 150",
-   "start": "2027-01-08T18:00:00+01:00"
   }
  ],
  "stores": {
@@ -1896,6 +1887,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-10-14T21:49:09.894Z",
+ "fetchedAt": "2026-10-15T04:52:45.562Z",
  "source": "wizards"
 }
