@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8223",
-   "title": "Modern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-15T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Modern",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:8225",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-10-15T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8227",
    "title": "Star Wars: Unlimited - cancelled",
    "game": "swu",
@@ -160,16 +140,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:8246",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-15T18:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8247",
@@ -396,7 +366,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-10-20T18:00:00+02:00",
+   "start": "2026-10-21T18:00:00+02:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -406,7 +376,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-10-27T18:00:00+01:00",
+   "start": "2026-10-28T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -416,7 +386,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-11-03T18:00:00+01:00",
+   "start": "2026-11-04T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -426,7 +396,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-11-10T18:00:00+01:00",
+   "start": "2026-11-11T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -436,7 +406,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-11-17T18:00:00+01:00",
+   "start": "2026-11-18T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -446,7 +416,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-11-24T18:00:00+01:00",
+   "start": "2026-11-25T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -456,7 +426,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-12-01T18:00:00+01:00",
+   "start": "2026-12-02T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -466,7 +436,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-12-08T18:00:00+01:00",
+   "start": "2026-12-09T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -476,7 +446,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-12-15T18:00:00+01:00",
+   "start": "2026-12-16T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -2736,7 +2706,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-12-22T18:00:00+01:00",
+   "start": "2026-12-23T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -3066,7 +3036,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2026-12-29T18:00:00+01:00",
+   "start": "2026-12-30T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -3496,7 +3466,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2027-01-05T18:00:00+01:00",
+   "start": "2027-01-06T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -3836,7 +3806,7 @@
    "title": "SWU Weekly Premier",
    "game": "swu",
    "storeId": "najada",
-   "start": "2027-01-12T18:00:00+01:00",
+   "start": "2027-01-13T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
@@ -4432,6 +4402,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-15T04:51:35.983Z",
+ "fetchedAt": "2026-10-15T11:42:17.829Z",
  "source": "najada"
 }
