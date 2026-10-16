@@ -4390,8 +4390,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8962",
+   "title": "Commander hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-22T13:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-16T04:43:40.323Z",
+ "fetchedAt": "2026-10-16T11:35:42.291Z",
  "source": "najada"
 }
