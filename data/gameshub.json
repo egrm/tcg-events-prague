@@ -11,6 +11,15 @@
    "format": "Standard Vstupné: 100 Kč Registrace: od 17:30 Začátek hraní: 18:00 Ceny: 1 booster Pitch black za hráče do cen a 1 prize pack za účast v turnaji Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha Kompetitivní Liga Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
   },
   {
+   "id": "gameshub:xzone-praha-kompetitivni-liga-10",
+   "title": "Xzone Praha Kompetitivní Liga",
+   "game": "pokemon",
+   "storeId": "gh-xzone-praha",
+   "start": "2026-10-19T18:00:00+02:00",
+   "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga-10/",
+   "format": "Standard Vstupné: 100 Kč Registrace: od 17:30 Začátek hraní: 18:00 Ceny: 1 booster Pitch black za hráče do cen a 1 prize pack za účast v turnaji Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha Kompetitivní Liga Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
+  },
+  {
    "id": "gameshub:weekly-play-xzone-praha-21-10-26",
    "title": "Weekly play Xzone Praha 21.10.",
    "game": "swu",
@@ -27,6 +36,6 @@
    "url": "https://games-hub.gg/turnaj/weekly-play-xzone-praha-21-10-26/"
   }
  },
- "fetchedAt": "2026-10-16T11:36:28.389Z",
+ "fetchedAt": "2026-10-16T16:47:34.404Z",
  "source": "gameshub"
 }
