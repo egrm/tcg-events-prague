@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8227",
-   "title": "Star Wars: Unlimited - cancelled",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-16T17:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8231",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -2442,16 +2432,6 @@
    "price": "900 Kč"
   },
   {
-   "id": "najada:8693",
-   "title": "Riftbound: Radiance Pre-Rift Event Run #1",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-16T17:30:00+02:00",
-   "url": "https://playriftbound.com/en-US/events/117154998012346704",
-   "format": "Riftbound Limited",
-   "price": "700 Kč"
-  },
-  {
    "id": "najada:8694",
    "title": "Riftbound: Radiance Pre-Rift Event Run #2",
    "game": "riftbound",
@@ -2812,16 +2792,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8742",
-   "title": "Riftbound: Radiance Pre-Rift Event Run #1",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-16T17:45:00+02:00",
-   "url": "https://playriftbound.com/en-US/events/117037737280663748",
-   "format": "Riftbound Limited",
-   "price": "700 Kč"
-  },
-  {
    "id": "najada:8743",
    "title": "Riftbound: Radiance Pre-Rift Event Run #2",
    "game": "riftbound",
@@ -3130,16 +3100,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8781",
-   "title": "Karpův Homeworlds draft",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-16T16:30:00+02:00",
-   "url": "https://melee.gg/Tournament/View/476864",
-   "format": "Draft SWU",
-   "price": "350 Kč"
   },
   {
    "id": "najada:8782",
@@ -4382,6 +4342,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-16T21:21:34.627Z",
+ "fetchedAt": "2026-10-17T04:39:40.310Z",
  "source": "najada"
 }
