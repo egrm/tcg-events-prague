@@ -629,7 +629,7 @@
    "start": "2026-10-21T18:00:00+02:00",
    "url": "https://playriftbound.com/en-US/events/117155058882232444",
    "format": "Riftbound Limited",
-   "price": "120 Kč"
+   "price": "700 Kč"
   },
   {
    "id": "najada:8403",
@@ -4342,6 +4342,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-17T04:39:40.310Z",
+ "fetchedAt": "2026-10-17T10:55:49.729Z",
  "source": "najada"
 }
