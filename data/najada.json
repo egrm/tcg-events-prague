@@ -2162,16 +2162,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8657",
-   "title": "Hyperia city (Sealed) BIG",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-17T10:30:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Sealed Deck",
-   "price": "900 Kč"
-  },
-  {
    "id": "najada:8658",
    "title": "Hyperia city (Sealed)",
    "game": "lorcana",
@@ -2420,26 +2410,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
-  },
-  {
-   "id": "najada:8691",
-   "title": "Prerelease Hyperia City",
-   "game": "lorcana",
-   "storeId": "najada",
-   "start": "2026-10-17T09:15:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Lorcana Sealed Deck",
-   "price": "900 Kč"
-  },
-  {
-   "id": "najada:8694",
-   "title": "Riftbound: Radiance Pre-Rift Event Run #2",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-17T15:30:00+02:00",
-   "url": "https://playriftbound.com/en-US/events/117155028077707602",
-   "format": "Riftbound Limited",
-   "price": "700 Kč"
   },
   {
    "id": "najada:8696",
@@ -4342,6 +4312,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-17T20:43:51.274Z",
+ "fetchedAt": "2026-10-18T04:45:14.694Z",
  "source": "najada"
 }
