@@ -3687,7 +3687,7 @@
    "game": "other",
    "storeId": "najada",
    "start": "2026-11-01T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
+   "url": "https://melee.gg/Tournament/View/484819",
    "format": "Sealed CP",
    "price": "750 Kč"
   },
@@ -4290,8 +4290,158 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8968",
+   "title": "Stardust Trails [GD06] - Release Event",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-11-01T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Sealed",
+   "price": "900 Kč"
+  },
+  {
+   "id": "najada:8969",
+   "title": "VGE \"Premium\" November 2026 Shop Tournament",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-11-01T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Premium CV",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8970",
+   "title": "Dragon Ball Super: Fusion World - Store Tournament",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-11-01T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed DBFW",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8971",
+   "title": "Gundam Card Game – Store Tournament",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-11-01T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Constructed",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8972",
+   "title": "Skirmish Season 16",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2026-11-14T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Silver Age",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8973",
+   "title": "VGE Sneak Preview: Future Card Buddyfight – Disaster Force",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-11-15T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed CV",
+   "price": "500 Kč"
+  },
+  {
+   "id": "najada:8974",
+   "title": "VGE Sneak Preview: Parallactic Fate",
+   "game": "vanguard",
+   "storeId": "najada",
+   "start": "2026-11-15T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Sealed CV",
+   "price": "500 Kč"
+  },
+  {
+   "id": "najada:8975",
+   "title": "One Piece: The Dominance of God - Release Event - Run #1",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-11-21T10:30:00+01:00",
+   "url": "https://www.bandai-tcg-plus.com/event/7136454",
+   "format": "OP Sealed Deck",
+   "price": "700 Kč"
+  },
+  {
+   "id": "najada:8976",
+   "title": "One Piece: The Dominance of God - Release Event - Run #2",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-11-21T15:00:00+01:00",
+   "url": "https://www.bandai-tcg-plus.com/event/7136455",
+   "format": "OP Sealed Deck",
+   "price": "700 Kč"
+  },
+  {
+   "id": "najada:8977",
+   "title": "Gundam Card Game – Store Tournament",
+   "game": "gundam",
+   "storeId": "najada",
+   "start": "2026-11-22T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Gundam Constructed",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8978",
+   "title": "Dragon Ball Super: Fusion World - Store Tournament",
+   "game": "dbfw",
+   "storeId": "najada",
+   "start": "2026-11-22T15:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed DBFW",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8979",
+   "title": "Summoner Skirmish - November",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-11-22T11:00:00+01:00",
+   "url": "https://playriftbound.com/events/117037766499516776",
+   "format": "Constructed Riftbound",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:8980",
+   "title": "Warcry tournament",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-10-25T10:30:00+01:00",
+   "url": "https://fb.me/e/iQSFzWwd1",
+   "format": "jiné",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8981",
+   "title": "Bohemian Blood League 2026 Vol. 8 (FINALS)",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-11-14T10:00:00+01:00",
+   "url": "https://fb.me/e/gIafiEcfG",
+   "format": "Conquest",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:8982",
+   "title": "Heroines Battle Vol.2",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2026-11-09T18:15:00+01:00",
+   "url": "https://www.bandai-tcg-plus.com/event/7002863",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-10-19T04:53:51.563Z",
+ "fetchedAt": "2026-10-19T13:35:48.092Z",
  "source": "najada"
 }

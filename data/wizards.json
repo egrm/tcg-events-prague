@@ -582,11 +582,12 @@
    "start": "2026-11-06T17:30:00+01:00"
   },
   {
-   "id": "wizards:11955524",
-   "title": "Friday Night Magic DRAFT - Star Trek Prerelease",
+   "id": "wizards:12105412",
+   "title": "FNM Prerelease DRAFT - Star Trek Prerelease",
    "game": "mtg",
    "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955524",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12105412",
+   "price": "CZK 550",
    "start": "2026-11-06T18:00:00+01:00"
   },
   {
@@ -614,6 +615,7 @@
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11954992",
+   "price": "CZK 1,200",
    "start": "2026-11-07T11:00:00+01:00"
   },
   {
@@ -650,6 +652,7 @@
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955476",
+   "price": "CZK 900",
    "start": "2026-11-07T16:00:00+01:00"
   },
   {
@@ -667,6 +670,7 @@
    "game": "mtg",
    "storeId": "dracijeskyne",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955416",
+   "price": "CZK 900",
    "start": "2026-11-08T11:00:00+01:00"
   },
   {
@@ -1886,6 +1890,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-10-19T04:54:54.935Z",
+ "fetchedAt": "2026-10-19T13:36:52.195Z",
  "source": "wizards"
 }
