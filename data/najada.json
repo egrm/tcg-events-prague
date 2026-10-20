@@ -4390,8 +4390,48 @@
    "url": "https://www.bandai-tcg-plus.com/event/7002863",
    "format": "One Piece Constructed",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8983",
+   "title": "Duel Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-19T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:8984",
+   "title": "Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-19T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:8985",
+   "title": "Free Standard",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-19T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:8986",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-19T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-19T22:28:12.561Z",
+ "fetchedAt": "2026-10-20T05:00:15.594Z",
  "source": "najada"
 }
