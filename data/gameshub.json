@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "gameshub:weekly-play-xzone-praha-21-10-26",
@@ -19,5 +19,6 @@
   }
  },
  "fetchedAt": "2026-10-21T12:02:15.091Z",
- "source": "gameshub"
+ "source": "gameshub",
+ "error": "Error: fetch failed (UND_ERR_CONNECT_TIMEOUT) for https://games-hub.gg/seznam_turnaju/?gid=magic"
 }
