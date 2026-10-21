@@ -4450,8 +4450,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:8995",
+   "title": "FNM: Innistrad: Midnight Hunt Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-10-23T17:30:00+02:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "250 Kč"
   }
  ],
- "fetchedAt": "2026-10-21T04:59:51.224Z",
+ "fetchedAt": "2026-10-21T12:01:26.735Z",
  "source": "najada"
 }
