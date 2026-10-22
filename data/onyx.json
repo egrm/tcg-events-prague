@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "onyx:riftbound-nexus-night-volne-hrani-2026-10-22",
-   "title": "Riftbound Nexus Night - volné hraní",
-   "game": "riftbound",
-   "storeId": "onyx",
-   "start": "2026-10-22T17:00:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "Zdarma",
-   "end": "2026-10-22T20:00:00+02:00"
-  },
-  {
-   "id": "onyx:lorcana-weekly-volne-hrani-2026-10-22",
-   "title": "Lorcana Weekly - volné hraní",
-   "game": "lorcana",
-   "storeId": "onyx",
-   "start": "2026-10-22T16:00:00+02:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "Zdarma",
-   "end": "2026-10-22T20:00:00+02:00"
-  },
-  {
    "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-10-23",
    "title": "Pokémon turnaj - Standard Mystery Challenge",
    "game": "pokemon",
@@ -266,6 +246,6 @@
    "end": "2026-11-17T20:00:00+01:00"
   }
  ],
- "fetchedAt": "2026-10-22T12:04:30.906Z",
+ "fetchedAt": "2026-10-22T17:18:49.408Z",
  "source": "onyx"
 }
