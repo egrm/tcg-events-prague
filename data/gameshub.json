@@ -1,23 +1,7 @@
 {
  "status": "ok",
- "events": [
-  {
-   "id": "gameshub:weekly-play-xzone-praha-21-10-26",
-   "title": "Weekly play Xzone Praha 21.10.",
-   "game": "swu",
-   "storeId": "gh-xzone-praha",
-   "start": "2026-10-21T18:00:00+02:00",
-   "url": "https://games-hub.gg/turnaj/weekly-play-xzone-praha-21-10-26/",
-   "format": "SWU - Weekly Kapacita: 20 míst Vstupné: 100 ,-"
-  }
- ],
- "stores": {
-  "gh-xzone-praha": {
-   "name": "Xzone Praha",
-   "address": "Archeologická 2256/1 OC, Lužiny 13, 155 00 Praha 13",
-   "url": "https://games-hub.gg/turnaj/weekly-play-xzone-praha-21-10-26/"
-  }
- },
- "fetchedAt": "2026-10-21T21:49:59.983Z",
+ "events": [],
+ "stores": {},
+ "fetchedAt": "2026-10-22T05:02:44.945Z",
  "source": "gameshub"
 }
