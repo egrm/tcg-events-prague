@@ -1773,7 +1773,7 @@
   },
   {
    "id": "najada:8625",
-   "title": "OTS Championship - Beyond the Brace - Prague",
+   "title": "OTS Championship - Beyond the Brave - Prague",
    "game": "yugioh",
    "storeId": "najada",
    "start": "2026-10-25T11:00:00+01:00",
@@ -4442,6 +4442,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-22T05:02:03.630Z",
+ "fetchedAt": "2026-10-22T12:04:30.024Z",
  "source": "najada"
 }
