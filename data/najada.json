@@ -4430,8 +4430,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:9010",
+   "title": "Spiritforged Sealed with Pre-Rift kits",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-11-14T15:00:00+01:00",
+   "url": "https://playriftbound.com/events/117489211520120636",
+   "format": "Riftbound Limited",
+   "price": "800 Kč"
   }
  ],
- "fetchedAt": "2026-10-23T05:02:27.789Z",
+ "fetchedAt": "2026-10-23T11:49:17.705Z",
  "source": "najada"
 }
