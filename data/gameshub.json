@@ -2,6 +2,15 @@
  "status": "ok",
  "events": [
   {
+   "id": "gameshub:xzone-praha-kompetitivni-liga-11",
+   "title": "Xzone Praha Kompetitivní Liga",
+   "game": "pokemon",
+   "storeId": "gh-xzone-praha",
+   "start": "2026-10-23T18:00:00+02:00",
+   "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga-11/",
+   "format": "Standard Vstupné: 100 Kč Registrace: od 17:30 Začátek hraní: 18:00 Ceny: 1 booster Pitch black za hráče do cen a 1 prize pack za účast v turnaji Formát turnaje Duel Commander Modern Pauper Casual Premodern Limited Two- Headed Giant Standard Pioneer cEDH Legacy Vintage SWU - Showdown Draft SWU - Pre-release Twin Suns Constructed Multiplayer Pack Rush Expanded Unlimited Gym Leader Challenge Deskové hry Classic Constructed Silver Age Booster draft Sealed deck Living Legends Blitz Sealed PVP SWU - Weekly Planetary Qualifier Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha Kompetitivní Liga Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
+  },
+  {
    "id": "gameshub:xzone-praha-delta-reign-prerelease-1",
    "title": "Xzone Praha Delta Reign Prerelease #1",
    "game": "pokemon",
@@ -18,6 +27,6 @@
    "url": "https://games-hub.gg/turnaj/xzone-praha-delta-reign-prerelease-1/"
   }
  },
- "fetchedAt": "2026-10-23T11:50:12.511Z",
+ "fetchedAt": "2026-10-23T17:18:27.031Z",
  "source": "gameshub"
 }
