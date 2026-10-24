@@ -2,14 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11777656",
-   "title": "Welcome to the Commander Party",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11777656",
-   "start": "2026-10-24T10:00:00+02:00"
-  },
-  {
    "id": "wizards:11955314",
    "title": "Duel Commander",
    "game": "mtg",
@@ -144,7 +136,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482152",
    "price": "CZK 200",
-   "start": "2026-10-28T17:00:00+01:00"
+   "start": "2026-10-28T17:30:00+01:00"
   },
   {
    "id": "wizards:11955042",
@@ -379,7 +371,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11778583",
    "price": "CZK 1,200",
-   "start": "2026-11-06T17:00:00+01:00"
+   "start": "2026-11-06T16:30:00+01:00"
   },
   {
    "id": "wizards:12070282",
@@ -592,7 +584,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963551",
    "price": "CZK 200",
-   "start": "2026-11-11T17:00:00+01:00"
+   "start": "2026-11-11T17:30:00+01:00"
   },
   {
    "id": "wizards:11714106",
@@ -892,7 +884,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963553",
    "price": "CZK 200",
-   "start": "2026-11-25T17:30:00+01:00"
+   "start": "2026-11-25T17:00:00+01:00"
   },
   {
    "id": "wizards:11955046",
@@ -1021,8 +1013,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963554",
    "price": "CZK 200",
-   "start": "2026-12-02T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-12-01T18:00:00+01:00"
   },
   {
    "id": "wizards:11955047",
@@ -1830,6 +1821,6 @@
    "url": "https://locator.wizards.com/store/11538"
   }
  },
- "fetchedAt": "2026-10-24T04:48:21.268Z",
+ "fetchedAt": "2026-10-24T11:16:47.243Z",
  "source": "wizards"
 }
