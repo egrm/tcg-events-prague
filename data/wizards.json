@@ -2,13 +2,14 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11955314",
-   "title": "Duel Commander",
+   "id": "wizards:12136199",
+   "title": "Magic: The Lord of the Rings - Draft",
    "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955314",
-   "price": "CZK 100",
-   "start": "2026-10-24T14:00:00+02:00"
+   "storeId": "cernyrytir",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12136199",
+   "price": "CZK 500",
+   "start": "2026-10-25T00:00:00+02:00",
+   "allDay": true
   },
   {
    "id": "wizards:11298699",
@@ -1807,6 +1808,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921871",
    "price": "CZK 50",
    "start": "2027-01-21T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:11955190",
+   "title": "EDH Commander Volné Hraní",
+   "game": "mtg",
+   "storeId": "dracijeskyne",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955190",
+   "start": "2027-01-22T14:00:00+01:00"
   }
  ],
  "stores": {
@@ -1821,6 +1830,6 @@
    "url": "https://locator.wizards.com/store/11538"
   }
  },
- "fetchedAt": "2026-10-24T11:16:47.243Z",
+ "fetchedAt": "2026-10-24T16:05:01.841Z",
  "source": "wizards"
 }
