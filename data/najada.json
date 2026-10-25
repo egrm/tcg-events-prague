@@ -2092,16 +2092,6 @@
    "price": "350 Kč"
   },
   {
-   "id": "najada:8696",
-   "title": "Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-24T13:00:00+02:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8697",
    "title": "Draft Bloomburrow",
    "game": "mtg",
@@ -4402,6 +4392,6 @@
    "price": "200 Kč"
   }
  ],
- "fetchedAt": "2026-10-24T20:58:09.801Z",
+ "fetchedAt": "2026-10-25T04:55:08.278Z",
  "source": "najada"
 }
