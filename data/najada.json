@@ -1682,16 +1682,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8625",
-   "title": "OTS Championship - Beyond the Brave - Prague",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-10-25T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8627",
    "title": "Duel Commander",
    "game": "mtg",
@@ -1810,46 +1800,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8646",
-   "title": "Gundam Card Game – Store Tournament",
-   "game": "gundam",
-   "storeId": "najada",
-   "start": "2026-10-25T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Gundam Constructed",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8648",
-   "title": "Dragon Ball Super: Fusion World - Store Tournament",
-   "game": "dbfw",
-   "storeId": "najada",
-   "start": "2026-10-25T15:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed DBFW",
-   "price": "200 Kč"
-  },
-  {
-   "id": "najada:8652",
-   "title": "Halloween Tournament 2026",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-10-25T15:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8653",
-   "title": "VGE Sneak Preview: Parallactic Dawn",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-10-25T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed CV",
-   "price": "500 Kč"
   },
   {
    "id": "najada:8654",
@@ -4072,16 +4022,6 @@
    "price": "300 Kč"
   },
   {
-   "id": "najada:8980",
-   "title": "Warcry tournament",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-25T10:30:00+01:00",
-   "url": "https://fb.me/e/iQSFzWwd1",
-   "format": "jiné",
-   "price": "200 Kč"
-  },
-  {
    "id": "najada:8981",
    "title": "Bohemian Blood League 2026 Vol. 8 (FINALS)",
    "game": "other",
@@ -4380,8 +4320,58 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "200 Kč"
+  },
+  {
+   "id": "najada:9013",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2027-01-25T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9014",
+   "title": "Legacy",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-25T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9015",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2027-01-25T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9016",
+   "title": "Modern",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-01-18T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Modern",
+   "price": "200 Kč"
+  },
+  {
+   "id": "najada:9017",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2027-01-25T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-10-25T20:58:16.791Z",
+ "fetchedAt": "2026-10-26T04:58:20.031Z",
  "source": "najada"
 }

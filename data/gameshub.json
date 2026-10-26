@@ -9,24 +9,15 @@
    "start": "2026-10-26T18:00:00+01:00",
    "url": "https://games-hub.gg/turnaj/xzone-praha-league-challenge-rijen/",
    "format": "Standard Vstupné: 250 Kč Registrace: 17:30 Začátek hraní: 18:00 Decklisty přineste na papíře, přiložte zde na stránce nebo ideálně posílejte na e-mail : decklistluziny@xzone.cz Ceny: 2 boostery Pitch Black za hráče do cen, 1 prize pack za účast v turnaji a další do cen Formát turnaje Duel Commander Modern Pauper Casual Premodern Limited Two- Headed Giant Standard Pioneer cEDH Legacy Vintage SWU - Showdown Draft SWU - Pre-release Twin Suns Constructed Multiplayer Pack Rush Expanded Unlimited Gym Leader Challenge Deskové hry Classic Constructed Silver Age Booster draft Sealed deck Living Legends Blitz Sealed PVP SWU - Weekly Planetary Qualifier Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha League Challenge Říjen Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
-  },
-  {
-   "id": "gameshub:xzone-praha-delta-reign-prerelease-2",
-   "title": "Xzone Praha Delta Reign Prerelease #2",
-   "game": "pokemon",
-   "storeId": "gh-xzone-praha",
-   "start": "2026-10-25T11:30:00+01:00",
-   "url": "https://games-hub.gg/turnaj/xzone-praha-delta-reign-prerelease-2/",
-   "format": "Sealed Registrace: https://forms.gle/xegch8wQBpY1QkUE7 Každý hráč dostane Build &amp; Battle Kit a 2 boostery na stavbu balíčku Po odehrání turnaje dostane každý hráč 1 booster Pro hráče s pozitivním skóre bude čekat prize pack Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha Delta Reign Prerelease #2 Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
   }
  ],
  "stores": {
   "gh-xzone-praha": {
    "name": "Xzone Praha",
    "address": "Archeologická 2256/1 OC, Lužiny 13, 155 00 Praha 13",
-   "url": "https://games-hub.gg/turnaj/xzone-praha-delta-reign-prerelease-2/"
+   "url": "https://games-hub.gg/turnaj/xzone-praha-league-challenge-rijen/"
   }
  },
- "fetchedAt": "2026-10-25T20:59:14.453Z",
+ "fetchedAt": "2026-10-26T04:59:41.054Z",
  "source": "gameshub"
 }
