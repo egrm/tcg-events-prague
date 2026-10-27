@@ -1,23 +1,7 @@
 {
  "status": "ok",
- "events": [
-  {
-   "id": "gameshub:xzone-praha-league-challenge-rijen",
-   "title": "Xzone Praha League Challenge Říjen",
-   "game": "pokemon",
-   "storeId": "gh-xzone-praha",
-   "start": "2026-10-26T18:00:00+01:00",
-   "url": "https://games-hub.gg/turnaj/xzone-praha-league-challenge-rijen/",
-   "format": "Standard Vstupné: 250 Kč Registrace: 17:30 Začátek hraní: 18:00 Decklisty přineste na papíře, přiložte zde na stránce nebo ideálně posílejte na e-mail : decklistluziny@xzone.cz Ceny: 2 boostery Pitch Black za hráče do cen, 1 prize pack za účast v turnaji a další do cen Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha League Challenge Říjen Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
-  }
- ],
- "stores": {
-  "gh-xzone-praha": {
-   "name": "Xzone Praha",
-   "address": "Archeologická 2256/1 OC, Lužiny 13, 155 00 Praha 13",
-   "url": "https://games-hub.gg/turnaj/xzone-praha-league-challenge-rijen/"
-  }
- },
- "fetchedAt": "2026-10-26T22:47:01.960Z",
+ "events": [],
+ "stores": {},
+ "fetchedAt": "2026-10-27T05:17:35.887Z",
  "source": "gameshub"
 }

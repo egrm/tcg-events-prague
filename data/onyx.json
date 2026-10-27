@@ -246,8 +246,26 @@
    "start": "2026-11-20T17:30:00+01:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "600,-"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-2026-11-23",
+   "title": "Pokémon turnaj - Standard",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-11-23T17:30:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "120,-"
+  },
+  {
+   "id": "onyx:star-wars-unlimited-liga-turnaj-2026-11-23",
+   "title": "Star Wars: Unlimited liga - turnaj",
+   "game": "swu",
+   "storeId": "onyx",
+   "start": "2026-11-23T17:30:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "100,-"
   }
  ],
- "fetchedAt": "2026-10-26T22:45:43.316Z",
+ "fetchedAt": "2026-10-27T05:16:17.463Z",
  "source": "onyx"
 }
