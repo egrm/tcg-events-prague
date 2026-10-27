@@ -2,16 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "onyx:pokemon-liga-volne-hrani-2026-10-27",
-   "title": "Pokémon liga - volné hraní",
-   "game": "pokemon",
-   "storeId": "onyx",
-   "start": "2026-10-27T17:00:00+01:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "Zdarma",
-   "end": "2026-10-27T20:00:00+01:00"
-  },
-  {
    "id": "onyx:riftbound-nexus-night-volne-hrani-2026-10-29",
    "title": "Riftbound Nexus Night - volné hraní",
    "game": "riftbound",
@@ -266,6 +256,6 @@
    "price": "100,-"
   }
  ],
- "fetchedAt": "2026-10-27T12:25:33.868Z",
+ "fetchedAt": "2026-10-27T22:23:49.519Z",
  "source": "onyx"
 }

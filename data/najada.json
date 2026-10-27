@@ -12,16 +12,6 @@
    "price": "250 Kč"
   },
   {
-   "id": "najada:8255",
-   "title": "Draft Reality Fracture",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-27T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8256",
    "title": "Free Standard",
    "game": "mtg",
@@ -4350,8 +4340,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Commander",
    "price": "Free"
+  },
+  {
+   "id": "najada:9022",
+   "title": "Radiance booster draft",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2026-11-27T17:30:00+01:00",
+   "url": "https://playriftbound.com/en-US/events/117513512646356009",
+   "format": "Riftbound Limited",
+   "price": "500 Kč"
   }
  ],
- "fetchedAt": "2026-10-27T12:25:32.839Z",
+ "fetchedAt": "2026-10-27T22:23:48.030Z",
  "source": "najada"
 }
