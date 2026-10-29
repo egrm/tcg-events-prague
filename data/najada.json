@@ -2972,16 +2972,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8887",
-   "title": "Hraní Dračí Hlídky",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-30T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "jiné",
-   "price": "Free"
-  },
-  {
    "id": "najada:8890",
    "title": "Duel Commander",
    "game": "mtg",
@@ -4382,6 +4372,6 @@
    "price": "Free"
   }
  ],
- "fetchedAt": "2026-10-29T05:59:18.457Z",
+ "fetchedAt": "2026-10-29T13:18:45.343Z",
  "source": "najada"
 }
