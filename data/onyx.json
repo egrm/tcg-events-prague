@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "suspect",
  "events": [
   {
    "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-10-30",
@@ -246,6 +246,7 @@
    "end": "2026-11-24T20:00:00+01:00"
   }
  ],
- "fetchedAt": "2026-10-29T22:50:49.815Z",
- "source": "onyx"
+ "fetchedAt": "2026-10-30T06:00:12.329Z",
+ "source": "onyx",
+ "note": "Got 0 events, previously 26; kept previous data"
 }
