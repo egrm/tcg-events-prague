@@ -2,26 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "najada:8277",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-10-30T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:8278",
-   "title": "Star Wars: Unlimited",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-10-30T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8346",
    "title": "SWU Weekly Premier",
    "game": "swu",
@@ -2272,26 +2252,6 @@
    "price": "120 Kč"
   },
   {
-   "id": "najada:8766",
-   "title": "Krvavá hodina",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-30T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "jiné",
-   "price": "Free"
-  },
-  {
-   "id": "najada:8767",
-   "title": "Krvavá hodina",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-10-30T20:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "jiné",
-   "price": "Free"
-  },
-  {
    "id": "najada:8768",
    "title": "Commander hraní",
    "game": "mtg",
@@ -4322,6 +4282,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-10-30T22:28:53.251Z",
+ "fetchedAt": "2026-10-31T05:55:42.060Z",
  "source": "najada"
 }
