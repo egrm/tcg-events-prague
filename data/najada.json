@@ -2352,16 +2352,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8782",
-   "title": "Standard Store Championship",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-31T10:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "250 Kč"
-  },
-  {
    "id": "najada:8790",
    "title": "Armory Event - Constructed",
    "game": "fab",
@@ -4282,6 +4272,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-10-31T05:55:42.060Z",
+ "fetchedAt": "2026-10-31T12:46:10.638Z",
  "source": "najada"
 }
