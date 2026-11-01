@@ -1582,26 +1582,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8661",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 2 FULL CAPACITY!",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-31T10:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed deck",
-   "price": "600 Kč"
-  },
-  {
-   "id": "najada:8662",
-   "title": "Mega Evolution - Delta Reign Prerelease RUN 3 FULL CAPACITY!",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-10-31T14:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed deck",
-   "price": "600 Kč"
-  },
-  {
    "id": "najada:8664",
    "title": "Mega Evolution - Delta Reign Prerelease RUN 4 FULL CAPACITY!",
    "game": "pokemon",
@@ -2250,16 +2230,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed Riftbound",
    "price": "120 Kč"
-  },
-  {
-   "id": "najada:8768",
-   "title": "Commander hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-10-31T12:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
   },
   {
    "id": "najada:8769",
@@ -4272,6 +4242,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-10-31T21:43:26.918Z",
+ "fetchedAt": "2026-11-01T06:24:04.709Z",
  "source": "najada"
 }
