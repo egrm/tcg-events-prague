@@ -483,23 +483,13 @@
   },
   {
    "id": "najada:8456",
-   "title": "Armory Event - Constructed",
+   "title": "Draft Usurp The Shadow Throne",
    "game": "fab",
    "storeId": "najada",
    "start": "2026-11-02T17:45:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Classic Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8457",
-   "title": "Legačka",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-02T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "100 Kč"
+   "price": "300 Kč"
   },
   {
    "id": "najada:8458",
@@ -3022,16 +3012,6 @@
    "price": "300 Kč"
   },
   {
-   "id": "najada:8918",
-   "title": "Budget cEDH liga",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-02T18:05:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8919",
    "title": "Budget cEDH liga",
    "game": "mtg",
@@ -4210,8 +4190,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:9049",
+   "title": "Learn Magic with us",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-14T11:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "New Player Event",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-11-02T06:24:41.537Z",
+ "fetchedAt": "2026-11-02T21:47:08.284Z",
  "source": "najada"
 }
