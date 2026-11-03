@@ -2,6 +2,6 @@
  "status": "pending",
  "note": "New site live, but its tournament API is still broken; MTG events come via the Wizards locator",
  "events": [],
- "fetchedAt": "2026-11-02T21:48:24.122Z",
+ "fetchedAt": "2026-11-03T06:58:58.065Z",
  "source": "cernyrytir"
 }

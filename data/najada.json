@@ -72,16 +72,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8355",
-   "title": "Pauper",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-02T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8356",
    "title": "Pauper",
    "game": "mtg",
@@ -480,36 +470,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8456",
-   "title": "Draft Usurp The Shadow Throne",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-11-02T17:45:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Classic Constructed",
-   "price": "300 Kč"
-  },
-  {
-   "id": "najada:8458",
-   "title": "Store Tournament",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-11-02T18:15:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "One Piece Constructed",
-   "price": "100 Kč"
-  },
-  {
-   "id": "najada:8459",
-   "title": "Monday Yu-Gi-Oh! tournament/Free play",
-   "game": "yugioh",
-   "storeId": "najada",
-   "start": "2026-11-02T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Advanced",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8464",
@@ -4200,8 +4160,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "New Player Event",
    "price": "Free"
+  },
+  {
+   "id": "najada:9050",
+   "title": "Duel Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-02T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "250 Kč"
+  },
+  {
+   "id": "najada:9051",
+   "title": "Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-02T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
+  },
+  {
+   "id": "najada:9052",
+   "title": "Free Standard",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-02T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Standard",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9053",
+   "title": "Multiplayer Commander",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-02T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
   }
  ],
- "fetchedAt": "2026-11-02T21:47:08.284Z",
+ "fetchedAt": "2026-11-03T06:58:21.724Z",
  "source": "najada"
 }
