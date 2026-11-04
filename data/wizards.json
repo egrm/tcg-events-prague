@@ -12,6 +12,16 @@
    "allDay": true
   },
   {
+   "id": "wizards:12207229",
+   "title": "Magic Presents: All Leylines&#x27; Eve Reality Fracture",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12207229",
+   "price": "CZK 350",
+   "start": "2026-11-04T00:00:00+01:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11955043",
    "title": "Pauper",
    "game": "mtg",
@@ -62,8 +72,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921743",
    "price": "CZK 159",
-   "start": "2026-11-06T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-06T14:00:00+01:00"
   },
   {
    "id": "wizards:11955179",
@@ -106,7 +115,7 @@
    "game": "mtg",
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714105",
-   "price": "CZK 900",
+   "price": "CZK 800",
    "start": "2026-11-06T17:30:00+01:00"
   },
   {
@@ -318,7 +327,7 @@
    "game": "mtg",
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714106",
-   "price": "CZK 900",
+   "price": "CZK 800",
    "start": "2026-11-11T00:00:00+01:00",
    "allDay": true
   },
@@ -465,8 +474,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963552",
    "price": "CZK 200",
-   "start": "2026-11-18T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-17T18:00:00+01:00"
   },
   {
    "id": "wizards:11955045",
@@ -1160,7 +1168,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12046912",
-   "start": "2026-12-21T18:00:00+01:00"
+   "start": "2026-12-21T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955677",
@@ -1604,6 +1613,14 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921872",
    "price": "CZK 50",
    "start": "2027-01-28T17:00:00+01:00"
+  },
+  {
+   "id": "wizards:12207282",
+   "title": "Casual commander Black History Month Celebration",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12207282",
+   "start": "2027-02-01T16:00:00+01:00"
   }
  ],
  "stores": {
@@ -1618,6 +1635,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-11-03T19:38:44.944Z",
+ "fetchedAt": "2026-11-04T06:41:27.749Z",
  "source": "wizards"
 }
