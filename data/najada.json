@@ -533,7 +533,7 @@
   },
   {
    "id": "najada:8479",
-   "title": "Star Wars: Unlimited",
+   "title": "Star Wars: Unlimited - Cancelled!",
    "game": "swu",
    "storeId": "najada",
    "start": "2026-11-06T17:30:00+01:00",
@@ -4240,8 +4240,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "One Piece Constructed",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:9062",
+   "title": "Memoriál Davida Gila VI Legacy",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-12-12T10:30:00+01:00",
+   "url": "https://www.facebook.com/events/1146254327853567",
+   "format": "Legacy",
+   "price": "300 Kč"
   }
  ],
- "fetchedAt": "2026-11-04T06:40:21.558Z",
+ "fetchedAt": "2026-11-04T19:52:52.572Z",
  "source": "najada"
 }
