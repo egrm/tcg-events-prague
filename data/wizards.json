@@ -2,30 +2,14 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11482218",
-   "title": "casual commander",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11482218",
-   "start": "2026-11-05T16:00:00+01:00"
-  },
-  {
-   "id": "wizards:11921860",
-   "title": "Supersweet Standard Showdown",
-   "game": "mtg",
-   "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921860",
-   "price": "CZK 50",
-   "start": "2026-11-05T17:00:00+01:00"
-  },
-  {
    "id": "wizards:12110186",
    "title": "StarTrek 1 Prerelease",
    "game": "mtg",
    "storeId": "wpn-11538",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12110186",
    "price": "CZK 1,200",
-   "start": "2026-11-05T18:00:00+01:00"
+   "start": "2026-11-06T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11921743",
@@ -34,7 +18,8 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921743",
    "price": "CZK 159",
-   "start": "2026-11-05T18:00:00+01:00"
+   "start": "2026-11-06T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955179",
@@ -60,7 +45,7 @@
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11778583",
    "price": "CZK 1,200",
-   "start": "2026-11-06T17:00:00+01:00"
+   "start": "2026-11-06T16:30:00+01:00"
   },
   {
    "id": "wizards:12070282",
@@ -228,7 +213,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12046909",
-   "start": "2026-11-09T18:00:00+01:00"
+   "start": "2026-11-09T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11782454",
@@ -290,8 +276,7 @@
    "storeId": "xzone",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11714106",
    "price": "CZK 800",
-   "start": "2026-11-11T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-11T17:30:00+01:00"
   },
   {
    "id": "wizards:11955044",
@@ -571,8 +556,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12077457",
-   "start": "2026-11-24T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-24T18:00:00+01:00"
   },
   {
    "id": "wizards:11637071",
@@ -736,7 +720,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963554",
    "price": "CZK 200",
-   "start": "2026-12-01T18:00:00+01:00"
+   "start": "2026-12-02T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955047",
@@ -899,7 +884,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963555",
    "price": "CZK 200",
-   "start": "2026-12-09T17:30:00+01:00"
+   "start": "2026-12-09T17:00:00+01:00"
   },
   {
    "id": "wizards:11955048",
@@ -1592,6 +1577,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12055071",
    "price": "CZK 100",
    "start": "2027-02-02T17:45:00+01:00"
+  },
+  {
+   "id": "wizards:11637076",
+   "title": "Modern STREDA",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637076",
+   "price": "$100",
+   "start": "2027-02-03T17:00:00+01:00"
   }
  ],
  "stores": {
@@ -1606,6 +1600,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-11-05T07:00:22.196Z",
+ "fetchedAt": "2026-11-05T20:06:35.249Z",
  "source": "wizards"
 }
