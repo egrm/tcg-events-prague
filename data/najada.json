@@ -2452,16 +2452,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8869",
-   "title": "Star Trek RUN 1 Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-06T16:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "900 Kč"
-  },
-  {
    "id": "najada:8870",
    "title": "Star Trek RUN 2 Prerelease",
    "game": "mtg",
@@ -2680,16 +2670,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed CP",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8905",
-   "title": "Star Trek 2vs2 Prerelease",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-06T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "1800 Kč"
   },
   {
    "id": "najada:8906",
@@ -4202,6 +4182,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-06T06:58:57.259Z",
+ "fetchedAt": "2026-11-06T19:31:32.111Z",
  "source": "najada"
 }
