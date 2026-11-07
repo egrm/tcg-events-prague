@@ -11,6 +11,15 @@
    "start": "2026-11-07T10:15:00+01:00"
   },
   {
+   "id": "wizards:11953934",
+   "title": "32nd PDC - Černý Rytíř CDC League",
+   "game": "mtg",
+   "storeId": "wpn-15472",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11953934",
+   "price": "CZK 800",
+   "start": "2026-11-07T10:55:00+01:00"
+  },
+  {
    "id": "wizards:11879920",
    "title": "2HG Star Trek - Prerelease Prerelease",
    "game": "mtg",
@@ -501,7 +510,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12077457",
-   "start": "2026-11-24T18:00:00+01:00"
+   "start": "2026-11-24T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11637071",
@@ -519,8 +529,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963553",
    "price": "CZK 200",
-   "start": "2026-11-25T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-25T17:00:00+01:00"
   },
   {
    "id": "wizards:11955046",
@@ -776,8 +785,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12046911",
-   "start": "2026-12-07T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-12-07T18:00:00+01:00"
   },
   {
    "id": "wizards:11782458",
@@ -830,7 +838,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963555",
    "price": "CZK 200",
-   "start": "2026-12-09T17:00:00+01:00"
+   "start": "2026-12-09T17:30:00+01:00"
   },
   {
    "id": "wizards:11955048",
@@ -1549,6 +1557,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-11-06T19:32:48.353Z",
+ "fetchedAt": "2026-11-07T06:13:11.158Z",
  "source": "wizards"
 }
