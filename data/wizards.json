@@ -2,15 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:12044589",
-   "title": "STAR TREK Prerelease",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12044589",
-   "price": "CZK 900",
-   "start": "2026-11-08T15:30:00+01:00"
-  },
-  {
    "id": "wizards:12153965",
    "title": "Casual Commander",
    "game": "mtg",
@@ -265,7 +256,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963552",
    "price": "CZK 200",
-   "start": "2026-11-17T18:00:00+01:00"
+   "start": "2026-11-18T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955045",
@@ -564,7 +556,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963554",
    "price": "CZK 200",
-   "start": "2026-12-02T17:30:00+01:00"
+   "start": "2026-12-01T18:00:00+01:00"
   },
   {
    "id": "wizards:11955047",
@@ -1446,6 +1438,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-11-08T13:38:45.172Z",
+ "fetchedAt": "2026-11-08T22:16:35.400Z",
  "source": "wizards"
 }
