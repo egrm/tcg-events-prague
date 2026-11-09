@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "onyx:pokemon-turnaj-standard-2026-11-09",
@@ -266,7 +266,6 @@
    "price": "600,-"
   }
  ],
- "fetchedAt": "2026-11-08T13:37:48.263Z",
- "source": "onyx",
- "error": "Error: HTTP 403 for https://www.professoronyx.com/kalendar-akci/"
+ "fetchedAt": "2026-11-09T06:51:04.893Z",
+ "source": "onyx"
 }
