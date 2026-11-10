@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "onyx:pokemon-liga-volne-hrani-2026-11-10",
@@ -267,5 +267,6 @@
   }
  ],
  "fetchedAt": "2026-11-10T07:29:24.456Z",
- "source": "onyx"
+ "source": "onyx",
+ "error": "Error: HTTP 403 for https://www.professoronyx.com/kalendar-akci/"
 }
