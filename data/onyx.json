@@ -1,16 +1,6 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
-  {
-   "id": "onyx:pokemon-liga-volne-hrani-2026-11-10",
-   "title": "Pokémon liga - volné hraní",
-   "game": "pokemon",
-   "storeId": "onyx",
-   "start": "2026-11-10T17:00:00+01:00",
-   "url": "https://www.professoronyx.com/kalendar-akci/",
-   "price": "Zdarma",
-   "end": "2026-11-10T20:00:00+01:00"
-  },
   {
    "id": "onyx:riftbound-nexus-night-volne-hrani-2026-11-12",
    "title": "Riftbound Nexus Night - volné hraní",
@@ -264,9 +254,18 @@
    "start": "2026-12-07T17:30:00+01:00",
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "100,-"
+  },
+  {
+   "id": "onyx:pokemon-liga-volne-hrani-2026-12-08",
+   "title": "Pokémon liga - volné hraní",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-12-08T17:00:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "Zdarma",
+   "end": "2026-12-08T20:00:00+01:00"
   }
  ],
- "fetchedAt": "2026-11-10T07:29:24.456Z",
- "source": "onyx",
- "error": "Error: HTTP 403 for https://www.professoronyx.com/kalendar-akci/"
+ "fetchedAt": "2026-11-11T06:44:29.263Z",
+ "source": "onyx"
 }
