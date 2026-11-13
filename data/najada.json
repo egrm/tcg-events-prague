@@ -272,16 +272,6 @@
    "price": "200 Kč"
   },
   {
-   "id": "najada:8433",
-   "title": "Premodern",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-12T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Legacy",
-   "price": "200 Kč"
-  },
-  {
    "id": "najada:8434",
    "title": "Premodern",
    "game": "mtg",
@@ -350,16 +340,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8496",
-   "title": "Weekly Vanguard",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-11-12T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard CV",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8497",
@@ -1902,16 +1882,6 @@
    "price": "250 Kč"
   },
   {
-   "id": "najada:8805",
-   "title": "Pokémon tournament",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-11-12T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8806",
    "title": "Pokémon tournament",
    "game": "pokemon",
@@ -2650,16 +2620,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Standard CV",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8944",
-   "title": "Pokémon Free play",
-   "game": "pokemon",
-   "storeId": "najada",
-   "start": "2026-11-12T15:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Poké - Standard",
-   "price": "Free"
   },
   {
    "id": "najada:8945",
@@ -4120,8 +4080,48 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Poké - Standard",
    "price": "Free"
+  },
+  {
+   "id": "najada:9103",
+   "title": "Draft Hobbit",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-12T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "450 Kč"
+  },
+  {
+   "id": "najada:9104",
+   "title": "Nexus Night",
+   "game": "riftbound",
+   "storeId": "najada",
+   "start": "2027-02-12T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed Riftbound",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:9105",
+   "title": "Multiplayer Commander volné hraní",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-12T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:9106",
+   "title": "Star Wars: Unlimited",
+   "game": "swu",
+   "storeId": "najada",
+   "start": "2027-02-12T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed SWU",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-12T20:06:08.128Z",
+ "fetchedAt": "2026-11-13T06:56:15.828Z",
  "source": "najada"
 }
