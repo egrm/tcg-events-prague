@@ -1242,16 +1242,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8684",
-   "title": "Draft Reality Fracture ",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-13T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "350 Kč"
-  },
-  {
    "id": "najada:8685",
    "title": "Draft Star Trek",
    "game": "mtg",
@@ -3992,16 +3982,6 @@
    "price": "250 Kč"
   },
   {
-   "id": "najada:9094",
-   "title": "Draft Star Trek",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-13T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:9095",
    "title": "Modern",
    "game": "mtg",
@@ -4122,6 +4102,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-13T06:56:15.828Z",
+ "fetchedAt": "2026-11-13T19:51:41.468Z",
  "source": "najada"
 }
