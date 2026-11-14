@@ -246,8 +246,26 @@
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-12-10T20:00:00+01:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-12-11",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-12-11T17:30:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "120,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-12-11",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-12-11T17:30:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
   }
  ],
- "fetchedAt": "2026-11-13T19:51:42.709Z",
+ "fetchedAt": "2026-11-14T06:42:36.357Z",
  "source": "onyx"
 }

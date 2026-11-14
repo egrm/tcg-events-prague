@@ -82,16 +82,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8384",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-13T16:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8393",
    "title": "Store Tournament",
    "game": "onepiece",
@@ -340,26 +330,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Modern",
    "price": "200 Kč"
-  },
-  {
-   "id": "najada:8497",
-   "title": "Nexus Night",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-11-13T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Constructed Riftbound",
-   "price": "150 Kč"
-  },
-  {
-   "id": "najada:8498",
-   "title": "Star Wars: Unlimited",
-   "game": "swu",
-   "storeId": "najada",
-   "start": "2026-11-13T17:30:00+01:00",
-   "url": "https://melee.gg/Tournament/View/484183",
-   "format": "Constructed SWU",
-   "price": "100 Kč"
   },
   {
    "id": "najada:8519",
@@ -2352,16 +2322,6 @@
    "price": "300 Kč"
   },
   {
-   "id": "najada:8910",
-   "title": "Draft Star Trek",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-13T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
    "id": "najada:8911",
    "title": "Commander hraní",
    "game": "mtg",
@@ -4102,6 +4062,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-13T19:51:41.468Z",
+ "fetchedAt": "2026-11-14T06:42:35.180Z",
  "source": "najada"
 }
