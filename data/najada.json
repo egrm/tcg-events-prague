@@ -2662,16 +2662,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8954",
-   "title": "Pokémon day",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-11-14T10:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "jiné",
-   "price": "Free"
-  },
-  {
    "id": "najada:8956",
    "title": "Big Pauper",
    "game": "mtg",
@@ -2792,16 +2782,6 @@
    "price": "100 Kč"
   },
   {
-   "id": "najada:8972",
-   "title": "Skirmish Season 16",
-   "game": "fab",
-   "storeId": "najada",
-   "start": "2026-11-14T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Silver Age",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8973",
    "title": "VGE Sneak Preview: Future Card Buddyfight – Disaster Force",
    "game": "vanguard",
@@ -2870,16 +2850,6 @@
    "url": "https://playriftbound.com/events/117037766499516776",
    "format": "Constructed Riftbound",
    "price": "300 Kč"
-  },
-  {
-   "id": "najada:8981",
-   "title": "Bohemian Blood League 2026 Vol. 8 (FINALS)",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-11-14T10:00:00+01:00",
-   "url": "https://fb.me/e/gIafiEcfG",
-   "format": "Conquest",
-   "price": "200 Kč"
   },
   {
    "id": "najada:8983",
@@ -3130,16 +3100,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:9010",
-   "title": "Spiritforged Sealed with Pre-Rift kits",
-   "game": "riftbound",
-   "storeId": "najada",
-   "start": "2026-11-14T15:00:00+01:00",
-   "url": "https://playriftbound.com/events/117489211520120636",
-   "format": "Riftbound Limited",
-   "price": "800 Kč"
   },
   {
    "id": "najada:9011",
@@ -3490,16 +3450,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:9049",
-   "title": "Learn Magic with us",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-14T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "New Player Event",
-   "price": "Free"
   },
   {
    "id": "najada:9050",
@@ -4062,6 +4012,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-14T22:33:34.454Z",
+ "fetchedAt": "2026-11-15T06:48:06.304Z",
  "source": "najada"
 }
