@@ -34,6 +34,15 @@
    "start": "2026-11-16T17:45:00+01:00"
   },
   {
+   "id": "wizards:12296493",
+   "title": "Monday Draft - Lorwyn Eclipsed",
+   "game": "mtg",
+   "storeId": "grail",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12296493",
+   "price": "CZK 400",
+   "start": "2026-11-16T17:45:00+01:00"
+  },
+  {
    "id": "wizards:12195642",
    "title": "Bloomburrow draft",
    "game": "mtg",
@@ -242,7 +251,7 @@
   },
   {
    "id": "wizards:12077457",
-   "title": "Commander Evening at The Grail - Commander Party Commander Party",
+   "title": "Commander Evening at The Grail Commander Party",
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12077457",
@@ -1449,6 +1458,6 @@
    "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-11-15T06:48:58.815Z",
+ "fetchedAt": "2026-11-15T18:58:30.902Z",
  "source": "wizards"
 }

@@ -632,16 +632,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8568",
-   "title": "European Magic Series RCQ (2) | 2026-27 Round 2 Sealed",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-15T10:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed Deck",
-   "price": "1000 Kč"
-  },
-  {
    "id": "najada:8574",
    "title": "Modern",
    "game": "mtg",
@@ -4012,6 +4002,6 @@
    "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-15T06:48:06.304Z",
+ "fetchedAt": "2026-11-15T18:57:32.428Z",
  "source": "najada"
 }
