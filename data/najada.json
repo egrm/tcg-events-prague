@@ -2312,16 +2312,6 @@
    "price": "300 Kč"
   },
   {
-   "id": "najada:8911",
-   "title": "Commander hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-15T13:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
-  },
-  {
    "id": "najada:8913",
    "title": "Commander hraní",
    "game": "mtg",
@@ -2673,7 +2663,7 @@
   },
   {
    "id": "najada:8958",
-   "title": "Draft Hobbit",
+   "title": "Draft Star Trek",
    "game": "mtg",
    "storeId": "najada",
    "start": "2027-01-15T18:00:00+01:00",
@@ -2770,26 +2760,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8973",
-   "title": "VGE Sneak Preview: Future Card Buddyfight – Disaster Force",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-11-15T11:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed CV",
-   "price": "500 Kč"
-  },
-  {
-   "id": "najada:8974",
-   "title": "VGE Sneak Preview: Parallactic Fate",
-   "game": "vanguard",
-   "storeId": "najada",
-   "start": "2026-11-15T15:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Sealed CV",
-   "price": "500 Kč"
   },
   {
    "id": "najada:8975",
@@ -4000,8 +3970,58 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:9108",
+   "title": "Armory Event - Constructed",
+   "game": "fab",
+   "storeId": "najada",
+   "start": "2027-02-15T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Classic Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9109",
+   "title": "Legacy",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-15T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Legacy",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9110",
+   "title": "Store Tournament",
+   "game": "onepiece",
+   "storeId": "najada",
+   "start": "2027-02-15T18:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "One Piece Constructed",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9111",
+   "title": "Pauper",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2027-02-08T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "100 Kč"
+  },
+  {
+   "id": "najada:9112",
+   "title": "Monday Yu-Gi-Oh! tournament/Free play",
+   "game": "yugioh",
+   "storeId": "najada",
+   "start": "2027-02-15T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Advanced",
+   "price": "100 Kč"
   }
  ],
- "fetchedAt": "2026-11-15T18:57:32.428Z",
+ "fetchedAt": "2026-11-16T06:46:24.501Z",
  "source": "najada"
 }
