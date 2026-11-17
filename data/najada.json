@@ -322,36 +322,6 @@
    "price": "200 Kč"
   },
   {
-   "id": "najada:8532",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-17T17:45:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "250 Kč"
-  },
-  {
-   "id": "najada:8533",
-   "title": "Draft Star Trek",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-17T17:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "400 Kč"
-  },
-  {
-   "id": "najada:8534",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-17T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Standard",
-   "price": "100 Kč"
-  },
-  {
    "id": "najada:8535",
    "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
@@ -4070,8 +4040,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed CP",
    "price": "150 Kč"
+  },
+  {
+   "id": "najada:9124",
+   "title": "FNM: Draft Lorwyn Eclipsed",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-20T17:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "350 Kč"
   }
  ],
- "fetchedAt": "2026-11-17T08:07:22.960Z",
+ "fetchedAt": "2026-11-17T21:04:36.002Z",
  "source": "najada"
 }
