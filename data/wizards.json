@@ -12,6 +12,16 @@
    "allDay": true
   },
   {
+   "id": "wizards:12314521",
+   "title": "Xzone OC Lužiny Draft - Star Trek",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12314521",
+   "price": "CZK 400",
+   "start": "2026-11-18T00:00:00+01:00",
+   "allDay": true
+  },
+  {
    "id": "wizards:11955045",
    "title": "Pauper",
    "game": "mtg",
@@ -138,8 +148,7 @@
    "storeId": "wpn-13406",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12256389",
    "price": "CZK 330",
-   "start": "2026-11-24T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-11-24T17:00:00+01:00"
   },
   {
    "id": "wizards:11955673",
@@ -167,22 +176,14 @@
    "start": "2026-11-24T18:00:00+01:00"
   },
   {
-   "id": "wizards:11637071",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637071",
-   "price": "$100",
-   "start": "2026-11-25T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11963553",
    "title": "Duel Commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963553",
    "price": "CZK 200",
-   "start": "2026-11-25T17:00:00+01:00"
+   "start": "2026-11-25T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955046",
@@ -522,23 +523,13 @@
    "start": "2026-12-08T17:45:00+01:00"
   },
   {
-   "id": "wizards:11637072",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637072",
-   "price": "$100",
-   "start": "2026-12-09T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11963555",
    "title": "Duel Commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963555",
    "price": "CZK 200",
-   "start": "2026-12-09T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-12-09T17:30:00+01:00"
   },
   {
    "id": "wizards:11955048",
@@ -796,8 +787,7 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12046912",
-   "start": "2026-12-21T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-12-21T18:00:00+01:00"
   },
   {
    "id": "wizards:11955677",
@@ -818,22 +808,13 @@
    "start": "2026-12-22T17:45:00+01:00"
   },
   {
-   "id": "wizards:11637073",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637073",
-   "price": "$100",
-   "start": "2026-12-23T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11963557",
    "title": "Duel Commander",
    "game": "mtg",
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963557",
    "price": "CZK 200",
-   "start": "2026-12-23T17:00:00+01:00"
+   "start": "2026-12-22T18:00:00+01:00"
   },
   {
    "id": "wizards:11955050",
@@ -1019,15 +1000,6 @@
    "start": "2027-01-05T17:45:00+01:00"
   },
   {
-   "id": "wizards:11637074",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637074",
-   "price": "$100",
-   "start": "2027-01-06T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11963559",
    "title": "Duel Commander",
    "game": "mtg",
@@ -1200,15 +1172,6 @@
    "start": "2027-01-19T17:45:00+01:00"
   },
   {
-   "id": "wizards:11637075",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637075",
-   "price": "$100",
-   "start": "2027-01-20T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11963561",
    "title": "Duel Commander",
    "game": "mtg",
@@ -1331,15 +1294,6 @@
    "start": "2027-02-02T17:45:00+01:00"
   },
   {
-   "id": "wizards:11637076",
-   "title": "Modern STREDA",
-   "game": "mtg",
-   "storeId": "wpn-15472",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11637076",
-   "price": "$100",
-   "start": "2027-02-03T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11963661",
    "title": "CASUAL COMMANDER",
    "game": "mtg",
@@ -1353,7 +1307,8 @@
    "game": "mtg",
    "storeId": "alchymista",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12195002",
-   "start": "2027-02-07T13:00:00+01:00"
+   "start": "2027-02-07T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11963662",
@@ -1369,13 +1324,8 @@
    "name": "TLAMA Games",
    "address": "Prague area (see store page)",
    "url": "https://locator.wizards.com/store/13406"
-  },
-  "wpn-15472": {
-   "name": "Alola",
-   "address": "Prague area (see store page)",
-   "url": "https://locator.wizards.com/store/15472"
   }
  },
- "fetchedAt": "2026-11-17T21:05:46.796Z",
+ "fetchedAt": "2026-11-18T07:42:50.714Z",
  "source": "wizards"
 }

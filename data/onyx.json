@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "onyx:riftbound-nexus-night-volne-hrani-2026-11-19",
@@ -257,5 +257,6 @@
   }
  ],
  "fetchedAt": "2026-11-17T21:04:37.442Z",
- "source": "onyx"
+ "source": "onyx",
+ "error": "Error: HTTP 403 for https://www.professoronyx.com/kalendar-akci/"
 }
