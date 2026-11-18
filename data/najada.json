@@ -292,16 +292,6 @@
    "price": "450 Kč"
   },
   {
-   "id": "najada:8448",
-   "title": "Draft Hobbit",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-12-18T18:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Booster Draft",
-   "price": "450 Kč"
-  },
-  {
    "id": "najada:8453",
    "title": "Modern",
    "game": "mtg",
@@ -1119,7 +1109,7 @@
    "start": "2026-11-20T18:00:00+01:00",
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Booster Draft",
-   "price": "350 Kč"
+   "price": "400 Kč"
   },
   {
    "id": "najada:8686",
@@ -1170,16 +1160,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed Riftbound",
    "price": "150 Kč"
-  },
-  {
-   "id": "najada:8710",
-   "title": "Multiplayer Commander volné hraní",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-12-18T16:00:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Commander",
-   "price": "Free"
   },
   {
    "id": "najada:8711",
@@ -2276,8 +2256,8 @@
    "title": "Night City Brawl",
    "game": "other",
    "storeId": "najada",
-   "start": "2026-11-24T17:30:00+01:00",
-   "url": "https://melee.gg/Tournament/View/484826",
+   "start": "2026-11-30T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed CP",
    "price": "150 Kč"
   },
@@ -4110,8 +4090,98 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "One Piece Constructed",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:9133",
+   "title": "Tarkir: Dragonstorm draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-20T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "400 Kč"
+  },
+  {
+   "id": "najada:9134",
+   "title": "Lorwyn Eclipsed draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-11-27T18:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "400 Kč"
+  },
+  {
+   "id": "najada:9135",
+   "title": "Last Call - pauper turnaj",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-12-12T10:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Pauper",
+   "price": "300 Kč"
+  },
+  {
+   "id": "najada:9136",
+   "title": "Vánoční noční hraní commanderu",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-12-19T16:00:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Commander",
+   "price": "Free"
+  },
+  {
+   "id": "najada:9137",
+   "title": "Cyberpunk TCG: Welcome to Night City Pre-Release",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-11-29T11:00:00+01:00",
+   "url": "https://melee.gg/Tournament/View/494049",
+   "format": "Sealed CP",
+   "price": "750 Kč"
+  },
+  {
+   "id": "najada:9138",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-07T17:15:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:9139",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-14T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:9140",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-21T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "150 Kč"
+  },
+  {
+   "id": "najada:9141",
+   "title": "Night City Brawl",
+   "game": "other",
+   "storeId": "najada",
+   "start": "2026-12-28T17:45:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Constructed CP",
+   "price": "150 Kč"
   }
  ],
- "fetchedAt": "2026-11-18T07:41:53.071Z",
+ "fetchedAt": "2026-11-18T20:41:22.419Z",
  "source": "najada"
 }
