@@ -2,23 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11963650",
-   "title": "CASUAL COMMANDER",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963650",
-   "start": "2026-11-19T16:00:00+01:00"
-  },
-  {
-   "id": "wizards:11921862",
-   "title": "Supersweet Standard Showdown",
-   "game": "mtg",
-   "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11921862",
-   "price": "CZK 50",
-   "start": "2026-11-19T17:00:00+01:00"
-  },
-  {
    "id": "wizards:11955181",
    "title": "EDH Commander Volné Hraní",
    "game": "mtg",
@@ -144,7 +127,8 @@
    "game": "mtg",
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12077457",
-   "start": "2026-11-24T18:00:00+01:00"
+   "start": "2026-11-24T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11963553",
@@ -292,7 +276,7 @@
    "storeId": "grail",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12320278",
    "price": "CZK 400",
-   "start": "2026-11-30T17:45:00+01:00"
+   "start": "2026-11-30T18:00:00+01:00"
   },
   {
    "id": "wizards:12246227",
@@ -682,7 +666,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963556",
    "price": "CZK 200",
-   "start": "2026-12-15T18:00:00+01:00"
+   "start": "2026-12-16T17:30:00+01:00"
   },
   {
    "id": "wizards:11955049",
@@ -803,7 +787,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963557",
    "price": "CZK 200",
-   "start": "2026-12-22T18:00:00+01:00"
+   "start": "2026-12-23T17:30:00+01:00"
   },
   {
    "id": "wizards:11955050",
@@ -899,8 +883,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963558",
    "price": "CZK 200",
-   "start": "2026-12-30T00:00:00+01:00",
-   "allDay": true
+   "start": "2026-12-29T18:00:00+01:00"
   },
   {
    "id": "wizards:11955051",
@@ -1267,6 +1250,15 @@
    "start": "2027-01-28T17:00:00+01:00"
   },
   {
+   "id": "wizards:12324661",
+   "title": "Nauctis: The Sunken Realm Prerelease",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12324661",
+   "price": "CZK 700",
+   "start": "2027-01-29T17:30:00+01:00"
+  },
+  {
    "id": "wizards:12207282",
    "title": "Casual commander Black History Month Celebration",
    "game": "mtg",
@@ -1282,6 +1274,15 @@
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12055071",
    "price": "CZK 100",
    "start": "2027-02-02T17:45:00+01:00"
+  },
+  {
+   "id": "wizards:12324662",
+   "title": "Nauctis: The Sunken Realm Prerelease",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12324662",
+   "price": "CZK 700",
+   "start": "2027-02-03T17:30:00+01:00"
   },
   {
    "id": "wizards:11963661",
@@ -1306,6 +1307,14 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963662",
    "start": "2027-02-11T16:00:00+01:00"
+  },
+  {
+   "id": "wizards:12324681",
+   "title": "Nauctis: The Sunken Realm Commander Party",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12324681",
+   "start": "2027-02-15T16:00:00+01:00"
   }
  ],
  "stores": {
@@ -1315,6 +1324,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-11-19T07:39:35.712Z",
+ "fetchedAt": "2026-11-19T20:48:52.099Z",
  "source": "wizards"
 }
