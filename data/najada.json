@@ -2322,16 +2322,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8956",
-   "title": "Big Pauper",
-   "game": "mtg",
-   "storeId": "najada",
-   "start": "2026-11-21T10:30:00+01:00",
-   "url": "https://www.najada.games/en/game-club/tournaments",
-   "format": "Pauper",
-   "price": "250 Kč"
-  },
-  {
    "id": "najada:8957",
    "title": "Budget cEDH liga",
    "game": "mtg",
@@ -2833,7 +2823,7 @@
   },
   {
    "id": "najada:9021",
-   "title": "Multiplayer Commander",
+   "title": "Multiplayer Commander volné hraní",
    "game": "mtg",
    "storeId": "najada",
    "start": "2027-01-26T16:00:00+01:00",
@@ -3213,7 +3203,7 @@
   },
   {
    "id": "najada:9062",
-   "title": "Memoriál Davida Gila VI Legacy",
+   "title": "Memoriál Davida Gilla VI Legacy",
    "game": "mtg",
    "storeId": "najada",
    "start": "2026-12-12T10:30:00+01:00",
@@ -4210,8 +4200,18 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Constructed SWU",
    "price": "100 Kč"
+  },
+  {
+   "id": "najada:9166",
+   "title": "Vánoční Chaos Draft",
+   "game": "mtg",
+   "storeId": "najada",
+   "start": "2026-12-20T10:30:00+01:00",
+   "url": "https://www.najada.games/en/game-club/tournaments",
+   "format": "Booster Draft",
+   "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-11-21T07:24:30.959Z",
+ "fetchedAt": "2026-11-21T19:28:20.463Z",
  "source": "najada"
 }

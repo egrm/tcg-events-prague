@@ -2,15 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:11955281",
-   "title": "Duel Commander",
-   "game": "mtg",
-   "storeId": "dracijeskyne",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11955281",
-   "price": "CZK 100",
-   "start": "2026-11-21T14:00:00+01:00"
-  },
-  {
    "id": "wizards:12331496",
    "title": "STARTREK Commander Party",
    "game": "mtg",
@@ -84,7 +75,8 @@
    "storeId": "wpn-13406",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12256389",
    "price": "CZK 330",
-   "start": "2026-11-24T17:00:00+01:00"
+   "start": "2026-11-24T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955673",
@@ -484,7 +476,8 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963555",
    "price": "CZK 200",
-   "start": "2026-12-08T18:00:00+01:00"
+   "start": "2026-12-09T00:00:00+01:00",
+   "allDay": true
   },
   {
    "id": "wizards:11955048",
@@ -1306,6 +1299,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-11-21T07:25:30.714Z",
+ "fetchedAt": "2026-11-21T19:29:23.169Z",
  "source": "wizards"
 }

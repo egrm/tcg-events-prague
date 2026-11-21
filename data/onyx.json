@@ -1,5 +1,5 @@
 {
- "status": "error",
+ "status": "ok",
  "events": [
   {
    "id": "onyx:pokemon-turnaj-standard-2026-11-23",
@@ -246,9 +246,26 @@
    "url": "https://www.professoronyx.com/kalendar-akci/",
    "price": "Zdarma",
    "end": "2026-12-17T20:00:00+01:00"
+  },
+  {
+   "id": "onyx:pokemon-turnaj-standard-mystery-challenge-2026-12-18",
+   "title": "Pokémon turnaj - Standard Mystery Challenge",
+   "game": "pokemon",
+   "storeId": "onyx",
+   "start": "2026-12-18T17:30:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "120,-"
+  },
+  {
+   "id": "onyx:lorcana-draft-2026-12-18",
+   "title": "Lorcana Draft",
+   "game": "lorcana",
+   "storeId": "onyx",
+   "start": "2026-12-18T17:30:00+01:00",
+   "url": "https://www.professoronyx.com/kalendar-akci/",
+   "price": "600,-"
   }
  ],
- "fetchedAt": "2026-11-20T20:31:19.314Z",
- "source": "onyx",
- "error": "Error: HTTP 403 for https://www.professoronyx.com/kalendar-akci/"
+ "fetchedAt": "2026-11-21T19:28:21.531Z",
+ "source": "onyx"
 }
