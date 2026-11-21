@@ -20,15 +20,6 @@
    "format": "Standard Vstupné: 250 Kč Registrace: 17:30 Začátek hraní: 18:00 Decklisty přineste na papíře, přiložte zde na stránce nebo ideálně posílejte na e-mail : decklistluziny@xzone.cz Ceny: 2 boostery Pitch Black za hráče do cen, 1 prize pack za účast v turnaji a další do cen Formát turnaje Duel Commander Modern Pauper Casual Premodern Limited Two- Headed Giant Standard Pioneer cEDH Legacy Vintage SWU - Showdown Draft SWU - Pre-release Twin Suns Constructed Multiplayer Pack Rush Expanded Unlimited Gym Leader Challenge Deskové hry Classic Constructed Silver Age Booster draft Sealed deck Living Legends Blitz Sealed PVP SWU - Weekly Planetary Qualifier Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha League Challenge Listopad Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
   },
   {
-   "id": "gameshub:xzone-praha-kompetitivni-liga-kopie-4",
-   "title": "Xzone Praha Kompetitivní Liga",
-   "game": "pokemon",
-   "storeId": "gh-xzone-praha",
-   "start": "2026-11-20T18:00:00+01:00",
-   "url": "https://games-hub.gg/turnaj/xzone-praha-kompetitivni-liga-kopie-4/",
-   "format": "Standard Vstupné: 100 Kč Registrace: od 17:30 Začátek hraní: 18:00 Ceny: 1 booster Delta Reign za hráče do cen a 1 prize pack za účast v turnaji Formát turnaje Duel Commander Modern Pauper Casual Premodern Limited Two- Headed Giant Standard Pioneer cEDH Legacy Vintage SWU - Showdown Draft SWU - Pre-release Twin Suns Constructed Multiplayer Pack Rush Expanded Unlimited Gym Leader Challenge Deskové hry Classic Constructed Silver Age Booster draft Sealed deck Living Legends Blitz Sealed PVP SWU - Weekly Planetary Qualifier Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha Kompetitivní Liga Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
-  },
-  {
    "id": "gameshub:weekly-play-xzone-praha-25-11",
    "title": "Weekly play Xzone Praha 25.11.",
    "game": "swu",
@@ -45,6 +36,6 @@
    "url": "https://games-hub.gg/turnaj/weekly-play-xzone-praha-25-11/"
   }
  },
- "fetchedAt": "2026-11-20T20:32:01.369Z",
+ "fetchedAt": "2026-11-21T07:25:20.108Z",
  "source": "gameshub"
 }
