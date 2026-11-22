@@ -2012,16 +2012,6 @@
    "price": "Free"
   },
   {
-   "id": "najada:8909",
-   "title": "Night City Showdown",
-   "game": "other",
-   "storeId": "najada",
-   "start": "2026-11-21T11:00:00+01:00",
-   "url": "https://melee.gg/Tournament/View/484833",
-   "format": "Constructed CP",
-   "price": "300 Kč"
-  },
-  {
    "id": "najada:8913",
    "title": "Commander hraní",
    "game": "mtg",
@@ -2430,26 +2420,6 @@
    "url": "https://www.najada.games/en/game-club/tournaments",
    "format": "Advanced",
    "price": "100 Kč"
-  },
-  {
-   "id": "najada:8975",
-   "title": "One Piece: The Dominance of God - Release Event - Run #1",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-11-21T10:30:00+01:00",
-   "url": "https://www.bandai-tcg-plus.com/event/7136454",
-   "format": "OP Sealed Deck",
-   "price": "700 Kč"
-  },
-  {
-   "id": "najada:8976",
-   "title": "One Piece: The Dominance of God - Release Event - Run #2",
-   "game": "onepiece",
-   "storeId": "najada",
-   "start": "2026-11-21T15:00:00+01:00",
-   "url": "https://www.bandai-tcg-plus.com/event/7136455",
-   "format": "OP Sealed Deck",
-   "price": "700 Kč"
   },
   {
    "id": "najada:8977",
@@ -4212,6 +4182,6 @@
    "price": "900 Kč"
   }
  ],
- "fetchedAt": "2026-11-21T19:28:20.463Z",
+ "fetchedAt": "2026-11-22T07:05:08.296Z",
  "source": "najada"
 }
