@@ -11,15 +11,6 @@
    "format": "Standard Vstupné: 250 Kč Registrace: 17:30 Začátek hraní: 18:00 Decklisty přineste na papíře, přiložte zde na stránce nebo ideálně posílejte na e-mail : decklistluziny@xzone.cz Ceny: 2 boostery Pitch Black za hráče do cen, 1 prize pack za účast v turnaji a další do cen Formát turnaje Duel Commander Modern Pauper Casual Premodern Limited Two- Headed Giant Standard Pioneer cEDH Legacy Vintage SWU - Showdown Draft SWU - Pre-release Twin Suns Constructed Multiplayer Pack Rush Expanded Unlimited Gym Leader Challenge Deskové hry Classic Constructed Silver Age Booster draft Sealed deck Living Legends Blitz Sealed PVP SWU - Weekly Planetary Qualifier Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha League Challenge Listopad Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
   },
   {
-   "id": "gameshub:xzone-praha-league-cup",
-   "title": "Xzone Praha League Cup",
-   "game": "pokemon",
-   "storeId": "gh-xzone-praha",
-   "start": "2026-11-22T10:30:00+01:00",
-   "url": "https://games-hub.gg/turnaj/xzone-praha-league-cup/",
-   "format": "Standard Vstupné: 400 Kč Registrace: 10:00 Začátek hraní: 10:30 Decklisty přineste na papíře nebo ideálně posílejte na e-mail : decklistluziny@xzone.cz Ceny: 3 boostery Delta Reign a 1 prize pack za hráče do cen, 1 prize pack za účast a speciální Champion podložka pro vítěze v každé kategorii. Datum a čas URL vstupenky Vstupné (Kč) Kapacita Plná kapacita Povinný decklist Turnaj je součástí ligy Obrázek turnaje (nahradit) Zrušit Uložit změny Napsat report z turnaje: Xzone Praha League Cup Titulek reportu Text reportu Zrušit Odeslat k schválení Informace o turnaji"
-  },
-  {
    "id": "gameshub:weekly-play-xzone-praha-25-11",
    "title": "Weekly play Xzone Praha 25.11.",
    "game": "swu",
@@ -36,6 +27,6 @@
    "url": "https://games-hub.gg/turnaj/weekly-play-xzone-praha-25-11/"
   }
  },
- "fetchedAt": "2026-11-22T19:50:55.072Z",
+ "fetchedAt": "2026-11-23T07:53:54.429Z",
  "source": "gameshub"
 }
