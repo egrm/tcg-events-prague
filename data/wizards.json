@@ -2,65 +2,6 @@
  "status": "ok",
  "events": [
   {
-   "id": "wizards:12100778",
-   "title": "Star Trek Commander Party",
-   "game": "mtg",
-   "storeId": "xzone",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12100778",
-   "start": "2026-11-23T16:00:00+01:00"
-  },
-  {
-   "id": "wizards:11876871",
-   "title": "Commander Evening at The Grail",
-   "game": "mtg",
-   "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11876871",
-   "start": "2026-11-23T17:00:00+01:00"
-  },
-  {
-   "id": "wizards:11963482",
-   "title": "30$ Value Vintage",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963482",
-   "start": "2026-11-23T17:15:00+01:00"
-  },
-  {
-   "id": "wizards:11963499",
-   "title": "Free Standard",
-   "game": "mtg",
-   "storeId": "cernyrytir",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963499",
-   "start": "2026-11-23T17:45:00+01:00"
-  },
-  {
-   "id": "wizards:12046910",
-   "title": "Chaos Sealed League",
-   "game": "mtg",
-   "storeId": "grail",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12046910",
-   "start": "2026-11-23T00:00:00+01:00",
-   "allDay": true
-  },
-  {
-   "id": "wizards:12246152",
-   "title": "Lorwyn for the WIN!",
-   "game": "mtg",
-   "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12246152",
-   "price": "CZK 390",
-   "start": "2026-11-23T18:00:00+01:00"
-  },
-  {
-   "id": "wizards:11782456",
-   "title": "B2B Commander Draft",
-   "game": "mtg",
-   "storeId": "alchymista",
-   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11782456",
-   "price": "CZK 400",
-   "start": "2026-11-23T22:00:00+01:00"
-  },
-  {
    "id": "wizards:12256389",
    "title": "Star Trek - Booster Draft",
    "game": "mtg",
@@ -101,6 +42,16 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963553",
    "price": "CZK 200",
+   "start": "2026-11-25T00:00:00+01:00",
+   "allDay": true
+  },
+  {
+   "id": "wizards:12352868",
+   "title": "Xzone OC Lužiny Draft - Reality Fracture",
+   "game": "mtg",
+   "storeId": "xzone",
+   "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=12352868",
+   "price": "CZK 350",
    "start": "2026-11-25T00:00:00+01:00",
    "allDay": true
   },
@@ -467,7 +418,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963555",
    "price": "CZK 200",
-   "start": "2026-12-09T17:30:00+01:00"
+   "start": "2026-12-08T18:00:00+01:00"
   },
   {
    "id": "wizards:11955048",
@@ -752,7 +703,7 @@
    "storeId": "cernyrytir",
    "url": "https://locator.wizards.com/search?searchType=magic-events&query=Prague%2C+Czechia&distance=10&page=1&eventId=11963557",
    "price": "CZK 200",
-   "start": "2026-12-22T18:00:00+01:00"
+   "start": "2026-12-23T17:30:00+01:00"
   },
   {
    "id": "wizards:11955050",
@@ -1289,6 +1240,6 @@
    "url": "https://locator.wizards.com/store/13406"
   }
  },
- "fetchedAt": "2026-11-23T07:54:06.122Z",
+ "fetchedAt": "2026-11-24T00:03:35.493Z",
  "source": "wizards"
 }

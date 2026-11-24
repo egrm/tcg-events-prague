@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "error",
  "events": [
   {
    "id": "onyx:pokemon-turnaj-standard-2026-11-23",
@@ -267,5 +267,6 @@
   }
  ],
  "fetchedAt": "2026-11-23T07:53:03.173Z",
- "source": "onyx"
+ "source": "onyx",
+ "error": "Error: HTTP 403 for https://www.professoronyx.com/kalendar-akci/"
 }
