@@ -1,5 +1,5 @@
 {
- "status": "ok",
+ "status": "suspect",
  "events": [
   {
    "id": "onyx:riftbound-nexus-night-volne-hrani-2026-11-26",
@@ -266,6 +266,7 @@
    "end": "2026-12-22T20:00:00+01:00"
   }
  ],
- "fetchedAt": "2026-11-26T08:36:08.281Z",
- "source": "onyx"
+ "fetchedAt": "2026-11-26T21:42:41.203Z",
+ "source": "onyx",
+ "note": "Got 0 events, previously 28; kept previous data"
 }
